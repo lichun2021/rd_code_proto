@@ -1,0 +1,392 @@
+option java_package	= "com.hawk.game.protocol";
+import "Reward.proto";
+
+//参与聚会活动的情形
+enum JoinPartyType
+{
+	ROOM_CREATOR  = 1; //房主
+    ROOM_JOIN     = 2; //房客
+	NO_JOIN       = 3; //未加入房间
+}
+
+//个人（未加入房间的人）看到的房间类型
+enum JoinRoomType
+{
+	INVITE      = 1; //别人向自己发出邀请的
+    FREEDOM     = 2; //可以直接进入的
+	NEED_APPLY  = 3; //需要申请的
+}
+
+//房客消耗返还类型
+enum JoinRoomComsumeBackType
+{
+	WAITING_TIMEOUT      = 1; //房间等待超时
+    NOT_APPROVED         = 2; //申请房间未通过
+	BE_KICKTOU           = 3; //被请离房间
+	LEAVE_QUEUE          = 4; //退出排队队列
+}
+
+//个人参与信息
+message PlayerPartyInfo
+{
+	required JoinPartyType type          = 1; //参与聚会活动的情形
+ 	repeated PartyRoundRewardPB reward   = 2; //作为房客加入的房间聚会结束后，还未处理的奖励（此字段不为空的情况下，后面的字段不用看了）
+	optional PartyRoomInfo partyRoom     = 3; //房间信息（作为房主或房客所在的房间信息）
+	repeated PartyRoomBriefInfo roomInfo = 4; //作为未加入房间的玩家，可供选择的房间信息
+	repeated string groupServer          = 5; //所在分组有哪些服务器
+	optional int32 queueSize             = 6; //当前有多少人在排队
+	optional int32 queueIndex            = 7; //作为未加入房间的玩家，当前所在队列位置（如果在排队的话），-1表示没有参与排队
+	
+	optional int32 createRoomCount      = 8; //当日创建房间次数
+	optional int32 joinRoomTimes        = 9; //当日参与（加入）房间次数
+	optional int32 giveupAwardTimes     = 10; //当日放弃奖励次数
+	optional int32 inviteAwardCount     = 11; //当日作为房主邀请奖励获得数量
+	optional int32 masterAwardCount     = 12; //当日作为房主获得箱子奖励数量
+	optional int32 memberAwardCount     = 13; //当日作为房客获得箱子奖励数量
+	repeated PartyShopInfoPB shopInfo   = 14; //商品购买信息
+	optional int32 recRewardTimes       = 15; //作为房客领取奖励次数
+	optional RoomMasterRewardSyncPB masterReward = 16; //房主最近一次开房顺利结束的聚会奖励（房主新开房那一刻，上一次开房的数据会被清掉）
+}
+
+//房间简要信息（未加入房间的人看到的房间信息）
+message PartyRoomBriefInfo
+{
+	required string roomdId                  = 1; //房间id
+	required int64 createTime                = 2; //房间创建时间
+	optional PartyRoomMemberInfo roomMaster  = 3; //房主信息
+	optional int32 memberCount               = 4; //成员数量
+	optional JoinRoomType type               = 5; //房间类型
+	optional int64 inviteTime                = 6; //向自己发出邀请的时间（如果是他人向自己发的邀请的那类房间）
+}
+
+//房间完整信息
+message PartyRoomInfo
+{
+	required string roomdId                   = 1; //房间id
+	required int64 createTime                 = 2; //房间创建时间
+	optional PartyRoomMemberInfo roomMaster   = 3; //房主信息
+	repeated PartyRoomMemberInfo roomMember   = 4; //房客信息
+	repeated RoomShareInfo shareTime          = 5; //最近一次分享时间
+	optional PartyRoomSelectInfo selectInfo   = 6; //房间选项设置
+	optional int32 rewardRound                = 7; //进入到第几轮抽奖了
+	optional int64 roundBeginTime             = 8; //开始聚会后进入新一轮抽奖的开始时间，为0表示还未开始聚会
+	repeated PartyRoundRewardPB reward        = 9; //奖励内容（每一轮抽奖结束进入展示期后才有数据，因为前面是不确定的）
+	optional int32 roundShow                  = 10;//是否是展示期，1是0否
+	optional int64 autoStartTime              = 11;//人满自动开启聚会情况下，人满后自动开启聚会的时间
+    optional int64 recQueuePlayerTime         = 12;//自动接受排队玩家的时间
+}
+
+//商店商品信息
+message PartyShopInfoPB
+{
+	required int32 shopId   = 1; //商品ID
+	optional int32 buyCount = 2; //对应商品已购买次数
+}
+
+// 房主邀请的人员信息
+message RoomInvitePlayerInfo
+{
+	repeated PartyRoomInviteInfo invitePlayer = 1;  //向对方发出过邀请的玩家信息 (只有房主需要知道)
+	optional int32 add  = 2; //1表示增量同步，0全量同步
+}
+
+//申请加入房间的人员信息
+message RoomJoinApplyInfo
+{
+	repeated PartyRoomMemberInfo applyPlayer  = 1;  //申请加入此房间的玩家信息 (只有房主需要知道)
+	optional int32 add  = 2; //1表示增量同步，0全量同步
+}
+
+message RoomShareInfo
+{
+	required int32 shareType         = 1; //分享类型：0-世界分享，1-联盟分享
+	optional string guildId          = 2; //联盟id（联盟分享的情况下才有值）
+	optional int64 shareTime         = 3; //最近一次分享时间
+}
+
+//房间成员信息
+message PartyRoomMemberInfo
+{
+	required string playerId     = 1; //玩家角色id
+	optional string playerName   = 2; //玩家名字
+	optional int32 vipLevel      = 3; //vip等级
+	optional int32 iconId        = 4; //头像id
+	optional string pfIcon       = 5; //平台头像
+	optional string serverId     = 6; //所属区服ID
+	optional int32 robot         = 7; //是否是机器人，1是0否
+	optional int64 power         = 8; //战力值
+	optional int32 posIndex      = 9; //已加入房间的房客成员的位置 
+    optional int32 frame         = 10; //头像框
+}
+
+//房间开启聚会后的轮次奖励信息
+message PartyRoundRewardPB
+{
+	optional int32 round         = 1; //轮次
+	optional string reward       = 2; //奖励内容
+	optional int32 rewardIndex   = 3; //房客选择的奖励序号
+	optional string playerId     = 4; //谁的奖励数据 
+}
+
+//房间选项设置
+message PartyRoomSelectInfo
+{
+	optional int32 autoStart = 1; //人满10s后自动开始聚会，1是0否
+	optional int32 joinApply = 2; //加入需申请，1是0否
+}
+
+//房主向玩家发出的邀请信息
+message PartyRoomInviteInfo
+{
+	required PartyRoomMemberInfo playerInfo = 1;
+	required int64 inviteTime               = 2; //发出邀请的时间
+}
+
+//请求创建房间
+message CreatePartyRoomReq
+{
+	required PartyRoomSelectInfo setInfo = 1;
+}
+
+//分享房间类型
+enum ShareRoomType
+{
+	TO_WORLD   = 1; //分享到世界
+    TO_GUILD   = 2; //分享到联盟
+}
+
+//分享
+message PartyRoomShareReq
+{
+	required ShareRoomType type = 1;
+}
+
+//房间设置
+message PartyRoomSelectSetReq
+{
+	required PartyRoomSelectInfo setInfo = 1;
+}
+
+//处理申请
+message DealJoinApplyReq
+{
+	required string playerId  = 1; //申请人角色id
+	required string serverId  = 2; //申请人所在区服id
+	required int32 agree      = 3; //同意或拒绝（1同意0拒绝）
+}
+
+//邀请成员
+message InviteJoinReq
+{
+	required string playerId  = 1; //对方角色id
+	required string serverId  = 2; //对方所在区服id
+}
+
+//踢出玩家
+message KickoutMemberReq
+{
+	required string playerId  = 1; //对方角色id
+}
+
+
+//离开房间的情形
+enum LeaveRoomType
+{
+	BE_KICKOUT     = 1; //被房主踢出房间
+    ROOM_DISSOVE   = 2; //房间解散自动离开房间
+}
+
+//通知玩家已离开房间
+message LeaveRoomNotifyPB
+{
+	required string roomId = 1;
+	optional LeaveRoomType type = 2;
+}
+
+//搜索玩家（准备发邀请）
+message InviteSearchReq
+{
+	required string playerName = 1; //玩家名字
+}
+
+//搜索玩家返回
+message InviteSearchResp
+{
+	optional PartyRoomMemberInfo playerInfo = 1; //搜索到的玩家信息
+}
+
+//处理邀请
+message DealInviteReq
+{
+	required string roomId = 1; //房间ID
+	required int32  agree  = 2; //同意或拒绝（1同意0拒绝）
+}
+
+//搜索房间（准备加入或申请加入）
+message SearchRoomReq
+{
+	required string roomId = 1; //房间ID
+}
+
+//搜索房间返回
+message SearchRoomResp
+{
+	optional PartyRoomBriefInfo roomInfo = 1;//搜索到的房间信息
+}
+
+//申请加入房间
+message ApplyJoinRoomReq
+{
+	required string roomId = 1; //房间ID
+	optional int32 direct  = 2; //1表示不申请直接加入，0表示按正常流程走
+}
+
+//申请加入房间返回
+message ApplyJoinRoomResp
+{
+	optional int32 result = 1; //0表示申请成功待房主处理，1表示成功加入房间
+}
+
+//参与排队
+message PlayerQueueUpResp
+{
+	required int32 total = 1; //共有多少人在排队
+	required int32 self  = 2; //自己排第几位
+}
+
+//房主开启聚会
+
+//抽奖请求
+message SelectRewardReq
+{
+	required int32 rewardIndex = 1;
+}
+
+message SelectRewardResp
+{
+	optional int32 result = 1; //0表示抽奖成功，非0表示失败
+	repeated int32 rewardIndex = 2; //已被人抽中的奖励
+}
+
+
+//聚会奖励处理（领取或放弃）
+message DealPartyRewardReq
+{
+	required int32  receive  = 1; //领取或放弃（1领取0放弃）
+}
+
+//商店购买
+message ShopBuyReq
+{
+	required int32 shopId   = 1; //商品ID
+	optional int32 buyCount = 2; //购买数量
+}
+
+
+//聚会房间历史记录（列表）
+message PartyRoomRecordListPB
+{
+	repeated PartyRoomRecordPB record = 1;
+}
+
+//聚会房间历史记录（单个）
+message PartyRoomRecordPB
+{
+	optional string roomId                    = 1; //房间id
+	optional int64 endTime                    = 2; //结束时间
+	optional string masterId                  = 3; //房主角色id
+	optional string serverId                  = 4; //房间所在区服id
+	repeated PartyRoomMemberInfo roomMember   = 5; //房客信息（房主的具体信息也在里面）
+	repeated RecordRoundRewardPB roundReward  = 6; //聚会奖励
+}
+
+//聚会房间历史记录轮次奖励
+message RecordRoundRewardPB
+{
+	optional int32 round                = 1; //轮次
+	repeated PartyRoundRewardPB reward  = 2; //奖励
+}
+
+enum PartyRoomState
+{
+	ROOM_EDN      = 1; //聚会结束了
+    ROOM_PARTY    = 2; //已开启聚会
+	ROOM_WAITING  = 3; //等待开启聚会
+}
+
+//请求房间状态
+message PartyRoomStateReq
+{
+	repeated string roomId = 1;
+}
+
+message PartyRoomStateResp
+{
+	repeated RoomStatePB roomState = 1;
+}
+
+message RoomStatePB
+{
+	optional string roomId        = 1; //房间id
+	optional PartyRoomState state = 2; //房间状态
+	optional int32 memberCount    = 3; //房客成员数量
+}
+
+
+
+//跨服转发请求
+message PartyServiceReq
+{
+	required int32 reqType = 1; //请求类型
+	optional string roomId = 2; //房间id
+	optional bytes reqData = 3; //协议体 
+}
+
+//跨服通用结构
+message CrossCommonPB
+{
+	optional string value = 1;
+}
+
+//创建房间跨服传递信息
+message CreateRoomCSPB
+{
+	optional PartyRoomInfo partyRoom     = 1; //房间信息
+	repeated string inviteMeRoom         = 2;
+	repeated string applyJoinRoom        = 3;
+}
+
+//开启聚会跨服传递信息
+message StartPartyCSPB
+{
+	repeated PartyRoundCSPB roundReward  = 1; //各个轮次的奖励
+}
+
+message PlayerRoundRewardPB
+{
+	optional string playerId  = 1;
+	repeated PartyRoundRewardPB reward  = 2; 
+}
+
+message PartyRoundCSPB
+{
+	optional int32 round         = 1; //轮次
+	repeated string initReward   = 2; //初始随机出来的12个奖励
+	repeated string masterReward = 3; //给房客随机奖励后（房主也随机一个）剩下给房主的
+	repeated PartyRoundRewardPB memberReward = 4; //给房客随机的奖励（房主也随机一个）
+}
+
+//聚会结束时给房主同步奖励
+message RoomMasterRewardSyncPB
+{
+	required string roomId        = 1; //房间id
+	repeated RewardItem reward1   = 2; //聚会奖励
+	repeated RewardItem reward2   = 3; //人气奖励
+}
+
+// 同步退出排队的时间信息
+message PlayerExitQueueSync
+{
+	optional int64 exitTime = 1; //退出排队的时间
+}
+

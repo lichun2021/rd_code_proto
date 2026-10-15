@@ -1,0 +1,240 @@
+option java_package	= "com.hawk.game.protocol";
+
+// 装扮类型
+enum DressType
+{
+	NAME_BRAND = 1; //名牌
+	DERMA 	   = 2; //皮肤
+	MARCH_DRESS= 3; //行军
+	SIGNATURE  = 4; //签名
+	PENDANT	   = 5; //挂件
+    CITY_PROTECT = 6; // "基地护卫"全新装扮
+	TITLE = 7; // 称号
+	INNER_CITY = 8; // 内城
+}
+
+
+// 单条装扮信息
+message DressSingleInfo
+{
+	required DressType dressType = 1; //装扮类型
+	required int32 modelType 	 = 2; //详细类型
+	required int64 reaminTime 	 = 3; //剩余时间
+	required bool isDress		 = 4; //是否装扮中
+	optional int32 showType      = 5; //装扮外观展示类型
+	optional int64 showRemainTime = 6; // 装扮外观展示剩余时间
+}
+
+
+// 装扮信息同步
+message HPDressInfoSync
+{
+	repeated DressSingleInfo dressSingleInfo = 1;
+	optional int32 dressTitleType = 2; // 称号显示类型
+	optional bool isGodActive = 3; //是否神话激活
+}
+
+// 请求装扮
+message HPDoDressReq
+{
+	required DressType dressType = 1; //装扮类型
+	required int32 modelType 	 = 2; //详细类型
+}
+
+// 请求卸下装扮
+message HPDoUnloadReq
+{
+	required DressType dressType = 1; //装扮类型
+}
+
+// 请求更换装扮的外观
+message HPChangeShowTypeReq
+{
+	required DressType dressType = 1; //装扮类型
+	required int32 showType 	 = 2; //外观展示类型
+}
+
+// 请求签名
+message HPDoSignatureReq
+{
+	required string signature = 1; //签名
+}
+
+message PlayerDressPlayerInfo{
+	optional string playerId = 1;
+	optional string playerName = 2;
+	optional string pfIcon = 3;
+	optional int32 level = 4;
+	optional int32 cityLevel = 5;
+	optional int64 power = 6;
+	optional string guildName = 7;
+	optional string guildTag = 8;
+	optional string guildId = 9;
+	optional int64 lastOpTime = 10;
+	optional string sendItem = 11;
+	optional int32 askDressId = 12;
+}
+
+message PlayerDressAskInfoRes{
+	repeated PlayerDressPlayerInfo sendLog = 1; // 赠送记录 按时间逆序
+	repeated PlayerDressPlayerInfo askLog = 2;  // 请求记录 按时间逆序
+}
+
+message PlayerDressAskReq{
+	optional int32 type = 1;// 类型 1好友/2盟友
+	optional int32 id = 2; //索要参数 dressId
+	optional string playerId = 3;//索要的玩家对象
+	optional string askMsg = 4; //乞讨口号
+}
+
+message PlayerDressSendReq{
+	optional int32 type = 1;// 类型 1好友/2盟友
+	optional string itemStr = 2; // 赠送什么
+	optional string destPlayerId = 3; //赠送好友或者联盟成员
+	optional string sendMsg = 4; //赠言
+}
+
+// 称号类型
+message DressTitleType {
+	required int32 type = 1; // 称号类型 默认为0
+}
+
+// 装扮赠送道具保护期信息同步
+message DressSendProtectInfoSync{
+	repeated DressSendProtectInfo info = 1; // 装扮赠送道具保护期信息
+}
+
+// 装扮赠送道具保护期信息
+message DressSendProtectInfo {
+	required int32 itemId = 1; // 装扮道具id
+	required int64 receiveTime = 2; // 装扮获取时间
+}
+
+// 装扮赠送礼包购买次数信息同步
+message DressSendGiftTimesInfoPush {
+	repeated DressSendGiftTimesInfo infos = 1; // 装扮赠送礼包购买次数信息
+}
+
+// 装扮赠送礼包购买次数信息
+message DressSendGiftTimesInfo {
+	required int32 gfitId = 1; // 礼包id
+	required int32 buyTimes = 2; // 已经购买次数
+}
+
+
+// 装扮通用成功返回
+message DressSuccessResp
+{
+	required DressType dressType = 1; //装扮类型
+	required int32 modelType 	 = 2; //详细类型
+}
+
+// 装扮购买
+message DressBuyReq
+{
+	required int32 cfgId = 1; // 配置id
+}
+
+
+
+//上线同步可编译外显参数
+message DressEditDataSync{
+	repeated DressEditData datas = 1; //可编译外显参数列表
+}
+//更新外显参数
+message DressEditDataUpdateResp{
+	repeated DressEditData datas = 1; //可编译外显参数列表
+}
+
+//可编译类型
+enum DressEditType{
+	COLLEGE_SHOW = 1;// 军事学院
+}
+
+//装扮
+message DressEditData{
+	required DressEditType type = 1; //类型
+	optional string data = 2; //参数
+}
+
+
+//天奢装扮技能数据
+message LuxurySkillDataPB
+{
+	repeated LuxurySkillPersonalData personalData = 1; //个人数据
+	repeated LuxurySkillServerData serverData     = 2; //本服数据
+}
+
+//天奢装扮个人相关数据
+message LuxurySkillPersonalData
+{
+	required int32 skillId        = 1; //技能id
+	required int64 castTime       = 2; //使用技能的时间
+	required int64 coolStartTime  = 3; //技能冷却开始时间
+}
+
+//天奢装扮区服相关数据
+message LuxurySkillServerData
+{
+	required int32 skillId  = 1;
+	repeated LuxurySkillCastData castData = 2;
+}
+
+//天奢技能使用信息
+message LuxurySkillCastData
+{
+	required string playerId   = 1; //使用技能的人
+	required string playerName = 2;
+	required int64 startTime   = 3; //技能开始生效的时间
+	required int64 endTime     = 4; //技能生效结束时间
+}
+
+//使用天奢技能请求
+message LuxurySkillCastReq
+{
+	required int32 skillId = 1;
+}
+
+//天奢装扮信息
+message LuxuryDressInfo
+{
+	optional int32 collectedDressCount = 1;  //已解锁的天奢装扮数量
+	repeated int32 rewardGotAchieve    = 2;  //已领取奖励的成就id（对应world_highend_dress_reward表的id字段）
+	repeated int32 protectShow2Type    = 3;  //天奢技能产生的护盾延长时间（倒计时）对外展示对象身份类型
+}
+
+//天奢装扮解锁成就奖励领取请求
+message LuxuryDressAchieveRewardReq
+{
+	required int32 achieveId = 1; //奖励配置id（对应world_highend_dress_reward表的id字段）
+}
+
+//天奢技能产生的护盾延长时间（倒计时）对外展示对象身份类型
+enum ProtectShow2Type
+{
+	GUARD_PLAYER = 1; //守护
+	GUILD_LEADER = 2; //联盟盟主
+	GUILD_L5     = 3; //联盟5阶成员
+	GUILD_L4     = 4; //联盟4阶成员
+}
+
+//天奢技能产生的护盾延长时间（倒计时）对外展示设置
+message LuxuyProtectShowSetReq
+{
+	repeated ProtectShow2Type show2Type = 1; //对谁展示
+}
+
+//天奢迁城特效通知
+message LuxuryMoveCityNotifyPB
+{
+	required string playerId = 1; //迁城玩家id
+	required int32 posX      = 2; //迁往目标点x
+	required int32 posY      = 3; //迁往目标点y
+	required int32 dressId   = 4; //装扮id
+}
+
+//使用天奢装扮相关道具后发送通知
+message LuxuryDressItemUseNotify
+{
+	required int32 dressId = 1; //对应world_dress_model表中的dressId字段
+}

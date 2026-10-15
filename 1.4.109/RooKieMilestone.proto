@@ -1,0 +1,28 @@
+option java_package = "com.hawk.game.protocol";
+
+//推送任务状态
+message MilestoneMissionPage
+{
+  required int32 currentChapterId = 1;//当前章节id
+  repeated MilestoneTaskData data = 3;//任务数据
+}
+
+//领奖
+message MilestoneMissionRewardReq
+{
+  optional int32 missionId = 1;//任务id
+}
+message MilestoneMissionRewardResp
+{
+  optional int32 missionId = 1;//任务id
+}
+
+
+
+//任务状态结构体
+message MilestoneTaskData
+{
+	required int32 missionId = 1;//任务Id
+	required int32 num = 2;//进度
+	required int32 state = 3;//状态0=未完成,1=可以领取,2=已领取
+}

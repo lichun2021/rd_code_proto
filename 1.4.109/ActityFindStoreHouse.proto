@@ -1,0 +1,86 @@
+option java_package	= "com.hawk.game.protocol";
+import "Reward.proto";
+import "Activity.proto";
+// 秘藏寻踪主页
+message FindStoreHousePageInfo {
+	optional int32 searchTimes = 1;    						//寻宝次数
+	optional int32 attackTreasureTimes = 2;    				//攻击军事宝箱次数
+	repeated ExchangeCallInfoPB callInfo  = 3; 				//我的交换信息
+	optional int32 sendItemTimes = 4;    					//送出碎片次数
+	optional int32 callHelpTimes = 5;    					//请求帮助次数
+	optional int32 acceptHelpTimes = 6;    					//获得赠送次数
+}
+
+//****************************************************交换碎片************************************************
+// 交换碎片信息
+message ExchangeCallInfoPB {
+	required int64 time        = 1;  //发起交换的时间
+	required int32 itemId      = 2;  //交换的道具ID
+	required string uuid       = 3;  //uuid
+	optional string playerName = 4;  //发起交换的玩家名字
+	optional int32 icon        = 5;  //发起交换的玩家头像
+	optional string pfIcon     = 6;  //发起交换的玩家平台头像
+	optional string playerId   = 7;  //交换发起者的玩家id
+	optional int32 complete    = 8;  //是否已获得帮助（1是0否）
+}
+//请求交换列表
+message ExchangeListReq
+{
+	required int32 page       = 1;  //页码
+}
+//交换请求
+message ExchangeCallReq
+{
+	required int32 itemId       = 1;  //求助的道具ID
+}
+//赠送请求
+message ExchangeSendReq
+{
+	required string uuid       = 1;  //uuid
+}
+message ExchangeSendRsp
+{
+	required string uuid       = 1;  //uuid
+}
+//交换信息响应
+message ExchangeCallInfoRsp
+{
+	repeated ExchangeCallInfoPB callInfo  = 1; //交换信息
+}
+//****************************************************占领宝藏记录************************************************
+//占领状态枚举
+enum OccupyState
+{
+	IDLE		  =	0;	// 闲置中
+	OCCUPIED  	  =	1;	// 占领中
+	FINISH_OCCUPY =	2;	// 结束占领
+}
+// 宝藏记录推送
+message OccupyTreasureInfoRsp {
+	repeated OccupyTreasureInfoPB treasureInfo  = 1; //宝藏列表
+}
+// 宝藏记录
+message OccupyTreasureInfoPB {
+	optional int64 time        		= 1;//占领时间
+	optional int32 pointId      	= 2;//占领世界点ID
+	optional int32 resourceId   	= 3;//宝藏cfgId
+	optional string ownerId   		= 4;//创建者Id
+	optional string occupyId   		= 5;//占领者Id
+	optional string occupyName  	= 6;//占领者
+	optional OccupyState status  	= 7;//占领状态
+	optional string guildId 		= 8;//占领联盟Id
+	optional int64 occupyStart 		= 9;//占领开始时间
+}
+//****************************************************新春购物指南活动************************************************
+// 新春购物指南活动界面信息
+message NewYearStorePageInfo {
+	repeated NewYearStoreCartInfo shopItem = 1;
+	repeated NewYearStoreCartInfo cartItem = 2;
+}
+message NewYearStoreCartInfoReq {
+	repeated NewYearStoreCartInfo carInfo = 1;
+}
+message NewYearStoreCartInfo {
+	required int32 shopId = 1; 					//id		
+	required int32 itemCount = 2; 				//数量
+}

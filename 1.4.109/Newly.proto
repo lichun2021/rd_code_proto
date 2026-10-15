@@ -1,0 +1,25 @@
+option java_package = "com.hawk.game.protocol";
+
+// 新手行为标识符号
+enum NewlyDataType
+{
+	COMMON_INFANTRY 	= 10;
+	COMMON_TANK 		= 20;
+	COMMON_TANK_2 				= 21;
+	COMMON_PLANE		= 30;
+	COMMON_PLANE_2		= 31;
+	IMMEDIATE_INFANTRY  = 40;
+	MONSTER_RESOURCE 	= 50;
+	VIP 				= 60;
+}
+
+message HPGenNewlyData
+{
+	required int32 type = 1;
+}
+message HPGenNewlyDataRes
+{
+	required bool success = 1;
+	optional int32 x = 2;
+	optional int32 y = 3;
+}

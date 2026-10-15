@@ -1,0 +1,35 @@
+option java_package	= "com.hawk.game.protocol";
+import "Reward.proto";
+
+// 联盟冲刺信息
+message AllianceRushInfoResp {
+	optional int32 allianceParticipateCount = 1;  // 参加冲刺的联盟成员数量
+	required int32 personalPoints = 2;  // 个人积分
+	optional int32 alliancePoints = 3;  // 联盟积分
+	optional int32 rewardedPersonalLvl = 4;  // 已经领取过的个人奖励等级
+	optional int32 rewardedAllianceLvl = 5;  // 已经领取过的联盟奖励等级
+	optional int32 rewardedUpgradeLvl = 6;  // 已经领取过的进阶奖励等级
+	required int32 curLuckyValue = 7;  // 当前幸运值
+	required int32 leftPersonalPoints = 8;  // 剩余个人积分
+	repeated AllianceRushDrawInfo drawInfo = 9; // 抽中奖池数量信息
+}
+
+// 抽中奖池数量信息
+message AllianceRushDrawInfo {
+	required int32 gachaId = 1; 					//奖池id		
+	optional int32 rewardedCount = 2; 				//数量
+}
+
+// 请求联盟冲刺转盘抽奖
+message AllianceRushPointWheelDrawReq {
+	required int32 drawCount = 1;  // 抽奖次数（实际次数）
+}
+
+// 联盟冲刺转盘抽奖结果
+message AllianceRushPointWheelDrawResp {
+	repeated int32 gachaId = 1;  // 奖池id信息
+	required int32 curLuckyValue = 2;  // 最大幸运值
+	required int32 leftPersonalPoints = 3;  // 剩余个人积分
+	repeated AllianceRushDrawInfo drawInfo = 4; // 抽中奖池数量信息
+}
+

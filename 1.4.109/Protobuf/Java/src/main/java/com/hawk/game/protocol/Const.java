@@ -20850,93 +20850,109 @@ public final class Const {
      */
     HERO_12854(1281, 12854),
     /**
+     * <code>HERO_12881 = 12881;</code>
+     */
+    HERO_12881(1282, 12881),
+    /**
+     * <code>HERO_12882 = 12882;</code>
+     */
+    HERO_12882(1283, 12882),
+    /**
+     * <code>HERO_12883 = 12883;</code>
+     */
+    HERO_12883(1284, 12883),
+    /**
+     * <code>HERO_12884 = 12884;</code>
+     */
+    HERO_12884(1285, 12884),
+    /**
      * <code>HERO_12941 = 12941;</code>
      */
-    HERO_12941(1282, 12941),
+    HERO_12941(1286, 12941),
     /**
      * <code>HERO_12942 = 12942;</code>
      */
-    HERO_12942(1283, 12942),
+    HERO_12942(1287, 12942),
     /**
      * <code>HERO_12943 = 12943;</code>
      */
-    HERO_12943(1284, 12943),
+    HERO_12943(1288, 12943),
     /**
      * <code>HERO_12944 = 12944;</code>
      */
-    HERO_12944(1285, 12944),
+    HERO_12944(1289, 12944),
     /**
      * <code>HERO_12961 = 12961;</code>
      */
-    HERO_12961(1286, 12961),
+    HERO_12961(1290, 12961),
     /**
      * <code>HERO_12962 = 12962;</code>
      */
-    HERO_12962(1287, 12962),
+    HERO_12962(1291, 12962),
     /**
      * <code>HERO_12963 = 12963;</code>
      */
-    HERO_12963(1288, 12963),
+    HERO_12963(1292, 12963),
     /**
      * <code>HERO_12964 = 12964;</code>
      */
-    HERO_12964(1289, 12964),
+    HERO_12964(1293, 12964),
     /**
      * <code>HERO_12965 = 12965;</code>
      */
-    HERO_12965(1290, 12965),
+    HERO_12965(1294, 12965),
     /**
      * <code>HERO_12966 = 12966;</code>
      */
-    HERO_12966(1291, 12966),
+    HERO_12966(1295, 12966),
     /**
      * <code>HERO_12967 = 12967;</code>
      */
-    HERO_12967(1292, 12967),
+    HERO_12967(1296, 12967),
     /**
      * <code>HERO_12968 = 12968;</code>
      */
-    HERO_12968(1293, 12968),
+    HERO_12968(1297, 12968),
     /**
      * <code>HERO_12969 = 12969;</code>
      */
-    HERO_12969(1294, 12969),
+    HERO_12969(1298, 12969),
     /**
      * <code>HERO_12970 = 12970;</code>
      */
-    HERO_12970(1295, 12970),
+    HERO_12970(1299, 12970),
     /**
      * <code>HERO_12981 = 12981;</code>
      */
-    HERO_12981(1296, 12981),
+    HERO_12981(1300, 12981),
     /**
      * <code>HERO_12991 = 12991;</code>
      */
-    HERO_12991(1297, 12991),
+    HERO_12991(1301, 12991),
     /**
      * <code>HERO_12992 = 12992;</code>
      */
-    HERO_12992(1298, 12992),
+    HERO_12992(1302, 12992),
     /**
      * <code>HERO_12993 = 12993;</code>
      */
-    HERO_12993(1299, 12993),
+    HERO_12993(1303, 12993),
     /**
      * <code>HERO_12994 = 12994;</code>
      */
-    HERO_12994(1300, 12994),
+    HERO_12994(1304, 12994),
     /**
      * <code>HERO_12995 = 12995;</code>
      */
-    HERO_12995(1301, 12995),
+    HERO_12995(1305, 12995),
     /**
      * <code>HERO_12996 = 12996;</code>
      */
-    HERO_12996(1302, 12996),
+    HERO_12996(1306, 12996),
     /**
      * <code>HERO_12997 = 12997;</code>
      */
-    HERO_12997(1303, 12997),
+    HERO_12997(1307, 12997),
     /**
      * <code>HERO_12901 = 12901;</code>
      *
@@ -20944,7 +20960,7 @@ public final class Const {
      * 猎杀行动基础伤害率
      * </pre>
      */
-    HERO_12901(1304, 12901),
+    HERO_12901(1308, 12901),
     /**
      * <code>HERO_12902 = 12902;</code>
      *
@@ -20952,7 +20968,7 @@ public final class Const {
      * 特工小队自身攻防血增加
      * </pre>
      */
-    HERO_12902(1305, 12902),
+    HERO_12902(1309, 12902),
     /**
      * <code>HERO_12903 = 12903;</code>
      *
@@ -20960,7 +20976,7 @@ public final class Const {
      * 特工小队集结己方伤害增加
      * </pre>
      */
-    HERO_12903(1306, 12903),
+    HERO_12903(1310, 12903),
     /**
      * <code>HERO_12904 = 12904;</code>
      *
@@ -20968,7 +20984,7 @@ public final class Const {
      * 特工小队集结己方受伤减少
      * </pre>
      */
-    HERO_12904(1307, 12904),
+    HERO_12904(1311, 12904),
     /**
      * <code>HERO_12905 = 12905;</code>
      *
@@ -20976,7 +20992,7 @@ public final class Const {
      * 完整建制自身攻防血增加
      * </pre>
      */
-    HERO_12905(1308, 12905),
+    HERO_12905(1312, 12905),
     /**
      * <code>HERO_12906 = 12906;</code>
      *
@@ -20984,7 +21000,7 @@ public final class Const {
      * 特工网络自身攻防血增加
      * </pre>
      */
-    HERO_12906(1309, 12906),
+    HERO_12906(1313, 12906),
     /**
      * <code>HERO_12907 = 12907;</code>
      *
@@ -20992,7 +21008,7 @@ public final class Const {
      * 特工网络自身受伤减少
      * </pre>
      */
-    HERO_12907(1310, 12907),
+    HERO_12907(1314, 12907),
     /**
      * <code>HERO_12911 = 12911;</code>
      *
@@ -21000,7 +21016,7 @@ public final class Const {
      * 自身数量最多的部队受到攻击时，伤害减少
      * </pre>
      */
-    HERO_12911(1311, 12911),
+    HERO_12911(1315, 12911),
     /**
      * <code>HERO_12921 = 12921;</code>
      *
@@ -21008,7 +21024,7 @@ public final class Const {
      * 猎杀指令伤害率额外增加
      * </pre>
      */
-    HERO_12921(1312, 12921),
+    HERO_12921(1316, 12921),
     /**
      * <code>HERO_12922 = 12922;</code>
      *
@@ -21016,7 +21032,7 @@ public final class Const {
      * 特工小队攻击防御生命额外增加
      * </pre>
      */
-    HERO_12922(1313, 12922),
+    HERO_12922(1317, 12922),
     /**
      * <code>HERO_12923 = 12923;</code>
      *
@@ -21024,7 +21040,7 @@ public final class Const {
      * 特工网络伤害减少增加
      * </pre>
      */
-    HERO_12923(1314, 12923),
+    HERO_12923(1318, 12923),
     /**
      * <code>HERO_12924 = 12924;</code>
      *
@@ -21032,7 +21048,7 @@ public final class Const {
      * 谭雅专属战技持续时间增加
      * </pre>
      */
-    HERO_12924(1315, 12924),
+    HERO_12924(1319, 12924),
     /**
      * <code>HERO_13022 = 13022;</code>
      *
@@ -21040,11 +21056,11 @@ public final class Const {
      * 受到棱镜视觉伤害时，受到伤害系数
      * </pre>
      */
-    HERO_13022(1316, 13022),
+    HERO_13022(1320, 13022),
     /**
      * <code>EFF_11070 = 11070;</code>
      */
-    EFF_11070(1317, 11070),
+    EFF_11070(1321, 11070),
     /**
      * <code>LABRORA_1201 = 1201;</code>
      *
@@ -21052,7 +21068,7 @@ public final class Const {
      *作用号【1201】效果描述：主战坦克暴击增加 作用号逻辑：类似原作用号1070 原作用号对坦克（兵种类型1和2）都生效，1201仅对主战坦克（兵种类型 = 1）生效，增加主战坦克暴击几率 作用号数值：【1201】是万分比数值  10000 =  100% 作用号公式：主战坦克实际暴击几率 =  其他暴击几率 + 【1201】 
      * </pre>
      */
-    LABRORA_1201(1318, 1201),
+    LABRORA_1201(1322, 1201),
     /**
      * <code>LABRORA_1202 = 1202;</code>
      *
@@ -21060,7 +21076,7 @@ public final class Const {
      *作用号【1202】效果描述：防御坦克受近战伤害减作用号逻辑：当防御坦克（兵种类型 =1）受到  主战坦克，防御坦克，轰炸机，采矿车（兵种类型1，2，3，8)攻击时，受到伤害减少作用号数值：【1202】是万分比数值  10000 =  100% 作用号公式：防御坦克实际受伤= 基础伤害 * （1 - 其他伤害减免 - 【1202】）
      * </pre>
      */
-    LABRORA_1202(1319, 1202),
+    LABRORA_1202(1323, 1202),
     /**
      * <code>LABRORA_1203 = 1203;</code>
      *
@@ -21068,7 +21084,7 @@ public final class Const {
      *作用号【1203】效果描述：轰炸机受远程伤害减作用号逻辑：当轰炸机（兵种类型 =3）受到  直升机，突击步兵，狙击兵，攻城车（兵种类型4，5，6，7)攻击时，受到伤害减少作用号数值：【1203】是万分比数值  10000 =  100%作用号公式：轰炸机实际受伤= 基础伤害 * （1 - 其他伤害减免 - 【1203】）
      * </pre>
      */
-    LABRORA_1203(1320, 1203),
+    LABRORA_1203(1324, 1203),
     /**
      * <code>LABRORA_1204 = 1204;</code>
      *
@@ -21076,7 +21092,7 @@ public final class Const {
      *作用号【1204】效果描述：突击步兵对近战伤害加作用号逻辑：当突击步兵（兵种类型 =5）攻击主战坦克，防御坦克，轰炸机，采矿车（兵种类型1，2，3，8)时，伤害增加作用号数值：【1204】是万分比数值  10000 =  100%作用号公式：突击步兵实际伤害 = 基础伤害* （1+其他伤害加成+【1204】）
      * </pre>
      */
-    LABRORA_1204(1321, 1204),
+    LABRORA_1204(1325, 1204),
     /**
      * <code>LABRORA_1205 = 1205;</code>
      *
@@ -21084,7 +21100,7 @@ public final class Const {
      *作用号【1205】效果描述：狙击兵受近战伤害减作用号逻辑：当狙击兵（兵种类型 =6）受到  主战坦克，防御坦克，轰炸机，采矿车（兵种类型1，2，3，8)攻击时，受到伤害减少作用号数值：【1205】是万分比数值  10000 =  100%作用号公式：狙击兵实际受伤= 基础伤害 * （1 - 其他伤害减免 - 【1205】）
      * </pre>
      */
-    LABRORA_1205(1322, 1205),
+    LABRORA_1205(1326, 1205),
     /**
      * <code>LABRORA_1206 = 1206;</code>
      *
@@ -21092,7 +21108,7 @@ public final class Const {
      *作用号【1206】效果描述：攻城车对远程伤害加作用号逻辑：当攻城车（兵种类型=7）攻击 直升机，突击步兵，狙击兵，攻城车（兵种类型4，5，6，7)时，伤害增加作用号数值：【1206】是万分比数值  10000 =  100%作用号公式：攻城车实际伤害 = 基础伤害* （1+其他伤害加成+【1206】）
      * </pre>
      */
-    LABRORA_1206(1323, 1206),
+    LABRORA_1206(1327, 1206),
     /**
      * <code>LABRORA_1207 = 1207;</code>
      *
@@ -21100,7 +21116,7 @@ public final class Const {
      *作用号【1207】效果描述：集结时采矿车防御增加作用号逻辑：当采矿车（兵种类型=8）参与集结作战时，防御增加作用号数值：【1207】是万分比数值  10000 =  100%作用号公式：攻城车实际防御 = 基础防御* （1+其他防御加成+【1207】）
      * </pre>
      */
-    LABRORA_1207(1324, 1207),
+    LABRORA_1207(1328, 1207),
     /**
      * <code>TBLY_EFF_1701 = 1701;</code>
      *
@@ -21108,7 +21124,7 @@ public final class Const {
      * 【1701】【万分比】【泰伯利亚副本内】进攻战斗时，主战坦克（类型 = 2）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1701(1325, 1701),
+    TBLY_EFF_1701(1329, 1701),
     /**
      * <code>TBLY_EFF_1702 = 1702;</code>
      *
@@ -21116,7 +21132,7 @@ public final class Const {
      * 【1702】【万分比】【泰伯利亚副本内】进攻战斗时，防御坦克（类型 = 1）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1702(1326, 1702),
+    TBLY_EFF_1702(1330, 1702),
     /**
      * <code>TBLY_EFF_1703 = 1703;</code>
      *
@@ -21124,7 +21140,7 @@ public final class Const {
      * 【1703】【万分比】【泰伯利亚副本内】进攻战斗时，直升机（类型 = 4）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1703(1327, 1703),
+    TBLY_EFF_1703(1331, 1703),
     /**
      * <code>TBLY_EFF_1704 = 1704;</code>
      *
@@ -21132,7 +21148,7 @@ public final class Const {
      * 【1704】【万分比】【泰伯利亚副本内】进攻战斗时，轰炸机（类型 = 3）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1704(1328, 1704),
+    TBLY_EFF_1704(1332, 1704),
     /**
      * <code>TBLY_EFF_1705 = 1705;</code>
      *
@@ -21140,7 +21156,7 @@ public final class Const {
      * 【1705】【万分比】【泰伯利亚副本内】进攻战斗时，狙击兵（类型 = 6）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1705(1329, 1705),
+    TBLY_EFF_1705(1333, 1705),
     /**
      * <code>TBLY_EFF_1706 = 1706;</code>
      *
@@ -21148,7 +21164,7 @@ public final class Const {
      * 【1706】【万分比】【泰伯利亚副本内】进攻战斗时，突击步兵（类型 = 5）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1706(1330, 1706),
+    TBLY_EFF_1706(1334, 1706),
     /**
      * <code>TBLY_EFF_1707 = 1707;</code>
      *
@@ -21156,7 +21172,7 @@ public final class Const {
      * 【1707】【万分比】【泰伯利亚副本内】进攻战斗时，采矿车（类型 = 8）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1707(1331, 1707),
+    TBLY_EFF_1707(1335, 1707),
     /**
      * <code>TBLY_EFF_1708 = 1708;</code>
      *
@@ -21164,7 +21180,7 @@ public final class Const {
      * 【1708】【万分比】【泰伯利亚副本内】进攻战斗时，攻城车（类型 = 7）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1708(1332, 1708),
+    TBLY_EFF_1708(1336, 1708),
     /**
      * <code>TBLY_EFF_1709 = 1709;</code>
      *
@@ -21172,7 +21188,7 @@ public final class Const {
      * 【1709】【万分比】【泰伯利亚副本内】防守战斗时，主战坦克（类型 = 2）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1709(1333, 1709),
+    TBLY_EFF_1709(1337, 1709),
     /**
      * <code>TBLY_EFF_1710 = 1710;</code>
      *
@@ -21180,7 +21196,7 @@ public final class Const {
      * 【1710】【万分比】【泰伯利亚副本内】防守战斗时，防御坦克（类型 = 1）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1710(1334, 1710),
+    TBLY_EFF_1710(1338, 1710),
     /**
      * <code>TBLY_EFF_1711 = 1711;</code>
      *
@@ -21188,7 +21204,7 @@ public final class Const {
      * 【1711】【万分比】【泰伯利亚副本内】防守战斗时，直升机（类型 = 4）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1711(1335, 1711),
+    TBLY_EFF_1711(1339, 1711),
     /**
      * <code>TBLY_EFF_1712 = 1712;</code>
      *
@@ -21196,7 +21212,7 @@ public final class Const {
      * 【1712】【万分比】【泰伯利亚副本内】防守战斗时，轰炸机（类型 = 3）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1712(1336, 1712),
+    TBLY_EFF_1712(1340, 1712),
     /**
      * <code>TBLY_EFF_1713 = 1713;</code>
      *
@@ -21204,7 +21220,7 @@ public final class Const {
      * 【1713】【万分比】【泰伯利亚副本内】防守战斗时，狙击兵（类型 = 6）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1713(1337, 1713),
+    TBLY_EFF_1713(1341, 1713),
     /**
      * <code>TBLY_EFF_1714 = 1714;</code>
      *
@@ -21212,7 +21228,7 @@ public final class Const {
      * 【1714】【万分比】【泰伯利亚副本内】防守战斗时，突击步兵（类型 = 5）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1714(1338, 1714),
+    TBLY_EFF_1714(1342, 1714),
     /**
      * <code>TBLY_EFF_1715 = 1715;</code>
      *
@@ -21220,7 +21236,7 @@ public final class Const {
      * 【1715】【万分比】【泰伯利亚副本内】防守战斗时，采矿车（类型 = 8）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1715(1339, 1715),
+    TBLY_EFF_1715(1343, 1715),
     /**
      * <code>TBLY_EFF_1716 = 1716;</code>
      *
@@ -21228,7 +21244,7 @@ public final class Const {
      * 【1716】【万分比】【泰伯利亚副本内】防守战斗时，攻城车（类型 = 7）外围攻击/防御/生命增加
      * </pre>
      */
-    TBLY_EFF_1716(1340, 1716),
+    TBLY_EFF_1716(1344, 1716),
     /**
      * <code>TBLY_EFF_1717 = 1717;</code>
      *
@@ -21237,7 +21253,7 @@ public final class Const {
      *注：上述【1701~1716】作用号计算方式均为最外层加成。即实际属性 = 基础属性 * （1 + 常规各类作用号加成）*（1 + 本次新增作用号加成）
      * </pre>
      */
-    TBLY_EFF_1717(1341, 1717),
+    TBLY_EFF_1717(1345, 1717),
     /**
      * <code>TBLY_EFF_1718 = 1718;</code>
      *
@@ -21245,7 +21261,7 @@ public final class Const {
      * 【1718】【万分比】【泰伯利亚副本内】采集泰伯矿点速度增加     注：实际采集速度 = 配置基础速度 * （1 + 采矿速度增加）     注：泰伯矿与世界上的资源矿实现方式不同，每次tick周期下均会实际采集速度
      * </pre>
      */
-    TBLY_EFF_1718(1342, 1718),
+    TBLY_EFF_1718(1346, 1718),
     /**
      * <code>TBLY_EFF_1719 = 1719;</code>
      *
@@ -21253,7 +21269,7 @@ public final class Const {
      * 	在泰伯矿点战斗时，部队基础攻击增加	1719
      * </pre>
      */
-    TBLY_EFF_1719(1343, 1719),
+    TBLY_EFF_1719(1347, 1719),
     /**
      * <code>TBLY_EFF_1720 = 1720;</code>
      *
@@ -21261,7 +21277,7 @@ public final class Const {
      * 在泰伯矿点战斗时，部队基础防御增加	1720
      * </pre>
      */
-    TBLY_EFF_1720(1344, 1720),
+    TBLY_EFF_1720(1348, 1720),
     /**
      * <code>TBLY_EFF_1721 = 1721;</code>
      *
@@ -21269,7 +21285,7 @@ public final class Const {
      * 在泰伯矿点战斗时，部队基础生命增加	1721
      * </pre>
      */
-    TBLY_EFF_1721(1345, 1721),
+    TBLY_EFF_1721(1349, 1721),
     /**
      * <code>DYZZ_9001 = 9001;</code>
      *
@@ -21277,7 +21293,7 @@ public final class Const {
      *商品buff	【9001】【万分比】【5V5副本内】占领建筑所需时间减少		注：实际占领时间 = 配置基础时间/（1 + 占领加速增加）*（1 - 本作用值/10000）；（向下取整，不得低于0）		注：在攻占建筑时判定作用值效果，计算出本次占领所需时长。作用号数值变化不影响已处于占领中的建筑的剩余时长		
      * </pre>
      */
-    DYZZ_9001(1346, 9001),
+    DYZZ_9001(1350, 9001),
     /**
      * <code>DYZZ_9002 = 9002;</code>
      *
@@ -21285,7 +21301,7 @@ public final class Const {
      *商品buff	【9002】【万分比】【5V5副本内】采集陨晶矿速度增加		注：实际采集速度 = 配置基础速度 * （1 + 采矿速度增加）		注：陨晶矿采集速度每分钟增加，即基础速度增加					
      * </pre>
      */
-    DYZZ_9002(1347, 9002),
+    DYZZ_9002(1351, 9002),
     /**
      * <code>DYZZ_9003 = 9003;</code>
      *
@@ -21293,7 +21309,7 @@ public final class Const {
      *商品buff	【9003】【万分比】【5V5副本内】发起集结所需时间减少		实际时间 = 基础时间 * （1 -作用值/10000）					
      * </pre>
      */
-    DYZZ_9003(1348, 9003),
+    DYZZ_9003(1352, 9003),
     /**
      * <code>DYZZ_9004 = 9004;</code>
      *
@@ -21301,7 +21317,7 @@ public final class Const {
      *商品buff	【9004】【万分比】【5V5副本内】所有部队攻击增加	显示	合并至攻击
      * </pre>
      */
-    DYZZ_9004(1349, 9004),
+    DYZZ_9004(1353, 9004),
     /**
      * <code>DYZZ_9005 = 9005;</code>
      *
@@ -21309,7 +21325,7 @@ public final class Const {
      *商品buff	【9005】【万分比】【5V5副本内】所有部队防御增加	显示	合并至防御
      * </pre>
      */
-    DYZZ_9005(1350, 9005),
+    DYZZ_9005(1354, 9005),
     /**
      * <code>DYZZ_9006 = 9006;</code>
      *
@@ -21317,7 +21333,7 @@ public final class Const {
      *商品buff	【9006】【万分比】【5V5副本内】所有部队生命增加	显示	合并至生命
      * </pre>
      */
-    DYZZ_9006(1351, 9006),
+    DYZZ_9006(1355, 9006),
     /**
      * <code>DYZZ_9007 = 9007;</code>
      *
@@ -21325,7 +21341,7 @@ public final class Const {
      *商品buff	【9007】【万分比】【5V5副本内】所有部队造成的伤害增加	显示	合并至伤害增加
      * </pre>
      */
-    DYZZ_9007(1352, 9007),
+    DYZZ_9007(1356, 9007),
     /**
      * <code>DYZZ_9008 = 9008;</code>
      *
@@ -21333,7 +21349,7 @@ public final class Const {
      *商品buff	【9008】【万分比】【5V5副本内】所有部队受到的伤害减少	显示	合并至伤害减少			
      * </pre>
      */
-    DYZZ_9008(1353, 9008),
+    DYZZ_9008(1357, 9008),
     /**
      * <code>DYZZ_9009 = 9009;</code>
      *
@@ -21341,7 +21357,7 @@ public final class Const {
      *商品buff	【9009】【万分比】【5V5副本内】单支部队出征上限增加		注：出征部队数 =部队出征配置基础值*（1 + 作用值【9009】/10000）					
      * </pre>
      */
-    DYZZ_9009(1354, 9009),
+    DYZZ_9009(1358, 9009),
     /**
      * <code>DYZZ_9010 = 9010;</code>
      *
@@ -21349,7 +21365,7 @@ public final class Const {
      *副本基础加成	【9010】【万分比】【5V5副本内】所有部队攻击增加	显示	合并至攻击
      * </pre>
      */
-    DYZZ_9010(1355, 9010),
+    DYZZ_9010(1359, 9010),
     /**
      * <code>DYZZ_9011 = 9011;</code>
      *
@@ -21357,7 +21373,7 @@ public final class Const {
      *副本基础加成	【9011】【万分比】【5V5副本内】所有部队防御增加	显示	合并至防御
      * </pre>
      */
-    DYZZ_9011(1356, 9011),
+    DYZZ_9011(1360, 9011),
     /**
      * <code>DYZZ_9012 = 9012;</code>
      *
@@ -21365,7 +21381,7 @@ public final class Const {
      *副本基础加成	【9012】【万分比】【5V5副本内】所有部队生命增加	显示	合并至生命		
      * </pre>
      */
-    DYZZ_9012(1357, 9012),
+    DYZZ_9012(1361, 9012),
     /**
      * <code>DYZZ_9013 = 9013;</code>
      *
@@ -21373,7 +21389,7 @@ public final class Const {
      *【9013】【万分比】【5V5副本内】我方部队在我方初始归属防御塔战斗时造成的伤害增加	显示	合并至伤害增加
      * </pre>
      */
-    DYZZ_9013(1358, 9013),
+    DYZZ_9013(1362, 9013),
     /**
      * <code>DYZZ_9014 = 9014;</code>
      *
@@ -21381,7 +21397,7 @@ public final class Const {
      *【9014】【万分比】【5V5副本内】我方部队在我方区域战斗时受到的伤害减少	显示	合并至伤害减少
      * </pre>
      */
-    DYZZ_9014(1359, 9014),
+    DYZZ_9014(1363, 9014),
     /**
      * <code>DYZZ_9015 = 9015;</code>
      *
@@ -21389,7 +21405,7 @@ public final class Const {
      *	9015_0_1000_600_6000	9015	【单位/万分比/万分比】团队每拥有陨晶矿数量a，提升伤害b，至多提升N 注:提升伤害值=min（N，（我方团队拥有陨晶矿数量/a）*b）	注:我方造成伤害 = 基础伤害 * （1 + 伤害加成作用值/10000 - 敌方伤害减少作用值/10000）																		注:对所有兵种均生效																	
      * </pre>
      */
-    DYZZ_9015(1360, 9015),
+    DYZZ_9015(1364, 9015),
     /**
      * <code>DYZZ_9016 = 9016;</code>
      *
@@ -21397,7 +21413,7 @@ public final class Const {
      *	9016_0_7500_75000	9016	【万分比/万分比】每分钟部队攻击力提升M（风暴聚集），至多提升N																	
      * </pre>
      */
-    DYZZ_9016(1361, 9016),
+    DYZZ_9016(1365, 9016),
     /**
      * <code>DYZZ_9017 = 9017;</code>
      *
@@ -21405,7 +21421,7 @@ public final class Const {
      *	9017_0_7500_75000	9017	【万分比/万分比】每分钟部队防御力提升M（风暴聚集），至多提升N																	
      * </pre>
      */
-    DYZZ_9017(1362, 9017),
+    DYZZ_9017(1366, 9017),
     /**
      * <code>DYZZ_9018 = 9018;</code>
      *
@@ -21413,7 +21429,7 @@ public final class Const {
      *	9018_0_7500_75000	9018	【万分比/万分比】每分钟部队生命力提升M（风暴聚集），至多提升N	注：玩家获得此作用号后，获得属性加成=min（N，游戏进行时长*M） 注：此加成对所有兵种生效	 注：实际攻击 = 基础攻击 * （1 + 作用值/10000） 	实际防御 = 基础防御 * （1 + 作用值/10000）	实际生命= 基础生命 * （1 + 作用值/10000）																	
      * </pre>
      */
-    DYZZ_9018(1363, 9018),
+    DYZZ_9018(1367, 9018),
     /**
      * <code>DYZZ_9019 = 9019;</code>
      *
@@ -21421,7 +21437,7 @@ public final class Const {
      *	9019_0_100000_15000_100000_7500_75000	9019	【万分比】每消灭/重伤对方N士兵，攻击力提升N%；每阵亡/重伤N士兵，攻击力下降N%，至多提升N																	
      * </pre>
      */
-    DYZZ_9019(1364, 9019),
+    DYZZ_9019(1368, 9019),
     /**
      * <code>DYZZ_9020 = 9020;</code>
      *
@@ -21429,7 +21445,7 @@ public final class Const {
      *	9020	【万分比】每消灭/重伤对方N士兵，防御力提升N%；每阵亡/重伤N士兵，防御力下降N%，至多提升N																	
      * </pre>
      */
-    DYZZ_9020(1365, 9020),
+    DYZZ_9020(1369, 9020),
     /**
      * <code>DYZZ_9021 = 9021;</code>
      *
@@ -21437,7 +21453,7 @@ public final class Const {
      *	9021	【万分比】每消灭/重伤对方N士兵，生命力提升N%；每阵亡/重伤N士兵，生命力下降N%，至多提升N																																																					
      * </pre>
      */
-    DYZZ_9021(1366, 9021),
+    DYZZ_9021(1370, 9021),
     /**
      * <code>DYZZ_9022 = 9022;</code>
      *
@@ -21445,7 +21461,7 @@ public final class Const {
      *	9022	【万分比】我方部队在防御外塔发生战斗时，攻击力提升N%																	
      * </pre>
      */
-    DYZZ_9022(1367, 9022),
+    DYZZ_9022(1371, 9022),
     /**
      * <code>DYZZ_9023 = 9023;</code>
      *
@@ -21453,7 +21469,7 @@ public final class Const {
      *	9023	【万分比】我方部队在防御外塔发生战斗时，防御力提升N%	9015																
      * </pre>
      */
-    DYZZ_9023(1368, 9023),
+    DYZZ_9023(1372, 9023),
     /**
      * <code>DYZZ_9024 = 9024;</code>
      *
@@ -21461,7 +21477,7 @@ public final class Const {
      *	9024	【万分比】我方部队在防御外塔发生战斗时，生命力提升N%																	
      * </pre>
      */
-    DYZZ_9024(1369, 9024),
+    DYZZ_9024(1373, 9024),
     /**
      * <code>DYZZ_9025 = 9025;</code>
      *
@@ -21469,7 +21485,7 @@ public final class Const {
      *	9025	【万分比】我方部队在防御内塔发生战斗时，攻击力提升N%																	
      * </pre>
      */
-    DYZZ_9025(1370, 9025),
+    DYZZ_9025(1374, 9025),
     /**
      * <code>DYZZ_9026 = 9026;</code>
      *
@@ -21477,7 +21493,7 @@ public final class Const {
      *	9026	【万分比】我方部队在防御内塔发生战斗时，防御力提升N%																	
      * </pre>
      */
-    DYZZ_9026(1371, 9026),
+    DYZZ_9026(1375, 9026),
     /**
      * <code>DYZZ_9027 = 9027;</code>
      *
@@ -21485,7 +21501,7 @@ public final class Const {
      *	9027	【万分比】我方部队在防御内塔发生战斗时，生命力提升N%																	
      * </pre>
      */
-    DYZZ_9027(1372, 9027),
+    DYZZ_9027(1376, 9027),
     /**
      * <code>DYZZ_9028 = 9028;</code>
      *
@@ -21493,7 +21509,7 @@ public final class Const {
      *	9028	【万分比】我方部队在陨晶矿发生战斗时，攻击力提升N%																	
      * </pre>
      */
-    DYZZ_9028(1373, 9028),
+    DYZZ_9028(1377, 9028),
     /**
      * <code>DYZZ_9029 = 9029;</code>
      *
@@ -21501,7 +21517,7 @@ public final class Const {
      *	9029	【万分比】我方部队在陨晶矿发生战斗时，防御力提升N%																	
      * </pre>
      */
-    DYZZ_9029(1374, 9029),
+    DYZZ_9029(1378, 9029),
     /**
      * <code>DYZZ_9030 = 9030;</code>
      *
@@ -21509,7 +21525,7 @@ public final class Const {
      *	9030	【万分比】我方部队在陨晶矿发生战斗时，生命力提升N%																	
      * </pre>
      */
-    DYZZ_9030(1375, 9030),
+    DYZZ_9030(1379, 9030),
     /**
      * <code>DYZZ_9031 = 9031;</code>
      *
@@ -21517,7 +21533,7 @@ public final class Const {
      *	9031	【万分比】我方部队在能源井发生战斗时，攻击力提升N%																	
      * </pre>
      */
-    DYZZ_9031(1376, 9031),
+    DYZZ_9031(1380, 9031),
     /**
      * <code>DYZZ_9032 = 9032;</code>
      *
@@ -21525,7 +21541,7 @@ public final class Const {
      *	9032	【万分比】我方部队在能源井发生战斗时，防御力提升N%																	
      * </pre>
      */
-    DYZZ_9032(1377, 9032),
+    DYZZ_9032(1381, 9032),
     /**
      * <code>DYZZ_9033 = 9033;</code>
      *
@@ -21533,7 +21549,7 @@ public final class Const {
      *	9033	【万分比】我方部队在能源井发生战斗时，生命力提升N%																															
      * </pre>
      */
-    DYZZ_9033(1378, 9033),
+    DYZZ_9033(1382, 9033),
     /**
      * <code>DYZZ_9034 = 9034;</code>
      *
@@ -21541,7 +21557,7 @@ public final class Const {
      *	9034	【万分比】所有防御坦克受到伤害减少；	1																															
      * </pre>
      */
-    DYZZ_9034(1379, 9034),
+    DYZZ_9034(1383, 9034),
     /**
      * <code>DYZZ_9035 = 9035;</code>
      *
@@ -21549,7 +21565,7 @@ public final class Const {
      *	9035	【万分比】所有主战坦克受到伤害减少；	2																
      * </pre>
      */
-    DYZZ_9035(1380, 9035),
+    DYZZ_9035(1384, 9035),
     /**
      * <code>DYZZ_9036 = 9036;</code>
      *
@@ -21557,7 +21573,7 @@ public final class Const {
      *	9036	【万分比】所有轰炸机受到伤害减少；	3																
      * </pre>
      */
-    DYZZ_9036(1381, 9036),
+    DYZZ_9036(1385, 9036),
     /**
      * <code>DYZZ_9037 = 9037;</code>
      *
@@ -21565,7 +21581,7 @@ public final class Const {
      *	9037	【万分比】所有直升机受到伤害减少	4																
      * </pre>
      */
-    DYZZ_9037(1382, 9037),
+    DYZZ_9037(1386, 9037),
     /**
      * <code>DYZZ_9038 = 9038;</code>
      *
@@ -21573,7 +21589,7 @@ public final class Const {
      *	9038	【万分比】所有突击步兵受到伤害减少	5																
      * </pre>
      */
-    DYZZ_9038(1383, 9038),
+    DYZZ_9038(1387, 9038),
     /**
      * <code>DYZZ_9039 = 9039;</code>
      *
@@ -21581,7 +21597,7 @@ public final class Const {
      *	9039	【万分比】所有狙击手受到伤害减少	6																
      * </pre>
      */
-    DYZZ_9039(1384, 9039),
+    DYZZ_9039(1388, 9039),
     /**
      * <code>DYZZ_9040 = 9040;</code>
      *
@@ -21589,7 +21605,7 @@ public final class Const {
      *	9040	【万分比】所有采矿车受到伤害减少	8																
      * </pre>
      */
-    DYZZ_9040(1385, 9040),
+    DYZZ_9040(1389, 9040),
     /**
      * <code>DYZZ_9041 = 9041;</code>
      *
@@ -21597,7 +21613,7 @@ public final class Const {
      *	9041	【万分比】所有攻城车受到伤害减少	7																																		
      * </pre>
      */
-    DYZZ_9041(1386, 9041),
+    DYZZ_9041(1390, 9041),
     /**
      * <code>DYZZ_9045 = 9045;</code>
      *
@@ -21605,7 +21621,7 @@ public final class Const {
      *	9045	【万分比】近战攻击提升																	
      * </pre>
      */
-    DYZZ_9045(1387, 9045),
+    DYZZ_9045(1391, 9045),
     /**
      * <code>DYZZ_9046 = 9046;</code>
      *
@@ -21613,7 +21629,7 @@ public final class Const {
      *	9046	【万分比】近战防御提升																	
      * </pre>
      */
-    DYZZ_9046(1388, 9046),
+    DYZZ_9046(1392, 9046),
     /**
      * <code>DYZZ_9047 = 9047;</code>
      *
@@ -21621,7 +21637,7 @@ public final class Const {
      *	9047	【万分比】近战生命提升																																			
      * </pre>
      */
-    DYZZ_9047(1389, 9047),
+    DYZZ_9047(1393, 9047),
     /**
      * <code>DYZZ_9048 = 9048;</code>
      *
@@ -21629,7 +21645,7 @@ public final class Const {
      *	9048	【万分比】远程攻击提升																	
      * </pre>
      */
-    DYZZ_9048(1390, 9048),
+    DYZZ_9048(1394, 9048),
     /**
      * <code>DYZZ_9049 = 9049;</code>
      *
@@ -21637,7 +21653,7 @@ public final class Const {
      *	9049	【万分比】远程防御提升																	
      * </pre>
      */
-    DYZZ_9049(1391, 9049),
+    DYZZ_9049(1395, 9049),
     /**
      * <code>DYZZ_9050 = 9050;</code>
      *
@@ -21645,7 +21661,7 @@ public final class Const {
      *	9050	【万分比】远程生命提升
      * </pre>
      */
-    DYZZ_9050(1392, 9050),
+    DYZZ_9050(1396, 9050),
     /**
      * <code>CROSS_SELF_SCORE_REWARD_DOUBLE = 3001;</code>
      *
@@ -21653,7 +21669,7 @@ public final class Const {
      *【绝对值】跨服活动个人积分的宝箱奖励内容双倍
      * </pre>
      */
-    CROSS_SELF_SCORE_REWARD_DOUBLE(1393, 3001),
+    CROSS_SELF_SCORE_REWARD_DOUBLE(1397, 3001),
     /**
      * <code>CROSS_MONSTER_SCORE_ADD = 3002;</code>
      *
@@ -21661,7 +21677,7 @@ public final class Const {
      *【万分比】跨服活动打怪时个人积分增加
      * </pre>
      */
-    CROSS_MONSTER_SCORE_ADD(1394, 3002),
+    CROSS_MONSTER_SCORE_ADD(1398, 3002),
     /**
      * <code>CROSS_RES_COLLECT_SCORE_ADD = 3003;</code>
      *
@@ -21669,7 +21685,7 @@ public final class Const {
      *【万分比】跨服活动采集时个人积分增加
      * </pre>
      */
-    CROSS_RES_COLLECT_SCORE_ADD(1395, 3003),
+    CROSS_RES_COLLECT_SCORE_ADD(1399, 3003),
     /**
      * <code>CROSS_ARMY_KILL_SCORE_ADD = 3004;</code>
      *
@@ -21677,7 +21693,7 @@ public final class Const {
      *【万分比】跨服活动杀敌时个人积分增加
      * </pre>
      */
-    CROSS_ARMY_KILL_SCORE_ADD(1396, 3004),
+    CROSS_ARMY_KILL_SCORE_ADD(1400, 3004),
     /**
      * <code>CROSS_STRONGPOINT_SCORE_ADD = 3005;</code>
      *
@@ -21685,7 +21701,7 @@ public final class Const {
      *【万分比】跨服活动成功占领幽灵兵营时个人积分增加
      * </pre>
      */
-    CROSS_STRONGPOINT_SCORE_ADD(1397, 3005),
+    CROSS_STRONGPOINT_SCORE_ADD(1401, 3005),
     /**
      * <code>CROSS_SELF_TASK_REWARD_DOUBLE = 3006;</code>
      *
@@ -21693,7 +21709,7 @@ public final class Const {
      *【绝对值】跨服活动个人任务的奖励内容双倍
      * </pre>
      */
-    CROSS_SELF_TASK_REWARD_DOUBLE(1398, 3006),
+    CROSS_SELF_TASK_REWARD_DOUBLE(1402, 3006),
     /**
      * <code>GUILD_DONATE_SPEED = 3007;</code>
      *
@@ -21701,7 +21717,7 @@ public final class Const {
      *【万分比】联盟捐献CD加速 注：实际捐献CD = 基础CD/（1+ 加速比率）【以秒为单位向上取整】
      * </pre>
      */
-    GUILD_DONATE_SPEED(1399, 3007),
+    GUILD_DONATE_SPEED(1403, 3007),
     /**
      * <code>GUILD_HELP_CNT_ADD = 3008;</code>
      *
@@ -21709,7 +21725,7 @@ public final class Const {
      *【绝对值】联盟帮助次数增加 注：实际次数 = 联盟大厦基础次数 + 作用号增加值
      * </pre>
      */
-    GUILD_HELP_CNT_ADD(1400, 3008),
+    GUILD_HELP_CNT_ADD(1404, 3008),
     /**
      * <code>GUILD_GIFT_REWARD_DOUBLE = 3009;</code>
      *
@@ -21717,7 +21733,7 @@ public final class Const {
      *【绝对值】领取联盟礼物时奖励内容双倍
      * </pre>
      */
-    GUILD_GIFT_REWARD_DOUBLE(1401, 3009),
+    GUILD_GIFT_REWARD_DOUBLE(1405, 3009),
     /**
      * <code>CROSS_GUILD_SCORE_REWARD_DOUBLE = 3010;</code>
      *
@@ -21725,7 +21741,7 @@ public final class Const {
      *【绝对值】跨服活动联盟积分的宝箱奖励内容双倍
      * </pre>
      */
-    CROSS_GUILD_SCORE_REWARD_DOUBLE(1402, 3010),
+    CROSS_GUILD_SCORE_REWARD_DOUBLE(1406, 3010),
     /**
      * <code>CROSS_TECH_EFF_3013 = 3013;</code>
      *
@@ -21733,7 +21749,7 @@ public final class Const {
      * 解锁航海远征个人积分高阶档位
      * </pre>
      */
-    CROSS_TECH_EFF_3013(1403, 3013),
+    CROSS_TECH_EFF_3013(1407, 3013),
     /**
      * <code>CROSS_TECH_EFF_3014 = 3014;</code>
      *
@@ -21741,7 +21757,7 @@ public final class Const {
      * 解锁航海远征联盟积分高阶档位
      * </pre>
      */
-    CROSS_TECH_EFF_3014(1404, 3014),
+    CROSS_TECH_EFF_3014(1408, 3014),
     /**
      * <code>CROSS_TECH_EFF_3015 = 3015;</code>
      *
@@ -21749,7 +21765,7 @@ public final class Const {
      * 航海远征最终服务器排名奖励双倍
      * </pre>
      */
-    CROSS_TECH_EFF_3015(1405, 3015),
+    CROSS_TECH_EFF_3015(1409, 3015),
     /**
      * <code>CROSS_TECH_EFF_3016 = 3016;</code>
      *
@@ -21757,7 +21773,7 @@ public final class Const {
      * 航海远征占领能量他
      * </pre>
      */
-    CROSS_TECH_EFF_3016(1406, 3016),
+    CROSS_TECH_EFF_3016(1410, 3016),
     /**
      * <code>CROSS_3012 = 3012;</code>
      *
@@ -21765,7 +21781,7 @@ public final class Const {
      * 【万分比】本服世界范围内，所有世界资源点容量增加
      * </pre>
      */
-    CROSS_3012(1407, 3012),
+    CROSS_3012(1411, 3012),
     /**
      * <code>TRAIN_COUNT_TYPE2_ADD_NUM = 4001;</code>
      *
@@ -21773,7 +21789,7 @@ public final class Const {
      * 主战坦克训练数量单次训练数量增加，绝对值
      * </pre>
      */
-    TRAIN_COUNT_TYPE2_ADD_NUM(1408, 4001),
+    TRAIN_COUNT_TYPE2_ADD_NUM(1412, 4001),
     /**
      * <code>TRAIN_COUNT_TYPE1_ADD_NUM = 4002;</code>
      *
@@ -21781,7 +21797,7 @@ public final class Const {
      * 装甲坦克训练数量单次训练数量增加，绝对值
      * </pre>
      */
-    TRAIN_COUNT_TYPE1_ADD_NUM(1409, 4002),
+    TRAIN_COUNT_TYPE1_ADD_NUM(1413, 4002),
     /**
      * <code>TRAIN_COUNT_TYPE3_ADD_NUM = 4003;</code>
      *
@@ -21789,7 +21805,7 @@ public final class Const {
      * 轰炸机训练数量单次训练数量增加，绝对值
      * </pre>
      */
-    TRAIN_COUNT_TYPE3_ADD_NUM(1410, 4003),
+    TRAIN_COUNT_TYPE3_ADD_NUM(1414, 4003),
     /**
      * <code>TRAIN_COUNT_TYPE4_ADD_NUM = 4004;</code>
      *
@@ -21797,7 +21813,7 @@ public final class Const {
      * 直升机训练数量单次训练数量增加，绝对值
      * </pre>
      */
-    TRAIN_COUNT_TYPE4_ADD_NUM(1411, 4004),
+    TRAIN_COUNT_TYPE4_ADD_NUM(1415, 4004),
     /**
      * <code>TRAIN_COUNT_TYPE5_ADD_NUM = 4005;</code>
      *
@@ -21805,7 +21821,7 @@ public final class Const {
      * 特种兵训练数量单次训练数量增加，绝对值
      * </pre>
      */
-    TRAIN_COUNT_TYPE5_ADD_NUM(1412, 4005),
+    TRAIN_COUNT_TYPE5_ADD_NUM(1416, 4005),
     /**
      * <code>TRAIN_COUNT_TYPE6_ADD_NUM = 4006;</code>
      *
@@ -21813,7 +21829,7 @@ public final class Const {
      * 狙击手训练数量单次训练数量增加，绝对值
      * </pre>
      */
-    TRAIN_COUNT_TYPE6_ADD_NUM(1413, 4006),
+    TRAIN_COUNT_TYPE6_ADD_NUM(1417, 4006),
     /**
      * <code>TRAIN_COUNT_TYPE7_ADD_NUM = 4007;</code>
      *
@@ -21821,7 +21837,7 @@ public final class Const {
      * 攻坚车训练数量单次训练数量增加，绝对值
      * </pre>
      */
-    TRAIN_COUNT_TYPE7_ADD_NUM(1414, 4007),
+    TRAIN_COUNT_TYPE7_ADD_NUM(1418, 4007),
     /**
      * <code>TRAIN_COUNT_TYPE8_ADD_NUM = 4008;</code>
      *
@@ -21829,7 +21845,7 @@ public final class Const {
      * 运载车训练数量单次训练数量增加，绝对值
      * </pre>
      */
-    TRAIN_COUNT_TYPE8_ADD_NUM(1415, 4008),
+    TRAIN_COUNT_TYPE8_ADD_NUM(1419, 4008),
     /**
      * <code>WEAPON_BUILD_TYPE101_ADD_NUM = 4009;</code>
      *
@@ -21837,7 +21853,7 @@ public final class Const {
      * 地雷建造数量单次建造数量增加，绝对值
      * </pre>
      */
-    WEAPON_BUILD_TYPE101_ADD_NUM(1416, 4009),
+    WEAPON_BUILD_TYPE101_ADD_NUM(1420, 4009),
     /**
      * <code>WEAPON_BUILD_TYPE102_ADD_NUM = 4010;</code>
      *
@@ -21845,7 +21861,7 @@ public final class Const {
      * 防空火炮建造数量单次建造数量增加，绝对值
      * </pre>
      */
-    WEAPON_BUILD_TYPE102_ADD_NUM(1417, 4010),
+    WEAPON_BUILD_TYPE102_ADD_NUM(1421, 4010),
     /**
      * <code>WEAPON_BUILD_TYPE103_ADD_NUM = 4011;</code>
      *
@@ -21853,7 +21869,7 @@ public final class Const {
      * 反坦克火箭建造数量单次建造数量增加，绝对值
      * </pre>
      */
-    WEAPON_BUILD_TYPE103_ADD_NUM(1418, 4011),
+    WEAPON_BUILD_TYPE103_ADD_NUM(1422, 4011),
     /**
      * <code>PRODUCT_INC_TIME_ADD_PER = 4012;</code>
      *
@@ -21861,7 +21877,7 @@ public final class Const {
      * 使用增产道具时，增产时间增加，万分比
      * </pre>
      */
-    PRODUCT_INC_TIME_ADD_PER(1419, 4012),
+    PRODUCT_INC_TIME_ADD_PER(1423, 4012),
     /**
      * <code>TRAIN_SPEED_PRE7_PER = 4015;</code>
      *
@@ -21869,7 +21885,7 @@ public final class Const {
      * 7级以下士兵训练速度提升（全兵营），万分比
      * </pre>
      */
-    TRAIN_SPEED_PRE7_PER(1420, 4015),
+    TRAIN_SPEED_PRE7_PER(1424, 4015),
     /**
      * <code>TRAIN_SPEED_EQ8_PER = 4016;</code>
      *
@@ -21877,7 +21893,7 @@ public final class Const {
      * 8级士兵训练速度提升（全兵营），万分比
      * </pre>
      */
-    TRAIN_SPEED_EQ8_PER(1421, 4016),
+    TRAIN_SPEED_EQ8_PER(1425, 4016),
     /**
      * <code>TRAIN_SPEED_EQ9_PER = 4017;</code>
      *
@@ -21885,7 +21901,7 @@ public final class Const {
      * 9级士兵训练速度提升（全兵营），万分比
      * </pre>
      */
-    TRAIN_SPEED_EQ9_PER(1422, 4017),
+    TRAIN_SPEED_EQ9_PER(1426, 4017),
     /**
      * <code>TRAIN_SPEED_EQ10_PER = 4018;</code>
      *
@@ -21893,7 +21909,7 @@ public final class Const {
      * 10级士兵训练速度提升（全兵营），万分比
      * </pre>
      */
-    TRAIN_SPEED_EQ10_PER(1423, 4018),
+    TRAIN_SPEED_EQ10_PER(1427, 4018),
     /**
      * <code>SPY_CONSUM_REDUS = 4019;</code>
      *
@@ -21901,7 +21917,7 @@ public final class Const {
      * 侦查消耗减少
      * </pre>
      */
-    SPY_CONSUM_REDUS(1424, 4019),
+    SPY_CONSUM_REDUS(1428, 4019),
     /**
      * <code>SPY_MARCH_SPEED_ADD = 4020;</code>
      *
@@ -21909,7 +21925,7 @@ public final class Const {
      * 侦查行军速度提升
      * </pre>
      */
-    SPY_MARCH_SPEED_ADD(1425, 4020),
+    SPY_MARCH_SPEED_ADD(1429, 4020),
     /**
      * <code>ATK_MONSTER_VIT_ADD = 4021;</code>
      *
@@ -21917,7 +21933,7 @@ public final class Const {
      * 攻击怪物体力消耗提升
      * </pre>
      */
-    ATK_MONSTER_VIT_ADD(1426, 4021),
+    ATK_MONSTER_VIT_ADD(1430, 4021),
     /**
      * <code>KILL_MONSTER_AWARD_ADD = 4022;</code>
      *
@@ -21925,7 +21941,7 @@ public final class Const {
      * 消灭怪物奖励提升
      * </pre>
      */
-    KILL_MONSTER_AWARD_ADD(1427, 4022),
+    KILL_MONSTER_AWARD_ADD(1431, 4022),
     /**
      * <code>SKILL_COST_VIT_ADD = 4023;</code>
      *
@@ -21933,7 +21949,7 @@ public final class Const {
      * 技能消耗的体力上限数值提升
      * </pre>
      */
-    SKILL_COST_VIT_ADD(1428, 4023),
+    SKILL_COST_VIT_ADD(1432, 4023),
     /**
      * <code>TRAIN_RES_4024 = 4024;</code>
      *
@@ -21941,7 +21957,7 @@ public final class Const {
      * 训练部队消耗资源减少
      * </pre>
      */
-    TRAIN_RES_4024(1429, 4024),
+    TRAIN_RES_4024(1433, 4024),
     /**
      * <code>TRAIN_ARMY11_SPEED_4025 = 4025;</code>
      *
@@ -21949,7 +21965,7 @@ public final class Const {
      * 11兵训练加速
      * </pre>
      */
-    TRAIN_ARMY11_SPEED_4025(1430, 4025),
+    TRAIN_ARMY11_SPEED_4025(1434, 4025),
     /**
      * <code>EXTRA_ARMY_1_2_PER = 4036;</code>
      *
@@ -21957,7 +21973,7 @@ public final class Const {
      * 训练并收取坦克（兵种类型 = 1或2）时，万分比概率获取额外的士兵
      * </pre>
      */
-    EXTRA_ARMY_1_2_PER(1431, 4036),
+    EXTRA_ARMY_1_2_PER(1435, 4036),
     /**
      * <code>EXTRA_ARMY_3_4_PER = 4037;</code>
      *
@@ -21965,7 +21981,7 @@ public final class Const {
      * 训练并收取空军（兵种类型 = 3或4）时，万分比概率获取额外的士兵
      * </pre>
      */
-    EXTRA_ARMY_3_4_PER(1432, 4037),
+    EXTRA_ARMY_3_4_PER(1436, 4037),
     /**
      * <code>EXTRA_ARMY_5_6_PER = 4038;</code>
      *
@@ -21973,7 +21989,7 @@ public final class Const {
      * 训练并收取步兵（兵种类型 = 5或6）时，万分比概率获取额外的士兵
      * </pre>
      */
-    EXTRA_ARMY_5_6_PER(1433, 4038),
+    EXTRA_ARMY_5_6_PER(1437, 4038),
     /**
      * <code>EXTRA_ARMY_7_8_PER = 4039;</code>
      *
@@ -21981,7 +21997,7 @@ public final class Const {
      * 训练并收取战车（兵种类型 = 7或8）时，万分比概率获取额外的士兵
      * </pre>
      */
-    EXTRA_ARMY_7_8_PER(1434, 4039),
+    EXTRA_ARMY_7_8_PER(1438, 4039),
     /**
      * <code>HERO_SKIN_DUYE = 40001;</code>
      *
@@ -21989,7 +22005,7 @@ public final class Const {
      * 英雄皮肤毒液
      * </pre>
      */
-    HERO_SKIN_DUYE(1435, 40001),
+    HERO_SKIN_DUYE(1439, 40001),
     /**
      * <code>HERO_SKIN_40002 = 40002;</code>
      *
@@ -21997,7 +22013,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40002(1436, 40002),
+    HERO_SKIN_40002(1440, 40002),
     /**
      * <code>HERO_SKIN_40003 = 40003;</code>
      *
@@ -22005,7 +22021,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40003(1437, 40003),
+    HERO_SKIN_40003(1441, 40003),
     /**
      * <code>HERO_SKIN_40004 = 40004;</code>
      *
@@ -22013,7 +22029,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40004(1438, 40004),
+    HERO_SKIN_40004(1442, 40004),
     /**
      * <code>HERO_SKIN_40005 = 40005;</code>
      *
@@ -22021,7 +22037,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40005(1439, 40005),
+    HERO_SKIN_40005(1443, 40005),
     /**
      * <code>HERO_SKIN_40006 = 40006;</code>
      *
@@ -22029,7 +22045,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40006(1440, 40006),
+    HERO_SKIN_40006(1444, 40006),
     /**
      * <code>HERO_SKIN_40007 = 40007;</code>
      *
@@ -22037,7 +22053,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40007(1441, 40007),
+    HERO_SKIN_40007(1445, 40007),
     /**
      * <code>HERO_SKIN_40008 = 40008;</code>
      *
@@ -22045,7 +22061,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40008(1442, 40008),
+    HERO_SKIN_40008(1446, 40008),
     /**
      * <code>HERO_SKIN_40009 = 40009;</code>
      *
@@ -22053,7 +22069,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40009(1443, 40009),
+    HERO_SKIN_40009(1447, 40009),
     /**
      * <code>HERO_SKIN_40010 = 40010;</code>
      *
@@ -22061,7 +22077,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40010(1444, 40010),
+    HERO_SKIN_40010(1448, 40010),
     /**
      * <code>HERO_SKIN_40011 = 40011;</code>
      *
@@ -22069,7 +22085,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40011(1445, 40011),
+    HERO_SKIN_40011(1449, 40011),
     /**
      * <code>HERO_SKIN_40012 = 40012;</code>
      *
@@ -22077,7 +22093,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40012(1446, 40012),
+    HERO_SKIN_40012(1450, 40012),
     /**
      * <code>HERO_SKIN_40013 = 40013;</code>
      *
@@ -22085,7 +22101,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40013(1447, 40013),
+    HERO_SKIN_40013(1451, 40013),
     /**
      * <code>HERO_SKIN_40014 = 40014;</code>
      *
@@ -22093,7 +22109,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40014(1448, 40014),
+    HERO_SKIN_40014(1452, 40014),
     /**
      * <code>HERO_SKIN_40015 = 40015;</code>
      *
@@ -22101,7 +22117,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40015(1449, 40015),
+    HERO_SKIN_40015(1453, 40015),
     /**
      * <code>HERO_SKIN_40016 = 40016;</code>
      *
@@ -22109,7 +22125,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40016(1450, 40016),
+    HERO_SKIN_40016(1454, 40016),
     /**
      * <code>HERO_SKIN_40017 = 40017;</code>
      *
@@ -22117,7 +22133,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40017(1451, 40017),
+    HERO_SKIN_40017(1455, 40017),
     /**
      * <code>HERO_SKIN_40018 = 40018;</code>
      *
@@ -22125,7 +22141,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40018(1452, 40018),
+    HERO_SKIN_40018(1456, 40018),
     /**
      * <code>HERO_SKIN_40019 = 40019;</code>
      *
@@ -22133,7 +22149,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40019(1453, 40019),
+    HERO_SKIN_40019(1457, 40019),
     /**
      * <code>HERO_SKIN_40020 = 40020;</code>
      *
@@ -22141,7 +22157,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40020(1454, 40020),
+    HERO_SKIN_40020(1458, 40020),
     /**
      * <code>HERO_SKIN_40021 = 40021;</code>
      *
@@ -22149,7 +22165,7 @@ public final class Const {
      * ....皮肤
      * </pre>
      */
-    HERO_SKIN_40021(1455, 40021),
+    HERO_SKIN_40021(1459, 40021),
     /**
      * <code>PLANT_SOLDIER_SKILL_824 = 1000001;</code>
      *
@@ -22157,7 +22173,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能824
      * </pre>
      */
-    PLANT_SOLDIER_SKILL_824(1456, 1000001),
+    PLANT_SOLDIER_SKILL_824(1460, 1000001),
     /**
      * <code>PLANT_SOLDIER_SKILL_144 = 1000002;</code>
      *
@@ -22165,7 +22181,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能144
      * </pre>
      */
-    PLANT_SOLDIER_SKILL_144(1457, 1000002),
+    PLANT_SOLDIER_SKILL_144(1461, 1000002),
     /**
      * <code>PLANT_SOLDIER_SKILL_344 = 1000003;</code>
      *
@@ -22173,7 +22189,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能344
      * </pre>
      */
-    PLANT_SOLDIER_SKILL_344(1458, 1000003),
+    PLANT_SOLDIER_SKILL_344(1462, 1000003),
     /**
      * <code>PLANT_SOLDIER_SKILL_444 = 1000004;</code>
      *
@@ -22181,7 +22197,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能344
      * </pre>
      */
-    PLANT_SOLDIER_SKILL_444(1459, 1000004),
+    PLANT_SOLDIER_SKILL_444(1463, 1000004),
     /**
      * <code>PLANT_SOLDIER_SKILL_644 = 1000005;</code>
      *
@@ -22189,7 +22205,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能644
      * </pre>
      */
-    PLANT_SOLDIER_SKILL_644(1460, 1000005),
+    PLANT_SOLDIER_SKILL_644(1464, 1000005),
     /**
      * <code>PLANT_SOLDIER_SKILL_744 = 1000006;</code>
      *
@@ -22197,7 +22213,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能644
      * </pre>
      */
-    PLANT_SOLDIER_SKILL_744(1461, 1000006),
+    PLANT_SOLDIER_SKILL_744(1465, 1000006),
     /**
      * <code>PLANT_SOLDIER_SKILL_844 = 1000007;</code>
      *
@@ -22205,7 +22221,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能644
      * </pre>
      */
-    PLANT_SOLDIER_SKILL_844(1462, 1000007),
+    PLANT_SOLDIER_SKILL_844(1466, 1000007),
     /**
      * <code>SSS_SKILL_12143_P2 = 1000008;</code>
      *
@@ -22213,15 +22229,15 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能644
      * </pre>
      */
-    SSS_SKILL_12143_P2(1463, 1000008),
+    SSS_SKILL_12143_P2(1467, 1000008),
     /**
      * <code>EFF_1000009 = 1000009;</code>
      */
-    EFF_1000009(1464, 1000009),
+    EFF_1000009(1468, 1000009),
     /**
      * <code>EFF_1000010 = 1000010;</code>
      */
-    EFF_1000010(1465, 1000010),
+    EFF_1000010(1469, 1000010),
     /**
      * <code>EFF_SOLDIER_SKILL_14501 = 1014501;</code>
      *
@@ -22229,7 +22245,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能144
      * </pre>
      */
-    EFF_SOLDIER_SKILL_14501(1466, 1014501),
+    EFF_SOLDIER_SKILL_14501(1470, 1014501),
     /**
      * <code>EFF_SOLDIER_SKILL_44501 = 1044501;</code>
      *
@@ -22237,7 +22253,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能144
      * </pre>
      */
-    EFF_SOLDIER_SKILL_44501(1467, 1044501),
+    EFF_SOLDIER_SKILL_44501(1471, 1044501),
     /**
      * <code>EFF_SOLDIER_SKILL_64501 = 1064501;</code>
      *
@@ -22245,7 +22261,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能144
      * </pre>
      */
-    EFF_SOLDIER_SKILL_64501(1468, 1064501),
+    EFF_SOLDIER_SKILL_64501(1472, 1064501),
     /**
      * <code>EFF_SOLDIER_SKILL_54501 = 1054501;</code>
      *
@@ -22253,7 +22269,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能144
      * </pre>
      */
-    EFF_SOLDIER_SKILL_54501(1469, 1054501),
+    EFF_SOLDIER_SKILL_54501(1473, 1054501),
     /**
      * <code>EFF_SOLDIER_SKILL_84501 = 1084501;</code>
      *
@@ -22261,7 +22277,7 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能144
      * </pre>
      */
-    EFF_SOLDIER_SKILL_84501(1470, 1084501),
+    EFF_SOLDIER_SKILL_84501(1474, 1084501),
     /**
      * <code>EFF_SOLDIER_SKILL_74501 = 1074501;</code>
      *
@@ -22269,23 +22285,23 @@ public final class Const {
      * 服务器自定义做用号 泰能兵技能144
      * </pre>
      */
-    EFF_SOLDIER_SKILL_74501(1471, 1074501),
+    EFF_SOLDIER_SKILL_74501(1475, 1074501),
     /**
      * <code>EFF_12661 = 12661;</code>
      */
-    EFF_12661(1472, 12661),
+    EFF_12661(1476, 12661),
     /**
      * <code>EFF_12662 = 12662;</code>
      */
-    EFF_12662(1473, 12662),
+    EFF_12662(1477, 12662),
     /**
      * <code>EFF_12663 = 12663;</code>
      */
-    EFF_12663(1474, 12663),
+    EFF_12663(1478, 12663),
     /**
      * <code>EFF_12664 = 12664;</code>
      */
-    EFF_12664(1475, 12664),
+    EFF_12664(1479, 12664),
     /**
      * <code>PLANT_SOLDIER_4101 = 4101;</code>
      *
@@ -22293,7 +22309,7 @@ public final class Const {
      *	绝对值	泰能医院容量上限增加	实际容量 = 基础容量 + 作用值
      * </pre>
      */
-    PLANT_SOLDIER_4101(1476, 4101),
+    PLANT_SOLDIER_4101(1480, 4101),
     /**
      * <code>PLANT_SOLDIER_4102 = 4102;</code>
      *
@@ -22301,7 +22317,7 @@ public final class Const {
      *	万分比	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）治疗速度增加	实际治疗时间 = 基础时间/（1+作用值/10000）
      * </pre>
      */
-    PLANT_SOLDIER_4102(1477, 4102),
+    PLANT_SOLDIER_4102(1481, 4102),
     /**
      * <code>PLANT_SOLDIER_4103 = 4103;</code>
      *
@@ -22309,7 +22325,7 @@ public final class Const {
      *	万分比	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）治疗速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4103(1478, 4103),
+    PLANT_SOLDIER_4103(1482, 4103),
     /**
      * <code>PLANT_SOLDIER_4104 = 4104;</code>
      *
@@ -22317,7 +22333,7 @@ public final class Const {
      *	万分比	泰能直升机（兵种类型 = 4，兵种等级 = 13）治疗速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4104(1479, 4104),
+    PLANT_SOLDIER_4104(1483, 4104),
     /**
      * <code>PLANT_SOLDIER_4105 = 4105;</code>
      *
@@ -22325,7 +22341,7 @@ public final class Const {
      *	万分比	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）治疗速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4105(1480, 4105),
+    PLANT_SOLDIER_4105(1484, 4105),
     /**
      * <code>PLANT_SOLDIER_4106 = 4106;</code>
      *
@@ -22333,7 +22349,7 @@ public final class Const {
      *	万分比	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）治疗速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4106(1481, 4106),
+    PLANT_SOLDIER_4106(1485, 4106),
     /**
      * <code>PLANT_SOLDIER_4107 = 4107;</code>
      *
@@ -22341,7 +22357,7 @@ public final class Const {
      *	万分比	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）治疗速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4107(1482, 4107),
+    PLANT_SOLDIER_4107(1486, 4107),
     /**
      * <code>PLANT_SOLDIER_4108 = 4108;</code>
      *
@@ -22349,7 +22365,7 @@ public final class Const {
      *	万分比	泰能采矿车（兵种类型 = 8，兵种等级 = 13）治疗速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4108(1483, 4108),
+    PLANT_SOLDIER_4108(1487, 4108),
     /**
      * <code>PLANT_SOLDIER_4109 = 4109;</code>
      *
@@ -22357,7 +22373,7 @@ public final class Const {
      *	万分比	泰能攻城车（兵种类型 = 7，兵种等级 = 14）治疗速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4109(1484, 4109),
+    PLANT_SOLDIER_4109(1488, 4109),
     /**
      * <code>PLANT_SOLDIER_4110 = 4110;</code>
      *
@@ -22365,7 +22381,7 @@ public final class Const {
      *	绝对值	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）训练上限增加	实际训练上限 = 基础值 + 作用值
      * </pre>
      */
-    PLANT_SOLDIER_4110(1485, 4110),
+    PLANT_SOLDIER_4110(1489, 4110),
     /**
      * <code>PLANT_SOLDIER_4111 = 4111;</code>
      *
@@ -22373,7 +22389,7 @@ public final class Const {
      *	绝对值	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）训练上限增加	
      * </pre>
      */
-    PLANT_SOLDIER_4111(1486, 4111),
+    PLANT_SOLDIER_4111(1490, 4111),
     /**
      * <code>PLANT_SOLDIER_4112 = 4112;</code>
      *
@@ -22381,7 +22397,7 @@ public final class Const {
      *	绝对值	泰能直升机（兵种类型 = 4，兵种等级 = 13）训练上限增加	
      * </pre>
      */
-    PLANT_SOLDIER_4112(1487, 4112),
+    PLANT_SOLDIER_4112(1491, 4112),
     /**
      * <code>PLANT_SOLDIER_4113 = 4113;</code>
      *
@@ -22389,7 +22405,7 @@ public final class Const {
      *	绝对值	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）训练上限增加	
      * </pre>
      */
-    PLANT_SOLDIER_4113(1488, 4113),
+    PLANT_SOLDIER_4113(1492, 4113),
     /**
      * <code>PLANT_SOLDIER_4114 = 4114;</code>
      *
@@ -22397,7 +22413,7 @@ public final class Const {
      *	绝对值	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）训练上限增加	
      * </pre>
      */
-    PLANT_SOLDIER_4114(1489, 4114),
+    PLANT_SOLDIER_4114(1493, 4114),
     /**
      * <code>PLANT_SOLDIER_4115 = 4115;</code>
      *
@@ -22405,7 +22421,7 @@ public final class Const {
      *	绝对值	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）训练上限增加	
      * </pre>
      */
-    PLANT_SOLDIER_4115(1490, 4115),
+    PLANT_SOLDIER_4115(1494, 4115),
     /**
      * <code>PLANT_SOLDIER_4116 = 4116;</code>
      *
@@ -22413,7 +22429,7 @@ public final class Const {
      *	绝对值	泰能采矿车（兵种类型 = 8，兵种等级 = 13）训练上限增加	
      * </pre>
      */
-    PLANT_SOLDIER_4116(1491, 4116),
+    PLANT_SOLDIER_4116(1495, 4116),
     /**
      * <code>PLANT_SOLDIER_4117 = 4117;</code>
      *
@@ -22421,7 +22437,7 @@ public final class Const {
      *	绝对值	泰能攻城车（兵种类型 = 7，兵种等级 = 14）训练上限增加	
      * </pre>
      */
-    PLANT_SOLDIER_4117(1492, 4117),
+    PLANT_SOLDIER_4117(1496, 4117),
     /**
      * <code>PLANT_SOLDIER_4118 = 4118;</code>
      *
@@ -22429,7 +22445,7 @@ public final class Const {
      *	万分比	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）训练速度增加	实际训练时间 = 基础时间/（1+作用值/10000）
      * </pre>
      */
-    PLANT_SOLDIER_4118(1493, 4118),
+    PLANT_SOLDIER_4118(1497, 4118),
     /**
      * <code>PLANT_SOLDIER_4119 = 4119;</code>
      *
@@ -22437,7 +22453,7 @@ public final class Const {
      *	万分比	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）训练速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4119(1494, 4119),
+    PLANT_SOLDIER_4119(1498, 4119),
     /**
      * <code>PLANT_SOLDIER_4120 = 4120;</code>
      *
@@ -22445,7 +22461,7 @@ public final class Const {
      *	万分比	泰能直升机（兵种类型 = 4，兵种等级 = 13）训练速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4120(1495, 4120),
+    PLANT_SOLDIER_4120(1499, 4120),
     /**
      * <code>PLANT_SOLDIER_4121 = 4121;</code>
      *
@@ -22453,7 +22469,7 @@ public final class Const {
      *	万分比	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）训练速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4121(1496, 4121),
+    PLANT_SOLDIER_4121(1500, 4121),
     /**
      * <code>PLANT_SOLDIER_4122 = 4122;</code>
      *
@@ -22461,7 +22477,7 @@ public final class Const {
      *	万分比	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）训练速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4122(1497, 4122),
+    PLANT_SOLDIER_4122(1501, 4122),
     /**
      * <code>PLANT_SOLDIER_4123 = 4123;</code>
      *
@@ -22469,7 +22485,7 @@ public final class Const {
      *	万分比	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）训练速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4123(1498, 4123),
+    PLANT_SOLDIER_4123(1502, 4123),
     /**
      * <code>PLANT_SOLDIER_4124 = 4124;</code>
      *
@@ -22477,7 +22493,7 @@ public final class Const {
      *	万分比	泰能采矿车（兵种类型 = 8，兵种等级 = 13）训练速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4124(1499, 4124),
+    PLANT_SOLDIER_4124(1503, 4124),
     /**
      * <code>PLANT_SOLDIER_4125 = 4125;</code>
      *
@@ -22485,7 +22501,7 @@ public final class Const {
      *	万分比	泰能攻城车（兵种类型 = 7，兵种等级 = 14）训练速度增加	
      * </pre>
      */
-    PLANT_SOLDIER_4125(1500, 4125),
+    PLANT_SOLDIER_4125(1504, 4125),
     /**
      * <code>PLANT_SOLDIER_4126 = 4126;</code>
      *
@@ -22493,7 +22509,7 @@ public final class Const {
      *	万分比	泰能科技研究速度增加	实际研究时间 = 基础时间/（1 + 原科技研究速度 + 本作用值/10000）	
      * </pre>
      */
-    PLANT_SOLDIER_4126(1501, 4126),
+    PLANT_SOLDIER_4126(1505, 4126),
     /**
      * <code>PLANT_SOLDIER_4127 = 4127;</code>
      *
@@ -22501,7 +22517,7 @@ public final class Const {
      *	万分比	泰能兵种（兵种类型 = 1~8，兵种等级 = 13~14）治疗速度增加
      * </pre>
      */
-    PLANT_SOLDIER_4127(1502, 4127),
+    PLANT_SOLDIER_4127(1506, 4127),
     /**
      * <code>PLANT_SOLDIER_4128 = 4128;</code>
      *
@@ -22509,7 +22525,7 @@ public final class Const {
      *	万分比	泰能兵种（兵种类型 = 1~8，兵种等级 = 13~14）训练速度增加
      * </pre>
      */
-    PLANT_SOLDIER_4128(1503, 4128),
+    PLANT_SOLDIER_4128(1507, 4128),
     /**
      * <code>PLANT_SOLDIER_4129 = 4129;</code>
      *
@@ -22517,7 +22533,7 @@ public final class Const {
      *	【4129】泰能训练资源减少
      * </pre>
      */
-    PLANT_SOLDIER_4129(1504, 4129),
+    PLANT_SOLDIER_4129(1508, 4129),
     /**
      * <code>PLANT_SOLDIER_4130 = 4130;</code>
      *
@@ -22525,7 +22541,7 @@ public final class Const {
      *	4130】泰能治疗资源减少
      * </pre>
      */
-    PLANT_SOLDIER_4130(1505, 4130),
+    PLANT_SOLDIER_4130(1509, 4130),
     /**
      * <code>PLANT_SOLDIER_1901 = 1901;</code>
      *
@@ -22533,7 +22549,7 @@ public final class Const {
      *	万分比	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）攻击增加	实际攻击 = 基础攻击*（1 + 其他作用号加成 + 本作用值/10000）
      * </pre>
      */
-    PLANT_SOLDIER_1901(1506, 1901),
+    PLANT_SOLDIER_1901(1510, 1901),
     /**
      * <code>PLANT_SOLDIER_1902 = 1902;</code>
      *
@@ -22541,7 +22557,7 @@ public final class Const {
      *	万分比	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1902(1507, 1902),
+    PLANT_SOLDIER_1902(1511, 1902),
     /**
      * <code>PLANT_SOLDIER_1903 = 1903;</code>
      *
@@ -22549,7 +22565,7 @@ public final class Const {
      *	万分比	泰能直升机（兵种类型 = 4，兵种等级 = 13）攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1903(1508, 1903),
+    PLANT_SOLDIER_1903(1512, 1903),
     /**
      * <code>PLANT_SOLDIER_1904 = 1904;</code>
      *
@@ -22557,7 +22573,7 @@ public final class Const {
      *	万分比	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1904(1509, 1904),
+    PLANT_SOLDIER_1904(1513, 1904),
     /**
      * <code>PLANT_SOLDIER_1905 = 1905;</code>
      *
@@ -22565,7 +22581,7 @@ public final class Const {
      *	万分比	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1905(1510, 1905),
+    PLANT_SOLDIER_1905(1514, 1905),
     /**
      * <code>PLANT_SOLDIER_1906 = 1906;</code>
      *
@@ -22573,7 +22589,7 @@ public final class Const {
      *	万分比	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1906(1511, 1906),
+    PLANT_SOLDIER_1906(1515, 1906),
     /**
      * <code>PLANT_SOLDIER_1907 = 1907;</code>
      *
@@ -22581,7 +22597,7 @@ public final class Const {
      *	万分比	泰能采矿车（兵种类型 = 8，兵种等级 = 13）攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1907(1512, 1907),
+    PLANT_SOLDIER_1907(1516, 1907),
     /**
      * <code>PLANT_SOLDIER_1908 = 1908;</code>
      *
@@ -22589,7 +22605,7 @@ public final class Const {
      *	万分比	泰能攻城车（兵种类型 = 7，兵种等级 = 14）攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1908(1513, 1908),
+    PLANT_SOLDIER_1908(1517, 1908),
     /**
      * <code>PLANT_SOLDIER_1909 = 1909;</code>
      *
@@ -22597,7 +22613,7 @@ public final class Const {
      *	万分比	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）防御增加	实际防御 = 基础防御*（1 + 其他作用号加成 + 本作用值/10000）
      * </pre>
      */
-    PLANT_SOLDIER_1909(1514, 1909),
+    PLANT_SOLDIER_1909(1518, 1909),
     /**
      * <code>PLANT_SOLDIER_1910 = 1910;</code>
      *
@@ -22605,7 +22621,7 @@ public final class Const {
      *	万分比	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1910(1515, 1910),
+    PLANT_SOLDIER_1910(1519, 1910),
     /**
      * <code>PLANT_SOLDIER_1911 = 1911;</code>
      *
@@ -22613,7 +22629,7 @@ public final class Const {
      *	万分比	泰能直升机（兵种类型 = 4，兵种等级 = 13）防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1911(1516, 1911),
+    PLANT_SOLDIER_1911(1520, 1911),
     /**
      * <code>PLANT_SOLDIER_1912 = 1912;</code>
      *
@@ -22621,7 +22637,7 @@ public final class Const {
      *	万分比	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1912(1517, 1912),
+    PLANT_SOLDIER_1912(1521, 1912),
     /**
      * <code>PLANT_SOLDIER_1913 = 1913;</code>
      *
@@ -22629,7 +22645,7 @@ public final class Const {
      *	万分比	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1913(1518, 1913),
+    PLANT_SOLDIER_1913(1522, 1913),
     /**
      * <code>PLANT_SOLDIER_1914 = 1914;</code>
      *
@@ -22637,7 +22653,7 @@ public final class Const {
      *	万分比	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1914(1519, 1914),
+    PLANT_SOLDIER_1914(1523, 1914),
     /**
      * <code>PLANT_SOLDIER_1915 = 1915;</code>
      *
@@ -22645,7 +22661,7 @@ public final class Const {
      *	万分比	泰能采矿车（兵种类型 = 8，兵种等级 = 13）防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1915(1520, 1915),
+    PLANT_SOLDIER_1915(1524, 1915),
     /**
      * <code>PLANT_SOLDIER_1916 = 1916;</code>
      *
@@ -22653,7 +22669,7 @@ public final class Const {
      *	万分比	泰能攻城车（兵种类型 = 7，兵种等级 = 14）防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1916(1521, 1916),
+    PLANT_SOLDIER_1916(1525, 1916),
     /**
      * <code>PLANT_SOLDIER_1917 = 1917;</code>
      *
@@ -22661,7 +22677,7 @@ public final class Const {
      *	万分比	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）生命增加	实际生命 = 基础生命*（1 + 其他作用号加成 + 本作用值/10000）
      * </pre>
      */
-    PLANT_SOLDIER_1917(1522, 1917),
+    PLANT_SOLDIER_1917(1526, 1917),
     /**
      * <code>PLANT_SOLDIER_1918 = 1918;</code>
      *
@@ -22669,7 +22685,7 @@ public final class Const {
      *	万分比	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1918(1523, 1918),
+    PLANT_SOLDIER_1918(1527, 1918),
     /**
      * <code>PLANT_SOLDIER_1919 = 1919;</code>
      *
@@ -22677,7 +22693,7 @@ public final class Const {
      *	万分比	泰能直升机（兵种类型 = 4，兵种等级 = 13）生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1919(1524, 1919),
+    PLANT_SOLDIER_1919(1528, 1919),
     /**
      * <code>PLANT_SOLDIER_1920 = 1920;</code>
      *
@@ -22685,7 +22701,7 @@ public final class Const {
      *	万分比	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1920(1525, 1920),
+    PLANT_SOLDIER_1920(1529, 1920),
     /**
      * <code>PLANT_SOLDIER_1921 = 1921;</code>
      *
@@ -22693,7 +22709,7 @@ public final class Const {
      *	万分比	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1921(1526, 1921),
+    PLANT_SOLDIER_1921(1530, 1921),
     /**
      * <code>PLANT_SOLDIER_1922 = 1922;</code>
      *
@@ -22701,7 +22717,7 @@ public final class Const {
      *	万分比	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1922(1527, 1922),
+    PLANT_SOLDIER_1922(1531, 1922),
     /**
      * <code>PLANT_SOLDIER_1923 = 1923;</code>
      *
@@ -22709,7 +22725,7 @@ public final class Const {
      *	万分比	泰能采矿车（兵种类型 = 8，兵种等级 = 13）生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1923(1528, 1923),
+    PLANT_SOLDIER_1923(1532, 1923),
     /**
      * <code>PLANT_SOLDIER_1924 = 1924;</code>
      *
@@ -22717,7 +22733,7 @@ public final class Const {
      *	万分比	泰能攻城车（兵种类型 = 7，兵种等级 = 14）生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1924(1529, 1924),
+    PLANT_SOLDIER_1924(1533, 1924),
     /**
      * <code>PLANT_SOLDIER_1925 = 1925;</code>
      *
@@ -22725,7 +22741,7 @@ public final class Const {
      *	万分比	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）基础攻击增加	实际基础攻击 = 兵种基础值 + 作用值/10000
      * </pre>
      */
-    PLANT_SOLDIER_1925(1530, 1925),
+    PLANT_SOLDIER_1925(1534, 1925),
     /**
      * <code>PLANT_SOLDIER_1926 = 1926;</code>
      *
@@ -22733,7 +22749,7 @@ public final class Const {
      *	万分比	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）基础攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1926(1531, 1926),
+    PLANT_SOLDIER_1926(1535, 1926),
     /**
      * <code>PLANT_SOLDIER_1927 = 1927;</code>
      *
@@ -22741,7 +22757,7 @@ public final class Const {
      *	万分比	泰能直升机（兵种类型 = 4，兵种等级 = 13）基础攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1927(1532, 1927),
+    PLANT_SOLDIER_1927(1536, 1927),
     /**
      * <code>PLANT_SOLDIER_1928 = 1928;</code>
      *
@@ -22749,7 +22765,7 @@ public final class Const {
      *	万分比	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）基础攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1928(1533, 1928),
+    PLANT_SOLDIER_1928(1537, 1928),
     /**
      * <code>PLANT_SOLDIER_1929 = 1929;</code>
      *
@@ -22757,7 +22773,7 @@ public final class Const {
      *	万分比	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）基础攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1929(1534, 1929),
+    PLANT_SOLDIER_1929(1538, 1929),
     /**
      * <code>PLANT_SOLDIER_1930 = 1930;</code>
      *
@@ -22765,7 +22781,7 @@ public final class Const {
      *	万分比	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）基础攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1930(1535, 1930),
+    PLANT_SOLDIER_1930(1539, 1930),
     /**
      * <code>PLANT_SOLDIER_1931 = 1931;</code>
      *
@@ -22773,7 +22789,7 @@ public final class Const {
      *	万分比	泰能采矿车（兵种类型 = 8，兵种等级 = 13）基础攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1931(1536, 1931),
+    PLANT_SOLDIER_1931(1540, 1931),
     /**
      * <code>PLANT_SOLDIER_1932 = 1932;</code>
      *
@@ -22781,7 +22797,7 @@ public final class Const {
      *	万分比	泰能攻城车（兵种类型 = 7，兵种等级 = 14）基础攻击增加	
      * </pre>
      */
-    PLANT_SOLDIER_1932(1537, 1932),
+    PLANT_SOLDIER_1932(1541, 1932),
     /**
      * <code>PLANT_SOLDIER_1933 = 1933;</code>
      *
@@ -22789,7 +22805,7 @@ public final class Const {
      *	万分比	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）基础防御增加	实际基础防御 = 兵种基础值 + 作用值/10000
      * </pre>
      */
-    PLANT_SOLDIER_1933(1538, 1933),
+    PLANT_SOLDIER_1933(1542, 1933),
     /**
      * <code>PLANT_SOLDIER_1934 = 1934;</code>
      *
@@ -22797,7 +22813,7 @@ public final class Const {
      *	万分比	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）基础防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1934(1539, 1934),
+    PLANT_SOLDIER_1934(1543, 1934),
     /**
      * <code>PLANT_SOLDIER_1935 = 1935;</code>
      *
@@ -22805,7 +22821,7 @@ public final class Const {
      *	万分比	泰能直升机（兵种类型 = 4，兵种等级 = 13）基础防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1935(1540, 1935),
+    PLANT_SOLDIER_1935(1544, 1935),
     /**
      * <code>PLANT_SOLDIER_1936 = 1936;</code>
      *
@@ -22813,7 +22829,7 @@ public final class Const {
      *	万分比	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）基础防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1936(1541, 1936),
+    PLANT_SOLDIER_1936(1545, 1936),
     /**
      * <code>PLANT_SOLDIER_1937 = 1937;</code>
      *
@@ -22821,7 +22837,7 @@ public final class Const {
      *	万分比	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）基础防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1937(1542, 1937),
+    PLANT_SOLDIER_1937(1546, 1937),
     /**
      * <code>PLANT_SOLDIER_1938 = 1938;</code>
      *
@@ -22829,7 +22845,7 @@ public final class Const {
      *	万分比	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）基础防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1938(1543, 1938),
+    PLANT_SOLDIER_1938(1547, 1938),
     /**
      * <code>PLANT_SOLDIER_1939 = 1939;</code>
      *
@@ -22837,7 +22853,7 @@ public final class Const {
      *	万分比	泰能采矿车（兵种类型 = 8，兵种等级 = 13）基础防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1939(1544, 1939),
+    PLANT_SOLDIER_1939(1548, 1939),
     /**
      * <code>PLANT_SOLDIER_1940 = 1940;</code>
      *
@@ -22845,7 +22861,7 @@ public final class Const {
      *	万分比	泰能攻城车（兵种类型 = 7，兵种等级 = 14）基础防御增加	
      * </pre>
      */
-    PLANT_SOLDIER_1940(1545, 1940),
+    PLANT_SOLDIER_1940(1549, 1940),
     /**
      * <code>PLANT_SOLDIER_1941 = 1941;</code>
      *
@@ -22853,7 +22869,7 @@ public final class Const {
      *	万分比	泰能主战坦克（兵种类型 = 2，兵种等级 = 13）基础生命增加	实际基础生命 = 兵种基础值 + 作用值/10000
      * </pre>
      */
-    PLANT_SOLDIER_1941(1546, 1941),
+    PLANT_SOLDIER_1941(1550, 1941),
     /**
      * <code>PLANT_SOLDIER_1942 = 1942;</code>
      *
@@ -22861,7 +22877,7 @@ public final class Const {
      *	万分比	泰能防御坦克（兵种类型 = 1，兵种等级 = 14）基础生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1942(1547, 1942),
+    PLANT_SOLDIER_1942(1551, 1942),
     /**
      * <code>PLANT_SOLDIER_1943 = 1943;</code>
      *
@@ -22869,7 +22885,7 @@ public final class Const {
      *	万分比	泰能直升机（兵种类型 = 4，兵种等级 = 13）基础生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1943(1548, 1943),
+    PLANT_SOLDIER_1943(1552, 1943),
     /**
      * <code>PLANT_SOLDIER_1944 = 1944;</code>
      *
@@ -22877,7 +22893,7 @@ public final class Const {
      *	万分比	泰能轰炸机（兵种类型 = 3，兵种等级 = 14）基础生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1944(1549, 1944),
+    PLANT_SOLDIER_1944(1553, 1944),
     /**
      * <code>PLANT_SOLDIER_1945 = 1945;</code>
      *
@@ -22885,7 +22901,7 @@ public final class Const {
      *	万分比	泰能狙击兵（兵种类型 = 6，兵种等级 = 13）基础生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1945(1550, 1945),
+    PLANT_SOLDIER_1945(1554, 1945),
     /**
      * <code>PLANT_SOLDIER_1946 = 1946;</code>
      *
@@ -22893,7 +22909,7 @@ public final class Const {
      *	万分比	泰能突击步兵（兵种类型 = 5，兵种等级 = 14）基础生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1946(1551, 1946),
+    PLANT_SOLDIER_1946(1555, 1946),
     /**
      * <code>PLANT_SOLDIER_1947 = 1947;</code>
      *
@@ -22901,7 +22917,7 @@ public final class Const {
      *	万分比	泰能采矿车（兵种类型 = 8，兵种等级 = 13）基础生命增加	
      * </pre>
      */
-    PLANT_SOLDIER_1947(1552, 1947),
+    PLANT_SOLDIER_1947(1556, 1947),
     /**
      * <code>PLANT_SOLDIER_1948 = 1948;</code>
      *
@@ -22909,7 +22925,7 @@ public final class Const {
      *	万分比	泰能攻城车（兵种类型 = 7，兵种等级 = 14）基础PLANT_SOLDIER_命增加	 = 命增加	; //
      * </pre>
      */
-    PLANT_SOLDIER_1948(1553, 1948),
+    PLANT_SOLDIER_1948(1557, 1948),
     /**
      * <code>SOLDIER_1949 = 1949;</code>
      *
@@ -22917,7 +22933,7 @@ public final class Const {
      *	万分比	主战坦克（兵种类型 = 2，兵种等级 = 13）基础攻击增加	实际基础攻击 = 兵种基础值 + 作用值/10000
      * </pre>
      */
-    SOLDIER_1949(1554, 1949),
+    SOLDIER_1949(1558, 1949),
     /**
      * <code>SOLDIER_1950 = 1950;</code>
      *
@@ -22925,7 +22941,7 @@ public final class Const {
      *	万分比	防御坦克（兵种类型 = 1，兵种等级 = 14）基础攻击增加	
      * </pre>
      */
-    SOLDIER_1950(1555, 1950),
+    SOLDIER_1950(1559, 1950),
     /**
      * <code>SOLDIER_1951 = 1951;</code>
      *
@@ -22933,7 +22949,7 @@ public final class Const {
      *	万分比	直升机（兵种类型 = 4，兵种等级 = 13）基础攻击增加	
      * </pre>
      */
-    SOLDIER_1951(1556, 1951),
+    SOLDIER_1951(1560, 1951),
     /**
      * <code>SOLDIER_1952 = 1952;</code>
      *
@@ -22941,7 +22957,7 @@ public final class Const {
      *	万分比	轰炸机（兵种类型 = 3，兵种等级 = 14）基础攻击增加	
      * </pre>
      */
-    SOLDIER_1952(1557, 1952),
+    SOLDIER_1952(1561, 1952),
     /**
      * <code>SOLDIER_1953 = 1953;</code>
      *
@@ -22949,7 +22965,7 @@ public final class Const {
      *	万分比	狙击兵（兵种类型 = 6，兵种等级 = 13）基础攻击增加	
      * </pre>
      */
-    SOLDIER_1953(1558, 1953),
+    SOLDIER_1953(1562, 1953),
     /**
      * <code>SOLDIER_1954 = 1954;</code>
      *
@@ -22957,7 +22973,7 @@ public final class Const {
      *	万分比	突击步兵（兵种类型 = 5，兵种等级 = 14）基础攻击增加	
      * </pre>
      */
-    SOLDIER_1954(1559, 1954),
+    SOLDIER_1954(1563, 1954),
     /**
      * <code>SOLDIER_1955 = 1955;</code>
      *
@@ -22965,7 +22981,7 @@ public final class Const {
      *	万分比	采矿车（兵种类型 = 8，兵种等级 = 13）基础攻击增加	
      * </pre>
      */
-    SOLDIER_1955(1560, 1955),
+    SOLDIER_1955(1564, 1955),
     /**
      * <code>SOLDIER_1956 = 1956;</code>
      *
@@ -22973,7 +22989,7 @@ public final class Const {
      *	万分比	攻城车（兵种类型 = 7，兵种等级 = 14）基础攻击增加	
      * </pre>
      */
-    SOLDIER_1956(1561, 1956),
+    SOLDIER_1956(1565, 1956),
     /**
      * <code>SOLDIER_1957 = 1957;</code>
      *
@@ -22981,7 +22997,7 @@ public final class Const {
      *	万分比	主战坦克（兵种类型 = 2，兵种等级 = 13）基础防御增加	实际基础防御 = 兵种基础值 + 作用值/10000
      * </pre>
      */
-    SOLDIER_1957(1562, 1957),
+    SOLDIER_1957(1566, 1957),
     /**
      * <code>SOLDIER_1958 = 1958;</code>
      *
@@ -22989,7 +23005,7 @@ public final class Const {
      *	万分比	防御坦克（兵种类型 = 1，兵种等级 = 14）基础防御增加	
      * </pre>
      */
-    SOLDIER_1958(1563, 1958),
+    SOLDIER_1958(1567, 1958),
     /**
      * <code>SOLDIER_1959 = 1959;</code>
      *
@@ -22997,7 +23013,7 @@ public final class Const {
      *	万分比	直升机（兵种类型 = 4，兵种等级 = 13）基础防御增加	
      * </pre>
      */
-    SOLDIER_1959(1564, 1959),
+    SOLDIER_1959(1568, 1959),
     /**
      * <code>SOLDIER_1960 = 1960;</code>
      *
@@ -23005,7 +23021,7 @@ public final class Const {
      *	万分比	轰炸机（兵种类型 = 3，兵种等级 = 14）基础防御增加	
      * </pre>
      */
-    SOLDIER_1960(1565, 1960),
+    SOLDIER_1960(1569, 1960),
     /**
      * <code>SOLDIER_1961 = 1961;</code>
      *
@@ -23013,7 +23029,7 @@ public final class Const {
      *	万分比	狙击兵（兵种类型 = 6，兵种等级 = 13）基础防御增加	
      * </pre>
      */
-    SOLDIER_1961(1566, 1961),
+    SOLDIER_1961(1570, 1961),
     /**
      * <code>SOLDIER_1962 = 1962;</code>
      *
@@ -23021,7 +23037,7 @@ public final class Const {
      *	万分比	突击步兵（兵种类型 = 5，兵种等级 = 14）基础防御增加	
      * </pre>
      */
-    SOLDIER_1962(1567, 1962),
+    SOLDIER_1962(1571, 1962),
     /**
      * <code>SOLDIER_1963 = 1963;</code>
      *
@@ -23029,7 +23045,7 @@ public final class Const {
      *	万分比	采矿车（兵种类型 = 8，兵种等级 = 13）基础防御增加	
      * </pre>
      */
-    SOLDIER_1963(1568, 1963),
+    SOLDIER_1963(1572, 1963),
     /**
      * <code>SOLDIER_1964 = 1964;</code>
      *
@@ -23037,7 +23053,7 @@ public final class Const {
      *	万分比	攻城车（兵种类型 = 7，兵种等级 = 14）基础防御增加	
      * </pre>
      */
-    SOLDIER_1964(1569, 1964),
+    SOLDIER_1964(1573, 1964),
     /**
      * <code>SOLDIER_1965 = 1965;</code>
      *
@@ -23045,7 +23061,7 @@ public final class Const {
      *	万分比	主战坦克（兵种类型 = 2，兵种等级 = 13）基础生命增加	实际基础生命 = 兵种基础值 + 作用值/10000
      * </pre>
      */
-    SOLDIER_1965(1570, 1965),
+    SOLDIER_1965(1574, 1965),
     /**
      * <code>SOLDIER_1966 = 1966;</code>
      *
@@ -23053,7 +23069,7 @@ public final class Const {
      *	万分比	防御坦克（兵种类型 = 1，兵种等级 = 14）基础生命增加	
      * </pre>
      */
-    SOLDIER_1966(1571, 1966),
+    SOLDIER_1966(1575, 1966),
     /**
      * <code>SOLDIER_1967 = 1967;</code>
      *
@@ -23061,7 +23077,7 @@ public final class Const {
      *	万分比	直升机（兵种类型 = 4，兵种等级 = 13）基础生命增加	
      * </pre>
      */
-    SOLDIER_1967(1572, 1967),
+    SOLDIER_1967(1576, 1967),
     /**
      * <code>SOLDIER_1968 = 1968;</code>
      *
@@ -23069,7 +23085,7 @@ public final class Const {
      *	万分比	轰炸机（兵种类型 = 3，兵种等级 = 14）基础生命增加	
      * </pre>
      */
-    SOLDIER_1968(1573, 1968),
+    SOLDIER_1968(1577, 1968),
     /**
      * <code>SOLDIER_1969 = 1969;</code>
      *
@@ -23077,7 +23093,7 @@ public final class Const {
      *	万分比	狙击兵（兵种类型 = 6，兵种等级 = 13）基础生命增加	
      * </pre>
      */
-    SOLDIER_1969(1574, 1969),
+    SOLDIER_1969(1578, 1969),
     /**
      * <code>SOLDIER_1970 = 1970;</code>
      *
@@ -23085,7 +23101,7 @@ public final class Const {
      *	万分比	突击步兵（兵种类型 = 5，兵种等级 = 14）基础生命增加	
      * </pre>
      */
-    SOLDIER_1970(1575, 1970),
+    SOLDIER_1970(1579, 1970),
     /**
      * <code>SOLDIER_1971 = 1971;</code>
      *
@@ -23093,7 +23109,7 @@ public final class Const {
      *	万分比	采矿车（兵种类型 = 8，兵种等级 = 13）基础生命增加	
      * </pre>
      */
-    SOLDIER_1971(1576, 1971),
+    SOLDIER_1971(1580, 1971),
     /**
      * <code>SOLDIER_1972 = 1972;</code>
      *
@@ -23101,7 +23117,7 @@ public final class Const {
      *	万分比	攻城车（兵种类型 = 7，兵种等级 = 14）基础PLANT_SOLDIER_命增加	 = 命增加	; //
      * </pre>
      */
-    SOLDIER_1972(1577, 1972),
+    SOLDIER_1972(1581, 1972),
     /**
      * <code>FIRE_1980 = 1980;</code>
      *
@@ -23109,7 +23125,7 @@ public final class Const {
      * 部队火焰攻击力加成：1980
      * </pre>
      */
-    FIRE_1980(1578, 1980),
+    FIRE_1980(1582, 1980),
     /**
      * <code>FIRE_1981 = 1981;</code>
      *
@@ -23117,7 +23133,7 @@ public final class Const {
      * 坦克火焰攻击力加成：1981 兵种ID：1、2
      * </pre>
      */
-    FIRE_1981(1579, 1981),
+    FIRE_1981(1583, 1981),
     /**
      * <code>FIRE_1982 = 1982;</code>
      *
@@ -23125,7 +23141,7 @@ public final class Const {
      * 飞机火焰攻击力加成：1982 兵种ID：3、4
      * </pre>
      */
-    FIRE_1982(1580, 1982),
+    FIRE_1982(1584, 1982),
     /**
      * <code>FIRE_1983 = 1983;</code>
      *
@@ -23133,7 +23149,7 @@ public final class Const {
      * 步兵火焰攻击力加成：1983 兵种ID：5、6
      * </pre>
      */
-    FIRE_1983(1581, 1983),
+    FIRE_1983(1585, 1983),
     /**
      * <code>FIRE_1984 = 1984;</code>
      *
@@ -23141,7 +23157,7 @@ public final class Const {
      * 战车火焰攻击力加成：1984 兵种ID：7、8
      * </pre>
      */
-    FIRE_1984(1582, 1984),
+    FIRE_1984(1586, 1984),
     /**
      * <code>FIRE_DEF_1990 = 1990;</code>
      *
@@ -23149,7 +23165,7 @@ public final class Const {
      * 部队火焰抗性：1990
      * </pre>
      */
-    FIRE_DEF_1990(1583, 1990),
+    FIRE_DEF_1990(1587, 1990),
     /**
      * <code>FIRE_DEF_1991 = 1991;</code>
      *
@@ -23157,7 +23173,7 @@ public final class Const {
      * 坦克火焰抗性加成：1991  兵种ID：1、2
      * </pre>
      */
-    FIRE_DEF_1991(1584, 1991),
+    FIRE_DEF_1991(1588, 1991),
     /**
      * <code>FIRE_DEF_1992 = 1992;</code>
      *
@@ -23165,7 +23181,7 @@ public final class Const {
      * 飞机火焰抗性加成：1992  兵种ID：3、4
      * </pre>
      */
-    FIRE_DEF_1992(1585, 1992),
+    FIRE_DEF_1992(1589, 1992),
     /**
      * <code>FIRE_DEF_1993 = 1993;</code>
      *
@@ -23173,7 +23189,7 @@ public final class Const {
      * 步兵火焰抗性加成：1993 兵种ID：5、6
      * </pre>
      */
-    FIRE_DEF_1993(1586, 1993),
+    FIRE_DEF_1993(1590, 1993),
     /**
      * <code>FIRE_DEF_1994 = 1994;</code>
      *
@@ -23181,7 +23197,7 @@ public final class Const {
      * 战车火焰抗性加成：1994 兵种ID：7、8
      * </pre>
      */
-    FIRE_DEF_1994(1587, 1994),
+    FIRE_DEF_1994(1591, 1994),
     /**
      * <code>FIRE_2001 = 2001;</code>
      *
@@ -23189,7 +23205,7 @@ public final class Const {
      * 防御坦克火焰攻击力加成：2001兵种ID：1
      * </pre>
      */
-    FIRE_2001(1588, 2001),
+    FIRE_2001(1592, 2001),
     /**
      * <code>FIRE_2002 = 2002;</code>
      *
@@ -23197,7 +23213,7 @@ public final class Const {
      * 主站坦克火焰攻击力加成：2002 兵种ID：2
      * </pre>
      */
-    FIRE_2002(1589, 2002),
+    FIRE_2002(1593, 2002),
     /**
      * <code>FIRE_2003 = 2003;</code>
      *
@@ -23205,7 +23221,7 @@ public final class Const {
      * 轰炸机火焰攻击力加成：2003兵种ID：3
      * </pre>
      */
-    FIRE_2003(1590, 2003),
+    FIRE_2003(1594, 2003),
     /**
      * <code>FIRE_2004 = 2004;</code>
      *
@@ -23213,7 +23229,7 @@ public final class Const {
      * 直升机火焰攻击力加成：2004兵种ID：4
      * </pre>
      */
-    FIRE_2004(1591, 2004),
+    FIRE_2004(1595, 2004),
     /**
      * <code>FIRE_2005 = 2005;</code>
      *
@@ -23221,7 +23237,7 @@ public final class Const {
      * 突击步兵火焰攻击力加成：2005 兵种ID：5
      * </pre>
      */
-    FIRE_2005(1592, 2005),
+    FIRE_2005(1596, 2005),
     /**
      * <code>FIRE_2006 = 2006;</code>
      *
@@ -23229,7 +23245,7 @@ public final class Const {
      * 狙击兵火焰攻击力加成：2006 兵种ID：6
      * </pre>
      */
-    FIRE_2006(1593, 2006),
+    FIRE_2006(1597, 2006),
     /**
      * <code>FIRE_2007 = 2007;</code>
      *
@@ -23237,7 +23253,7 @@ public final class Const {
      * 攻城车火焰攻击力加成：2007 兵种ID：7
      * </pre>
      */
-    FIRE_2007(1594, 2007),
+    FIRE_2007(1598, 2007),
     /**
      * <code>FIRE_2008 = 2008;</code>
      *
@@ -23245,7 +23261,7 @@ public final class Const {
      * 采矿车火焰攻击力加成：2008 兵种ID：8
      * </pre>
      */
-    FIRE_2008(1595, 2008),
+    FIRE_2008(1599, 2008),
     /**
      * <code>FIRE_DEF_2011 = 2011;</code>
      *
@@ -23253,7 +23269,7 @@ public final class Const {
      * 防御坦克火焰抗性加成：2011兵种ID：1
      * </pre>
      */
-    FIRE_DEF_2011(1596, 2011),
+    FIRE_DEF_2011(1600, 2011),
     /**
      * <code>FIRE_DEF_2012 = 2012;</code>
      *
@@ -23261,7 +23277,7 @@ public final class Const {
      * 主站坦克火焰抗性加成：2012兵种ID：2
      * </pre>
      */
-    FIRE_DEF_2012(1597, 2012),
+    FIRE_DEF_2012(1601, 2012),
     /**
      * <code>FIRE_DEF_2013 = 2013;</code>
      *
@@ -23269,7 +23285,7 @@ public final class Const {
      * 轰炸机火焰抗性加成：2013兵种ID：3
      * </pre>
      */
-    FIRE_DEF_2013(1598, 2013),
+    FIRE_DEF_2013(1602, 2013),
     /**
      * <code>FIRE_DEF_2014 = 2014;</code>
      *
@@ -23277,7 +23293,7 @@ public final class Const {
      * 直升机火焰抗性加成：2014 兵种ID：4
      * </pre>
      */
-    FIRE_DEF_2014(1599, 2014),
+    FIRE_DEF_2014(1603, 2014),
     /**
      * <code>FIRE_DEF_2015 = 2015;</code>
      *
@@ -23285,7 +23301,7 @@ public final class Const {
      * 突击步兵火焰抗性加成：2015 兵种ID：5
      * </pre>
      */
-    FIRE_DEF_2015(1600, 2015),
+    FIRE_DEF_2015(1604, 2015),
     /**
      * <code>FIRE_DEF_2016 = 2016;</code>
      *
@@ -23293,7 +23309,7 @@ public final class Const {
      * 狙击兵火焰抗性加成：2016 兵种ID：6
      * </pre>
      */
-    FIRE_DEF_2016(1601, 2016),
+    FIRE_DEF_2016(1605, 2016),
     /**
      * <code>FIRE_DEF_2017 = 2017;</code>
      *
@@ -23301,7 +23317,7 @@ public final class Const {
      * 攻城车火焰抗性加成：2017 兵种ID：7
      * </pre>
      */
-    FIRE_DEF_2017(1602, 2017),
+    FIRE_DEF_2017(1606, 2017),
     /**
      * <code>FIRE_DEF_2018 = 2018;</code>
      *
@@ -23309,7 +23325,7 @@ public final class Const {
      * 采矿车火焰抗性加成：2018 兵种ID：8
      * </pre>
      */
-    FIRE_DEF_2018(1603, 2018),
+    FIRE_DEF_2018(1607, 2018),
     /**
      * <code>CROSS_EFF_10001 = 10001;</code>
      *
@@ -23317,7 +23333,7 @@ public final class Const {
      *	绝对值	发起国家集结时，集结空位增加	实际空位 = 基础空位 + 作用值	"1. 【前端】需要在国家集结界面中展示2. 这里不包含发起者自身占有1个空位"
      * </pre>
      */
-    CROSS_EFF_10001(1604, 10001),
+    CROSS_EFF_10001(1608, 10001),
     /**
      * <code>CROSS_EFF_10002 = 10002;</code>
      *
@@ -23325,7 +23341,7 @@ public final class Const {
      *	绝对值	发起国家集结时，集结部队数量上限增加	实际上限 = 基础上限 + 作用值	"1. 【前端】需要在国家集结界面中展示2. 这里不包含发起者的自身携带部队数量"
      * </pre>
      */
-    CROSS_EFF_10002(1605, 10002),
+    CROSS_EFF_10002(1609, 10002),
     /**
      * <code>CROSS_EFF_10003 = 10003;</code>
      *
@@ -23333,7 +23349,7 @@ public final class Const {
      *	万分比	攻击命中敌方主战坦克（兵种类型 = 2）时，伤害增加	实际伤害 = 基础伤害*（1 + 其他伤害加成）*（1 + 本作用值/10000）	这里伤害加成方式为累乘计算
      * </pre>
      */
-    CROSS_EFF_10003(1606, 10003),
+    CROSS_EFF_10003(1610, 10003),
     /**
      * <code>CROSS_EFF_10004 = 10004;</code>
      *
@@ -23341,7 +23357,7 @@ public final class Const {
      *	万分比	攻击命中敌方防御坦克（兵种类型 = 1）时，伤害增加		
      * </pre>
      */
-    CROSS_EFF_10004(1607, 10004),
+    CROSS_EFF_10004(1611, 10004),
     /**
      * <code>CROSS_EFF_10005 = 10005;</code>
      *
@@ -23349,7 +23365,7 @@ public final class Const {
      *	万分比	攻击命中敌方直升机（兵种类型 = 4）时，伤害增加		
      * </pre>
      */
-    CROSS_EFF_10005(1608, 10005),
+    CROSS_EFF_10005(1612, 10005),
     /**
      * <code>CROSS_EFF_10006 = 10006;</code>
      *
@@ -23357,7 +23373,7 @@ public final class Const {
      *	万分比	攻击命中敌方轰炸机（兵种类型 = 3）时，伤害增加		
      * </pre>
      */
-    CROSS_EFF_10006(1609, 10006),
+    CROSS_EFF_10006(1613, 10006),
     /**
      * <code>CROSS_EFF_10007 = 10007;</code>
      *
@@ -23365,7 +23381,7 @@ public final class Const {
      *	万分比	攻击命中敌方狙击兵（兵种类型 = 6）时，伤害增加		
      * </pre>
      */
-    CROSS_EFF_10007(1610, 10007),
+    CROSS_EFF_10007(1614, 10007),
     /**
      * <code>CROSS_EFF_10008 = 10008;</code>
      *
@@ -23373,7 +23389,7 @@ public final class Const {
      *	万分比	攻击命中敌方突击步兵（兵种类型 = 5）时，伤害增加		
      * </pre>
      */
-    CROSS_EFF_10008(1611, 10008),
+    CROSS_EFF_10008(1615, 10008),
     /**
      * <code>CROSS_EFF_10009 = 10009;</code>
      *
@@ -23381,7 +23397,7 @@ public final class Const {
      *	万分比	攻击命中敌方采矿车（兵种类型 = 8）时，伤害增加		
      * </pre>
      */
-    CROSS_EFF_10009(1612, 10009),
+    CROSS_EFF_10009(1616, 10009),
     /**
      * <code>CROSS_EFF_10010 = 10010;</code>
      *
@@ -23389,7 +23405,7 @@ public final class Const {
      *	万分比	攻击命中敌方攻城车（兵种类型 = 7）时，伤害增加		
      * </pre>
      */
-    CROSS_EFF_10010(1613, 10010),
+    CROSS_EFF_10010(1617, 10010),
     /**
      * <code>CROSS_EFF_10011 = 10011;</code>
      *
@@ -23397,7 +23413,7 @@ public final class Const {
      *	万分比	受到敌方主战坦克（兵种类型 = 2）攻击时，伤害减少	实际伤害 = 基础伤害 *（1 - 其他伤害减免）*（1 - 本作用值/10000）	这里伤害减免为累乘计算
      * </pre>
      */
-    CROSS_EFF_10011(1614, 10011),
+    CROSS_EFF_10011(1618, 10011),
     /**
      * <code>CROSS_EFF_10012 = 10012;</code>
      *
@@ -23405,7 +23421,7 @@ public final class Const {
      *	万分比	受到敌方防御坦克（兵种类型 = 1）攻击时，伤害减少		
      * </pre>
      */
-    CROSS_EFF_10012(1615, 10012),
+    CROSS_EFF_10012(1619, 10012),
     /**
      * <code>CROSS_EFF_10013 = 10013;</code>
      *
@@ -23413,7 +23429,7 @@ public final class Const {
      *	万分比	受到敌方直升机（兵种类型 = 4）攻击时，伤害减少		
      * </pre>
      */
-    CROSS_EFF_10013(1616, 10013),
+    CROSS_EFF_10013(1620, 10013),
     /**
      * <code>CROSS_EFF_10014 = 10014;</code>
      *
@@ -23421,7 +23437,7 @@ public final class Const {
      *	万分比	受到敌方轰炸机（兵种类型 = 3）攻击时，伤害减少		
      * </pre>
      */
-    CROSS_EFF_10014(1617, 10014),
+    CROSS_EFF_10014(1621, 10014),
     /**
      * <code>CROSS_EFF_10015 = 10015;</code>
      *
@@ -23429,7 +23445,7 @@ public final class Const {
      *	万分比	受到敌方狙击兵（兵种类型 = 6）攻击时，伤害减少		
      * </pre>
      */
-    CROSS_EFF_10015(1618, 10015),
+    CROSS_EFF_10015(1622, 10015),
     /**
      * <code>CROSS_EFF_10016 = 10016;</code>
      *
@@ -23437,7 +23453,7 @@ public final class Const {
      *	万分比	受到敌方突击步兵（兵种类型 = 5）攻击时，伤害减少		
      * </pre>
      */
-    CROSS_EFF_10016(1619, 10016),
+    CROSS_EFF_10016(1623, 10016),
     /**
      * <code>CROSS_EFF_10017 = 10017;</code>
      *
@@ -23445,7 +23461,7 @@ public final class Const {
      *	万分比	受到敌方采矿车（兵种类型 = 8）攻击时，伤害减少		
      * </pre>
      */
-    CROSS_EFF_10017(1620, 10017),
+    CROSS_EFF_10017(1624, 10017),
     /**
      * <code>CROSS_EFF_10018 = 10018;</code>
      *
@@ -23453,7 +23469,7 @@ public final class Const {
      *	万分比	受到敌方攻城车（兵种类型 = 7）攻击时，伤害减少		
      * </pre>
      */
-    CROSS_EFF_10018(1621, 10018),
+    CROSS_EFF_10018(1625, 10018),
     /**
      * <code>CROSS_EFF_10019 = 10019;</code>
      *
@@ -23461,7 +23477,7 @@ public final class Const {
      *	万分比	主战坦克（兵种类型 = 2）基础防御增加	实际防御 = 基础防御*（1 + 其他外围防御加成）*（1 + 本作用值/10000 + 【10027】/10000 + 【10028】/10000）	这里为基础防御属性，与常规外围防御属性为累乘计算
      * </pre>
      */
-    CROSS_EFF_10019(1622, 10019),
+    CROSS_EFF_10019(1626, 10019),
     /**
      * <code>CROSS_EFF_10020 = 10020;</code>
      *
@@ -23469,7 +23485,7 @@ public final class Const {
      *	万分比	防御坦克（兵种类型 = 1）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10020(1623, 10020),
+    CROSS_EFF_10020(1627, 10020),
     /**
      * <code>CROSS_EFF_10021 = 10021;</code>
      *
@@ -23477,7 +23493,7 @@ public final class Const {
      *	万分比	直升机（兵种类型 = 4）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10021(1624, 10021),
+    CROSS_EFF_10021(1628, 10021),
     /**
      * <code>CROSS_EFF_10022 = 10022;</code>
      *
@@ -23485,7 +23501,7 @@ public final class Const {
      *	万分比	轰炸机（兵种类型 = 3）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10022(1625, 10022),
+    CROSS_EFF_10022(1629, 10022),
     /**
      * <code>CROSS_EFF_10023 = 10023;</code>
      *
@@ -23493,7 +23509,7 @@ public final class Const {
      *	万分比	狙击兵（兵种类型 = 6）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10023(1626, 10023),
+    CROSS_EFF_10023(1630, 10023),
     /**
      * <code>CROSS_EFF_10024 = 10024;</code>
      *
@@ -23501,7 +23517,7 @@ public final class Const {
      *	万分比	突击步兵（兵种类型 = 5）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10024(1627, 10024),
+    CROSS_EFF_10024(1631, 10024),
     /**
      * <code>CROSS_EFF_10025 = 10025;</code>
      *
@@ -23509,7 +23525,7 @@ public final class Const {
      *	万分比	采矿车（兵种类型 = 8）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10025(1628, 10025),
+    CROSS_EFF_10025(1632, 10025),
     /**
      * <code>CROSS_EFF_10026 = 10026;</code>
      *
@@ -23517,7 +23533,7 @@ public final class Const {
      *	万分比	攻城车（兵种类型 = 7）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10026(1629, 10026),
+    CROSS_EFF_10026(1633, 10026),
     /**
      * <code>CROSS_EFF_10027 = 10027;</code>
      *
@@ -23525,7 +23541,7 @@ public final class Const {
      *	万分比	于电塔建筑内战斗时，部队（兵种类型 = 1~8）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10027(1630, 10027),
+    CROSS_EFF_10027(1634, 10027),
     /**
      * <code>CROSS_EFF_10028 = 10028;</code>
      *
@@ -23533,7 +23549,7 @@ public final class Const {
      *	万分比	于盟总建筑内战斗时，部队（兵种类型 = 1~8）基础防御增加		
      * </pre>
      */
-    CROSS_EFF_10028(1631, 10028),
+    CROSS_EFF_10028(1635, 10028),
     /**
      * <code>CROSS_EFF_10029 = 10029;</code>
      *
@@ -23541,7 +23557,7 @@ public final class Const {
      *	万分比	主战坦克（兵种类型 = 2）基础生命增加	实际生命 = 基础生命*（1 + 其他外围生命加成）*（1 + 本作用值/10000 + 【10037】/10000 + 【10038】/10000）	这里为基础生命属性，与常规外围生命属性为累乘计算
      * </pre>
      */
-    CROSS_EFF_10029(1632, 10029),
+    CROSS_EFF_10029(1636, 10029),
     /**
      * <code>CROSS_EFF_10030 = 10030;</code>
      *
@@ -23549,7 +23565,7 @@ public final class Const {
      *	万分比	防御坦克（兵种类型 = 1）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10030(1633, 10030),
+    CROSS_EFF_10030(1637, 10030),
     /**
      * <code>CROSS_EFF_10031 = 10031;</code>
      *
@@ -23557,7 +23573,7 @@ public final class Const {
      *	万分比	直升机（兵种类型 = 4）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10031(1634, 10031),
+    CROSS_EFF_10031(1638, 10031),
     /**
      * <code>CROSS_EFF_10032 = 10032;</code>
      *
@@ -23565,7 +23581,7 @@ public final class Const {
      *	万分比	轰炸机（兵种类型 = 3）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10032(1635, 10032),
+    CROSS_EFF_10032(1639, 10032),
     /**
      * <code>CROSS_EFF_10033 = 10033;</code>
      *
@@ -23573,7 +23589,7 @@ public final class Const {
      *	万分比	狙击兵（兵种类型 = 6）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10033(1636, 10033),
+    CROSS_EFF_10033(1640, 10033),
     /**
      * <code>CROSS_EFF_10034 = 10034;</code>
      *
@@ -23581,7 +23597,7 @@ public final class Const {
      *	万分比	突击步兵（兵种类型 = 5）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10034(1637, 10034),
+    CROSS_EFF_10034(1641, 10034),
     /**
      * <code>CROSS_EFF_10035 = 10035;</code>
      *
@@ -23589,7 +23605,7 @@ public final class Const {
      *	万分比	采矿车（兵种类型 = 8）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10035(1638, 10035),
+    CROSS_EFF_10035(1642, 10035),
     /**
      * <code>CROSS_EFF_10036 = 10036;</code>
      *
@@ -23597,7 +23613,7 @@ public final class Const {
      *	万分比	攻城车（兵种类型 = 7）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10036(1639, 10036),
+    CROSS_EFF_10036(1643, 10036),
     /**
      * <code>CROSS_EFF_10037 = 10037;</code>
      *
@@ -23605,7 +23621,7 @@ public final class Const {
      *	万分比	于电塔建筑内战斗时，部队（兵种类型 = 1~8）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10037(1640, 10037),
+    CROSS_EFF_10037(1644, 10037),
     /**
      * <code>CROSS_EFF_10038 = 10038;</code>
      *
@@ -23613,7 +23629,7 @@ public final class Const {
      *	万分比	于盟总建筑内战斗时，部队（兵种类型 = 1~8）基础生命增加		
      * </pre>
      */
-    CROSS_EFF_10038(1641, 10038),
+    CROSS_EFF_10038(1645, 10038),
     /**
      * <code>CROSS_EFF_10039 = 10039;</code>
      *
@@ -23621,7 +23637,7 @@ public final class Const {
      *	万分比	主战坦克（兵种类型 = 2）基础攻击增加	实际攻击 = 基础攻击*（1 + 其他外围攻击加成）*（1 + 本作用值/10000 + 【10047】/10000 + 【10048】/10000）	这里为基础攻击属性，与常规外围攻击属性为累乘计算
      * </pre>
      */
-    CROSS_EFF_10039(1642, 10039),
+    CROSS_EFF_10039(1646, 10039),
     /**
      * <code>CROSS_EFF_10040 = 10040;</code>
      *
@@ -23629,7 +23645,7 @@ public final class Const {
      *	万分比	防御坦克（兵种类型 = 1）基础攻击增加		
      * </pre>
      */
-    CROSS_EFF_10040(1643, 10040),
+    CROSS_EFF_10040(1647, 10040),
     /**
      * <code>CROSS_EFF_10041 = 10041;</code>
      *
@@ -23637,7 +23653,7 @@ public final class Const {
      *	万分比	直升机（兵种类型 = 4）基础攻击增加		
      * </pre>
      */
-    CROSS_EFF_10041(1644, 10041),
+    CROSS_EFF_10041(1648, 10041),
     /**
      * <code>CROSS_EFF_10042 = 10042;</code>
      *
@@ -23645,7 +23661,7 @@ public final class Const {
      *	万分比	轰炸机（兵种类型 = 3）基础攻击增加		
      * </pre>
      */
-    CROSS_EFF_10042(1645, 10042),
+    CROSS_EFF_10042(1649, 10042),
     /**
      * <code>CROSS_EFF_10043 = 10043;</code>
      *
@@ -23653,7 +23669,7 @@ public final class Const {
      *	万分比	狙击兵（兵种类型 = 6）基础攻击增加		
      * </pre>
      */
-    CROSS_EFF_10043(1646, 10043),
+    CROSS_EFF_10043(1650, 10043),
     /**
      * <code>CROSS_EFF_10044 = 10044;</code>
      *
@@ -23661,7 +23677,7 @@ public final class Const {
      *	万分比	突击步兵（兵种类型 = 5）基础攻击增加		
      * </pre>
      */
-    CROSS_EFF_10044(1647, 10044),
+    CROSS_EFF_10044(1651, 10044),
     /**
      * <code>CROSS_EFF_10045 = 10045;</code>
      *
@@ -23669,7 +23685,7 @@ public final class Const {
      *	万分比	采矿车（兵种类型 = 8）基础攻击增加		
      * </pre>
      */
-    CROSS_EFF_10045(1648, 10045),
+    CROSS_EFF_10045(1652, 10045),
     /**
      * <code>CROSS_EFF_10046 = 10046;</code>
      *
@@ -23677,7 +23693,7 @@ public final class Const {
      *	万分比	攻城车（兵种类型 = 7）基础攻击增加		
      * </pre>
      */
-    CROSS_EFF_10046(1649, 10046),
+    CROSS_EFF_10046(1653, 10046),
     /**
      * <code>CROSS_EFF_10047 = 10047;</code>
      *
@@ -23685,7 +23701,7 @@ public final class Const {
      *	万分比	于电塔建筑内战斗时，部队（兵种类型 = 1~8）基础攻击增加		
      * </pre>
      */
-    CROSS_EFF_10047(1650, 10047),
+    CROSS_EFF_10047(1654, 10047),
     /**
      * <code>CROSS_EFF_10048 = 10048;</code>
      *
@@ -23693,7 +23709,7 @@ public final class Const {
      *	万分比	于盟总建筑内战斗时，部队（兵种类型 = 1~8）基础攻击增加 
      * </pre>
      */
-    CROSS_EFF_10048(1651, 10048),
+    CROSS_EFF_10048(1655, 10048),
     /**
      * <code>ARMOUR_11001 = 11001;</code>
      *
@@ -23701,7 +23717,7 @@ public final class Const {
      *	万分比	装备泰晶属性额外提升	装备泰晶实际属性 = 泰晶基础配置/10000 *（1 + 本作用值/10000）	"这里改变的是装备泰晶的属性 对应装备界面中泰晶的属性展示和其在战报中的展示自动变化"
      * </pre>
      */
-    ARMOUR_11001(1652, 11001),
+    ARMOUR_11001(1656, 11001),
     /**
      * <code>ARMOUR_11002 = 11002;</code>
      *
@@ -23709,7 +23725,7 @@ public final class Const {
      *	万分比	装备充能属性额外提升	装备充能实际属性 = 充能基础属性/10000 * 充能进度/10000 *（1 + 本作用值/10000）	"这里改变的是装备充能的属性 对应装备界面中充能的属性展示和其在战报中的展示自动变化"
      * </pre>
      */
-    ARMOUR_11002(1653, 11002),
+    ARMOUR_11002(1657, 11002),
     /**
      * <code>ARMOUR_11003 = 11003;</code>
      *
@@ -23717,7 +23733,7 @@ public final class Const {
      *	万分比	主战坦克（兵种类型 = 2）攻击每命中1个不同的目标后，自身暴击伤害增加XX%（至多叠加X层）	实际伤害 = 基础伤害 *（1 + 其他伤害加成 + 本作用值/10000）	"不同目标定义：战斗中的独立战斗单位，即只有同玩家同兵种id的才算同一目标，其他情况都是不同的目标单位（这里只算部队-兵种类型 = 1~8的） 至多叠加层数读取const表，字段effect11003TimesLimit"
      * </pre>
      */
-    ARMOUR_11003(1654, 11003),
+    ARMOUR_11003(1658, 11003),
     /**
      * <code>ARMOUR_11004 = 11004;</code>
      *
@@ -23725,7 +23741,7 @@ public final class Const {
      *	万分比	防御坦克（兵种类型 = 2）每受到1次攻击后，受到伤害减少XX%（至多叠加X层）	实际受到伤害 = 基础伤害*（1 - 其他作用号减免）*（1 - 本作用值/10000）	至多叠加层数读取const表，字段effect11004TimesLimit
      * </pre>
      */
-    ARMOUR_11004(1655, 11004),
+    ARMOUR_11004(1659, 11004),
     /**
      * <code>ARMOUR_11005 = 11005;</code>
      *
@@ -23733,7 +23749,7 @@ public final class Const {
      *	万分比	直升机（兵种类型 = 4）战斗开始时，增加己方所有空军（兵种类型 = 4或3）部队XX%的攻击加成（至多叠加X层）	实际攻击 = 基础攻击 *（1 + 其他作用号 + 本作用值/10000）	"每个玩家拥有此作用号只会生效1层 个人和集结战斗都生效，对战斗中所有玩家生效 至多叠加层数读取const表，字段effect11005TimesLimit"
      * </pre>
      */
-    ARMOUR_11005(1656, 11005),
+    ARMOUR_11005(1660, 11005),
     /**
      * <code>ARMOUR_11006 = 11006;</code>
      *
@@ -23741,7 +23757,7 @@ public final class Const {
      *	万分比	轰炸机（兵种类型 = 3）在触发技能【智能护盾 = 302】时，增加自身XX%生命加成（持续2回合）	实际生命 = 基础生命 *（1 + 其他作用号 + 本作用值/10000）	
      * </pre>
      */
-    ARMOUR_11006(1657, 11006),
+    ARMOUR_11006(1661, 11006),
     /**
      * <code>ARMOUR_11007 = 11007;</code>
      *
@@ -23749,7 +23765,7 @@ public final class Const {
      *	万分比	狙击兵（兵种类型 = 6）在自身后排存在其他兵种时，增加自身XX%伤害加成	实际伤害 = 基础伤害 *（1 + 其他伤害加成 + 本作用值/10000）	"自身后排的兵种只算部队-兵种类型 = 1~8的 个人和集结战斗都生效"
      * </pre>
      */
-    ARMOUR_11007(1658, 11007),
+    ARMOUR_11007(1662, 11007),
     /**
      * <code>ARMOUR_11008 = 11008;</code>
      *
@@ -23757,7 +23773,7 @@ public final class Const {
      *	万分比	狙击兵（兵种类型 = 6）在自身后排不存在其他兵种时，增加自身XX%生命加成	实际生命 = 基础生命 *（1 + 其他作用号 + 本作用值/10000）	
      * </pre>
      */
-    ARMOUR_11008(1659, 11008),
+    ARMOUR_11008(1663, 11008),
     /**
      * <code>ARMOUR_11009 = 11009;</code>
      *
@@ -23765,7 +23781,7 @@ public final class Const {
      *	万分比	突击步兵（兵种类型 = 5）在战斗中每损失XX%的数量时，增加自身YY%伤害加成（至多叠加X层）	"实际伤害 = 基础伤害 *（1 + 其他伤害加成 + 本作用值/10000）损失比率 = 战斗中突击步兵损失数量/战斗初始化时突击步兵部队数量战斗初始化时突击步兵部队数量 = 实际数量 * （1 + 所罗门效果）"	"这里计算战斗中的部队损失，若携带所罗门上阵，则战斗初始化时部队数量会高于实际携带部队数量至多叠加层数读取const表，字段effect11009TimesLimit【扭曲力场】为作用号1121的效果【扭曲力场】基础触发概率读取const表，字段effect1121Prob至多叠加层数读取const表，字段effect11010TimesLimit"
      * </pre>
      */
-    ARMOUR_11009(1660, 11009),
+    ARMOUR_11009(1664, 11009),
     /**
      * <code>ARMOUR_11010 = 11010;</code>
      *
@@ -23773,7 +23789,7 @@ public final class Const {
      *	万分比	突击步兵（兵种类型 = 5）在战斗中每损失XX%的数量时，芯片【扭曲力场】触发概率额外增加YY%（至多叠加X层）	"实际概率 = 基础概率 + 额外增加概率/10000实际概率合法取值区间【0,1】"	
      * </pre>
      */
-    ARMOUR_11010(1661, 11010),
+    ARMOUR_11010(1665, 11010),
     /**
      * <code>ARMOUR_11011 = 11011;</code>
      *
@@ -23781,7 +23797,7 @@ public final class Const {
      *	万分比	采矿车（兵种类型 = 8）在受到近战部队（兵种类型 = 2/1/3/8）攻击时，所受伤害减少XX%	实际受到伤害 = 基础伤害*（1 - 其他作用号减免）*（1 - 本作用值/10000）	
      * </pre>
      */
-    ARMOUR_11011(1662, 11011),
+    ARMOUR_11011(1666, 11011),
     /**
      * <code>ARMOUR_11012 = 11012;</code>
      *
@@ -23789,7 +23805,7 @@ public final class Const {
      *	万分比	攻城车（兵种类型 = 7）攻击命中敌方部队后，降低其XX%生命加成（至多叠加X层）	实际生命 = 基础生命 *（1 + 其他作用号 - 本作用值/10000）	"每个玩家拥有此作用号后，造成效果只会生效1层该debuff效果记录在敌方部队身上至多叠加层数读取const表，字段effect11012TimesLimit"
      * </pre>
      */
-    ARMOUR_11012(1663, 11012),
+    ARMOUR_11012(1667, 11012),
     /**
      * <code>ARMOUR_11013 = 11013;</code>
      *
@@ -23797,7 +23813,7 @@ public final class Const {
      *	万分比	攻城车（兵种类型 = 7）攻击每命中1个敌方部队后，增加自身XX%生命加成（至多叠加X层）	实际生命 = 基础生命 *（1 + 其他作用号 + 本作用值/10000）	"每攻击命中敌方1个目标，层数+1至多叠加层数读取const表，字段effect11013TimesLimit"
      * </pre>
      */
-    ARMOUR_11013(1664, 11013),
+    ARMOUR_11013(1668, 11013),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11014 = 11014;</code>
      *
@@ -23805,7 +23821,7 @@ public final class Const {
      * 主武器基础属性增加。装备实际基础属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11014(1665, 11014),
+    ARMOUR_STAR_EXPLORE_11014(1669, 11014),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11015 = 11015;</code>
      *
@@ -23813,7 +23829,7 @@ public final class Const {
      * 手枪基础属性增加。装备实际基础属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11015(1666, 11015),
+    ARMOUR_STAR_EXPLORE_11015(1670, 11015),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11016 = 11016;</code>
      *
@@ -23821,7 +23837,7 @@ public final class Const {
      * 匕首基础属性增加。装备实际基础属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11016(1667, 11016),
+    ARMOUR_STAR_EXPLORE_11016(1671, 11016),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11017 = 11017;</code>
      *
@@ -23829,7 +23845,7 @@ public final class Const {
      * 投掷武器基础属性增加。装备实际基础属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11017(1668, 11017),
+    ARMOUR_STAR_EXPLORE_11017(1672, 11017),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11018 = 11018;</code>
      *
@@ -23837,7 +23853,7 @@ public final class Const {
      * 头盔基础属性增加。装备实际基础属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11018(1669, 11018),
+    ARMOUR_STAR_EXPLORE_11018(1673, 11018),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11019 = 11019;</code>
      *
@@ -23845,7 +23861,7 @@ public final class Const {
      * 护甲基础属性增加。装备实际基础属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11019(1670, 11019),
+    ARMOUR_STAR_EXPLORE_11019(1674, 11019),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11020 = 11020;</code>
      *
@@ -23853,7 +23869,7 @@ public final class Const {
      * 鞋子基础属性增加。装备实际基础属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11020(1671, 11020),
+    ARMOUR_STAR_EXPLORE_11020(1675, 11020),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11021 = 11021;</code>
      *
@@ -23861,7 +23877,7 @@ public final class Const {
      * 主武器附加属性增加。装备实际附加属性 = 附加配置/10000 *（1 + 本作用值/10000）（注意：若1602同时生效，这两个为累加关系）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11021(1672, 11021),
+    ARMOUR_STAR_EXPLORE_11021(1676, 11021),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11022 = 11022;</code>
      *
@@ -23869,7 +23885,7 @@ public final class Const {
      * 手枪附加属性增加。装备实际附加属性 = 附加配置/10000 *（1 + 本作用值/10000）（注意：若1602同时生效，这两个为累加关系）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11022(1673, 11022),
+    ARMOUR_STAR_EXPLORE_11022(1677, 11022),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11023 = 11023;</code>
      *
@@ -23877,7 +23893,7 @@ public final class Const {
      * 匕首附加属性增加。装备实际附加属性 = 附加配置/10000 *（1 + 本作用值/10000）（注意：若1602同时生效，这两个为累加关系）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11023(1674, 11023),
+    ARMOUR_STAR_EXPLORE_11023(1678, 11023),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11024 = 11024;</code>
      *
@@ -23885,7 +23901,7 @@ public final class Const {
      * 投掷武器附加属性增加。装备实际附加属性 = 附加配置/10000 *（1 + 本作用值/10000）（注意：若1602同时生效，这两个为累加关系）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11024(1675, 11024),
+    ARMOUR_STAR_EXPLORE_11024(1679, 11024),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11025 = 11025;</code>
      *
@@ -23893,7 +23909,7 @@ public final class Const {
      * 头盔附加属性增加。装备实际附加属性 = 附加配置/10000 *（1 + 本作用值/10000）（注意：若1602同时生效，这两个为累加关系）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11025(1676, 11025),
+    ARMOUR_STAR_EXPLORE_11025(1680, 11025),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11026 = 11026;</code>
      *
@@ -23901,7 +23917,7 @@ public final class Const {
      * 护甲附加属性增加。装备实际附加属性 = 附加配置/10000 *（1 + 本作用值/10000）（注意：若1602同时生效，这两个为累加关系）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11026(1677, 11026),
+    ARMOUR_STAR_EXPLORE_11026(1681, 11026),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11027 = 11027;</code>
      *
@@ -23909,7 +23925,7 @@ public final class Const {
      * 鞋子附加属性增加。装备实际附加属性 = 附加配置/10000 *（1 + 本作用值/10000）（注意：若1602同时生效，这两个为累加关系）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11027(1678, 11027),
+    ARMOUR_STAR_EXPLORE_11027(1682, 11027),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11028 = 11028;</code>
      *
@@ -23917,7 +23933,7 @@ public final class Const {
      * 装备阵列属性增加。装备实际阵列属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11028(1679, 11028),
+    ARMOUR_STAR_EXPLORE_11028(1683, 11028),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11029 = 11029;</code>
      *
@@ -23925,7 +23941,7 @@ public final class Const {
      * 装备特殊属性增加。装备特殊阵列属性 = 基础配置/10000 *（1 + 本作用值/10000）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11029(1680, 11029),
+    ARMOUR_STAR_EXPLORE_11029(1684, 11029),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11030 = 11030;</code>
      *
@@ -23933,7 +23949,7 @@ public final class Const {
      * 装备全属性增加。装备实际属性 = 基础配置/10000 *（1 + 本作用值/10000）（基础属性，阵列属性，特殊属性，泰晶属性，附加属性，泰能属性，套装属性）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11030(1681, 11030),
+    ARMOUR_STAR_EXPLORE_11030(1685, 11030),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11031 = 11031;</code>
      *
@@ -23941,7 +23957,7 @@ public final class Const {
      *  - 11031：每解锁一个红装，全部装备阵列属性增加。
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11031(1682, 11031),
+    ARMOUR_STAR_EXPLORE_11031(1686, 11031),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11032 = 11032;</code>
      *
@@ -23949,7 +23965,7 @@ public final class Const {
      * - 11032：每解锁一个红装，全部装备特殊属性增加。
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11032(1683, 11032),
+    ARMOUR_STAR_EXPLORE_11032(1687, 11032),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11034 = 11034;</code>
      *
@@ -23957,7 +23973,7 @@ public final class Const {
      * - 11034：每解锁一个红装，全部装备附加属性增加。（和11021-11027一样，再次累加）（完美词条颜色变红）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11034(1684, 11034),
+    ARMOUR_STAR_EXPLORE_11034(1688, 11034),
     /**
      * <code>ARMOUR_STAR_EXPLORE_11035 = 11035;</code>
      *
@@ -23965,7 +23981,7 @@ public final class Const {
      *  - 11035：全部装备附加属性增加。（和11021-11027，11034一样，再次累加）
      * </pre>
      */
-    ARMOUR_STAR_EXPLORE_11035(1685, 11035),
+    ARMOUR_STAR_EXPLORE_11035(1689, 11035),
     /**
      * <code>ATK_MONSTER_ENERGY_DETECTOR = 50001;</code>
      *
@@ -23973,7 +23989,7 @@ public final class Const {
      * 打怪能量探测器翻倍
      * </pre>
      */
-    ATK_MONSTER_ENERGY_DETECTOR(1686, 50001),
+    ATK_MONSTER_ENERGY_DETECTOR(1690, 50001),
     /**
      * <code>ATK_MONSTER_HONNER_DETECTOR = 50002;</code>
      *
@@ -23981,7 +23997,7 @@ public final class Const {
      * 打怪勋章探测器翻倍
      * </pre>
      */
-    ATK_MONSTER_HONNER_DETECTOR(1687, 50002),
+    ATK_MONSTER_HONNER_DETECTOR(1691, 50002),
     /**
      * <code>ADD_ARMY_ATK = 60001;</code>
      *
@@ -23989,7 +24005,7 @@ public final class Const {
      * 增加部队攻击
      * </pre>
      */
-    ADD_ARMY_ATK(1688, 60001),
+    ADD_ARMY_ATK(1692, 60001),
     /**
      * <code>RES_TO_PROTECTED = 60003;</code>
      *
@@ -23997,7 +24013,7 @@ public final class Const {
      * 采集和生产资源转化为保护资源
      * </pre>
      */
-    RES_TO_PROTECTED(1689, 60003),
+    RES_TO_PROTECTED(1693, 60003),
     /**
      * <code>RED_TREATE_ARMY_TIME = 60005;</code>
      *
@@ -24005,7 +24021,7 @@ public final class Const {
      * 减少治疗士兵消耗时间
      * </pre>
      */
-    RED_TREATE_ARMY_TIME(1690, 60005),
+    RED_TREATE_ARMY_TIME(1694, 60005),
     /**
      * <code>SKILL_10304 = 60006;</code>
      *
@@ -24013,7 +24029,7 @@ public final class Const {
      * 打野技能专用buff
      * </pre>
      */
-    SKILL_10304(1691, 60006),
+    SKILL_10304(1695, 60006),
     /**
      * <code>IMAGE_CIRCLE_BUFF_73000 = 73000;</code>
      *
@@ -24021,7 +24037,7 @@ public final class Const {
      * 新年头像框-永久	
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_73000(1692, 73000),
+    IMAGE_CIRCLE_BUFF_73000(1696, 73000),
     /**
      * <code>IMAGE_CIRCLE_BUFF_74000 = 74000;</code>
      *
@@ -24029,7 +24045,7 @@ public final class Const {
      * 情人节头像框-永久
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_74000(1693, 74000),
+    IMAGE_CIRCLE_BUFF_74000(1697, 74000),
     /**
      * <code>IMAGE_CIRCLE_BUFF_76000 = 76000;</code>
      *
@@ -24037,7 +24053,7 @@ public final class Const {
      * 远航头像框-永久
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_76000(1694, 76000),
+    IMAGE_CIRCLE_BUFF_76000(1698, 76000),
     /**
      * <code>IMAGE_CIRCLE_BUFF_77000 = 77000;</code>
      *
@@ -24045,7 +24061,7 @@ public final class Const {
      * 冰火王座头像框-永久
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_77000(1695, 77000),
+    IMAGE_CIRCLE_BUFF_77000(1699, 77000),
     /**
      * <code>IMAGE_CIRCLE_BUFF_78000 = 78000;</code>
      *
@@ -24053,7 +24069,7 @@ public final class Const {
      * 半周年头像框-永久
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_78000(1696, 78000),
+    IMAGE_CIRCLE_BUFF_78000(1700, 78000),
     /**
      * <code>AUTO_ATK_MONSTER = 80001;</code>
      *
@@ -24061,7 +24077,7 @@ public final class Const {
      * 自动打野buff
      * </pre>
      */
-    AUTO_ATK_MONSTER(1697, 80001),
+    AUTO_ATK_MONSTER(1701, 80001),
     /**
      * <code>IMAGE_CIRCLE_BUFF_711000 = 711000;</code>
      *
@@ -24069,7 +24085,7 @@ public final class Const {
      * 战区A级头像框-永久
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_711000(1698, 711000),
+    IMAGE_CIRCLE_BUFF_711000(1702, 711000),
     /**
      * <code>IMAGE_CIRCLE_BUFF_711001 = 711001;</code>
      *
@@ -24077,7 +24093,7 @@ public final class Const {
      * 战区A级头像框（1天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_711001(1699, 711001),
+    IMAGE_CIRCLE_BUFF_711001(1703, 711001),
     /**
      * <code>IMAGE_CIRCLE_BUFF_711003 = 711003;</code>
      *
@@ -24085,7 +24101,7 @@ public final class Const {
      * 战区A级头像框（3天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_711003(1700, 711003),
+    IMAGE_CIRCLE_BUFF_711003(1704, 711003),
     /**
      * <code>IMAGE_CIRCLE_BUFF_711007 = 711007;</code>
      *
@@ -24093,7 +24109,7 @@ public final class Const {
      * 战区A级头像框（7天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_711007(1701, 711007),
+    IMAGE_CIRCLE_BUFF_711007(1705, 711007),
     /**
      * <code>IMAGE_CIRCLE_BUFF_711014 = 711014;</code>
      *
@@ -24101,7 +24117,7 @@ public final class Const {
      * 战区A级头像框（14天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_711014(1702, 711014),
+    IMAGE_CIRCLE_BUFF_711014(1706, 711014),
     /**
      * <code>IMAGE_CIRCLE_BUFF_711030 = 711030;</code>
      *
@@ -24109,7 +24125,7 @@ public final class Const {
      * 战区A级头像框（30天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_711030(1703, 711030),
+    IMAGE_CIRCLE_BUFF_711030(1707, 711030),
     /**
      * <code>IMAGE_CIRCLE_BUFF_712000 = 712000;</code>
      *
@@ -24117,7 +24133,7 @@ public final class Const {
      * 战区B级头像框-永久
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_712000(1704, 712000),
+    IMAGE_CIRCLE_BUFF_712000(1708, 712000),
     /**
      * <code>IMAGE_CIRCLE_BUFF_712001 = 712001;</code>
      *
@@ -24125,7 +24141,7 @@ public final class Const {
      * 战区B级头像框（1天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_712001(1705, 712001),
+    IMAGE_CIRCLE_BUFF_712001(1709, 712001),
     /**
      * <code>IMAGE_CIRCLE_BUFF_712003 = 712003;</code>
      *
@@ -24133,7 +24149,7 @@ public final class Const {
      * 战区B级头像框（3天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_712003(1706, 712003),
+    IMAGE_CIRCLE_BUFF_712003(1710, 712003),
     /**
      * <code>IMAGE_CIRCLE_BUFF_712007 = 712007;</code>
      *
@@ -24141,7 +24157,7 @@ public final class Const {
      * 战区B级头像框（7天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_712007(1707, 712007),
+    IMAGE_CIRCLE_BUFF_712007(1711, 712007),
     /**
      * <code>IMAGE_CIRCLE_BUFF_712014 = 712014;</code>
      *
@@ -24149,7 +24165,7 @@ public final class Const {
      * 战区B级头像框（14天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_712014(1708, 712014),
+    IMAGE_CIRCLE_BUFF_712014(1712, 712014),
     /**
      * <code>IMAGE_CIRCLE_BUFF_712030 = 712030;</code>
      *
@@ -24157,7 +24173,7 @@ public final class Const {
      * 战区B级头像框（30天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_712030(1709, 712030),
+    IMAGE_CIRCLE_BUFF_712030(1713, 712030),
     /**
      * <code>IMAGE_CIRCLE_BUFF_750001 = 750001;</code>
      *
@@ -24165,7 +24181,7 @@ public final class Const {
      * 盟军司令战头像框（1天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_750001(1710, 750001),
+    IMAGE_CIRCLE_BUFF_750001(1714, 750001),
     /**
      * <code>IMAGE_CIRCLE_BUFF_750003 = 750003;</code>
      *
@@ -24173,7 +24189,7 @@ public final class Const {
      * 盟军司令战头像框（3天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_750003(1711, 750003),
+    IMAGE_CIRCLE_BUFF_750003(1715, 750003),
     /**
      * <code>IMAGE_CIRCLE_BUFF_750007 = 750007;</code>
      *
@@ -24181,7 +24197,7 @@ public final class Const {
      * 盟军司令战头像框（7天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_750007(1712, 750007),
+    IMAGE_CIRCLE_BUFF_750007(1716, 750007),
     /**
      * <code>IMAGE_CIRCLE_BUFF_750014 = 750014;</code>
      *
@@ -24189,7 +24205,7 @@ public final class Const {
      * 盟军司令战头像框（14天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_750014(1713, 750014),
+    IMAGE_CIRCLE_BUFF_750014(1717, 750014),
     /**
      * <code>IMAGE_CIRCLE_BUFF_750030 = 750030;</code>
      *
@@ -24197,7 +24213,7 @@ public final class Const {
      * 盟军司令战头像框（30天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_750030(1714, 750030),
+    IMAGE_CIRCLE_BUFF_750030(1718, 750030),
     /**
      * <code>IMAGE_CIRCLE_BUFF_790000 = 790000;</code>
      *
@@ -24205,7 +24221,7 @@ public final class Const {
      * 战区S级头像框-永久
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_790000(1715, 790000),
+    IMAGE_CIRCLE_BUFF_790000(1719, 790000),
     /**
      * <code>IMAGE_CIRCLE_BUFF_790001 = 790001;</code>
      *
@@ -24213,7 +24229,7 @@ public final class Const {
      * 战区S级头像框（1天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_790001(1716, 790001),
+    IMAGE_CIRCLE_BUFF_790001(1720, 790001),
     /**
      * <code>IMAGE_CIRCLE_BUFF_790003 = 790003;</code>
      *
@@ -24221,7 +24237,7 @@ public final class Const {
      * 战区S级头像框（3天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_790003(1717, 790003),
+    IMAGE_CIRCLE_BUFF_790003(1721, 790003),
     /**
      * <code>IMAGE_CIRCLE_BUFF_790007 = 790007;</code>
      *
@@ -24229,7 +24245,7 @@ public final class Const {
      * 战区S级头像框（7天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_790007(1718, 790007),
+    IMAGE_CIRCLE_BUFF_790007(1722, 790007),
     /**
      * <code>IMAGE_CIRCLE_BUFF_790014 = 790014;</code>
      *
@@ -24237,7 +24253,7 @@ public final class Const {
      * 战区S级头像框（14天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_790014(1719, 790014),
+    IMAGE_CIRCLE_BUFF_790014(1723, 790014),
     /**
      * <code>IMAGE_CIRCLE_BUFF_790030 = 790030;</code>
      *
@@ -24245,7 +24261,7 @@ public final class Const {
      * 战区S级头像框（30天）
      * </pre>
      */
-    IMAGE_CIRCLE_BUFF_790030(1720, 790030),
+    IMAGE_CIRCLE_BUFF_790030(1724, 790030),
     /**
      * <code>BACK_PRIVILEGE_ATK_MONSTER_VIT_REDUCE = 28101;</code>
      *
@@ -24253,7 +24269,7 @@ public final class Const {
      *回流特权-打怪体力减少
      * </pre>
      */
-    BACK_PRIVILEGE_ATK_MONSTER_VIT_REDUCE(1721, 28101),
+    BACK_PRIVILEGE_ATK_MONSTER_VIT_REDUCE(1725, 28101),
     /**
      * <code>BACK_PRIVILEGE_ATK_MONSTER_AWARD_DOUBLE_TIMES = 28102;</code>
      *
@@ -24261,7 +24277,7 @@ public final class Const {
      *回流特权-每日前x次打野掉落翻倍（包含奖励和经验）
      * </pre>
      */
-    BACK_PRIVILEGE_ATK_MONSTER_AWARD_DOUBLE_TIMES(1722, 28102),
+    BACK_PRIVILEGE_ATK_MONSTER_AWARD_DOUBLE_TIMES(1726, 28102),
     /**
      * <code>BACK_PRIVILEGE_VIT_PER = 28103;</code>
      *
@@ -24269,7 +24285,7 @@ public final class Const {
      *回流特权-体力恢复加速, effectid=502
      * </pre>
      */
-    BACK_PRIVILEGE_VIT_PER(1723, 28103),
+    BACK_PRIVILEGE_VIT_PER(1727, 28103),
     /**
      * <code>BACK_PRIVILEGE_RES_COLLECT = 28104;</code>
      *
@@ -24277,7 +24293,7 @@ public final class Const {
      *回流特权-采集资源加速, effectid=333
      * </pre>
      */
-    BACK_PRIVILEGE_RES_COLLECT(1724, 28104),
+    BACK_PRIVILEGE_RES_COLLECT(1728, 28104),
     /**
      * <code>BACK_PRIVILEGE_RES_OUTPUT_BOOST = 28105;</code>
      *
@@ -24285,7 +24301,7 @@ public final class Const {
      *回流特权-生产资源加速, effectid=301
      * </pre>
      */
-    BACK_PRIVILEGE_RES_OUTPUT_BOOST(1725, 28105),
+    BACK_PRIVILEGE_RES_OUTPUT_BOOST(1729, 28105),
     /**
      * <code>BACK_PRIVILEGE_CITY_SPD_BUILD = 28106;</code>
      *
@@ -24293,7 +24309,7 @@ public final class Const {
      *回流特权-城建加速, effectid=400
      * </pre>
      */
-    BACK_PRIVILEGE_CITY_SPD_BUILD(1726, 28106),
+    BACK_PRIVILEGE_CITY_SPD_BUILD(1730, 28106),
     /**
      * <code>BACK_PRIVILEGE_CITY_SPD_SCIENCE = 28107;</code>
      *
@@ -24301,7 +24317,7 @@ public final class Const {
      *回流特权-研究加速, effectid=401
      * </pre>
      */
-    BACK_PRIVILEGE_CITY_SPD_SCIENCE(1727, 28107),
+    BACK_PRIVILEGE_CITY_SPD_SCIENCE(1731, 28107),
     /**
      * <code>BACK_PRIVILEGE_CITY_SPD_SOLDIER = 28108;</code>
      *
@@ -24309,7 +24325,7 @@ public final class Const {
      *回流特权-造兵速度加成effectid=402
      * </pre>
      */
-    BACK_PRIVILEGE_CITY_SPD_SOLDIER(1728, 28108),
+    BACK_PRIVILEGE_CITY_SPD_SOLDIER(1732, 28108),
     /**
      * <code>AUTO_PUT_RESOURCE = 28109;</code>
      *
@@ -24317,7 +24333,7 @@ public final class Const {
      *超时空特权 自动放锅
      * </pre>
      */
-    AUTO_PUT_RESOURCE(1729, 28109),
+    AUTO_PUT_RESOURCE(1733, 28109),
     /**
      * <code>AUTO_GATHER_RESOURCE = 28110;</code>
      *
@@ -24325,7 +24341,7 @@ public final class Const {
      *超时空特权 自动拉锅
      * </pre>
      */
-    AUTO_GATHER_RESOURCE(1730, 28110),
+    AUTO_GATHER_RESOURCE(1734, 28110),
     /**
      * <code>BLACK_TECH_367811 = 367811;</code>
      *
@@ -24333,7 +24349,7 @@ public final class Const {
      * 升级建筑勋章减少
      * </pre>
      */
-    BLACK_TECH_367811(1731, 367811),
+    BLACK_TECH_367811(1735, 367811),
     /**
      * <code>BLACK_TECH_367812 = 367812;</code>
      *
@@ -24341,7 +24357,7 @@ public final class Const {
      * 升级科技勋章减少
      * </pre>
      */
-    BLACK_TECH_367812(1732, 367812),
+    BLACK_TECH_367812(1736, 367812),
     /**
      * <code>BLACK_TECH_367813 = 367813;</code>
      *
@@ -24349,7 +24365,7 @@ public final class Const {
      * 训练士兵勋章减少
      * </pre>
      */
-    BLACK_TECH_367813(1733, 367813),
+    BLACK_TECH_367813(1737, 367813),
     /**
      * <code>SPACE_MECHA_BOSS_SOLDIER_ADD = 367820;</code>
      *
@@ -24357,7 +24373,7 @@ public final class Const {
      * 星甲召唤boss兵力增益：万分比
      * </pre>
      */
-    SPACE_MECHA_BOSS_SOLDIER_ADD(1734, 367820),
+    SPACE_MECHA_BOSS_SOLDIER_ADD(1738, 367820),
     /**
      * <code>SPACE_MECHA_BOSS_SOLDIER_SUB = 367821;</code>
      *
@@ -24365,7 +24381,7 @@ public final class Const {
      * 星甲召唤boss兵力减益：万分比
      * </pre>
      */
-    SPACE_MECHA_BOSS_SOLDIER_SUB(1735, 367821),
+    SPACE_MECHA_BOSS_SOLDIER_SUB(1739, 367821),
     /**
      * <code>EFF_519 = 519;</code>
      *
@@ -24373,7 +24389,7 @@ public final class Const {
      * 建筑升级所需时间减少X/10000 作用叠加1466
      * </pre>
      */
-    EFF_519(1736, 519),
+    EFF_519(1740, 519),
     /**
      * <code>EFF_520 = 520;</code>
      *
@@ -24381,7 +24397,7 @@ public final class Const {
      * 所有资源采集速度加成，全军出击活动专用 作用叠加334
      * </pre>
      */
-    EFF_520(1737, 520),
+    EFF_520(1741, 520),
     /**
      * <code>EFF_521 = 521;</code>
      *
@@ -24389,7 +24405,7 @@ public final class Const {
      * 研发科技所需时间减少X/10000 作用叠加1472
      * </pre>
      */
-    EFF_521(1738, 521),
+    EFF_521(1742, 521),
     /**
      * <code>EFF_522 = 522;</code>
      *
@@ -24397,7 +24413,7 @@ public final class Const {
      * 部队训练所需时间减少X/10000 作用叠加1478
      * </pre>
      */
-    EFF_522(1739, 522),
+    EFF_522(1743, 522),
     /**
      * <code>EFF_523 = 523;</code>
      *
@@ -24405,7 +24421,7 @@ public final class Const {
      * 将军体力恢复速度加成 作用叠加502
      * </pre>
      */
-    EFF_523(1740, 523),
+    EFF_523(1744, 523),
     /**
      * <code>EFF_10080 = 10080;</code>
      *
@@ -24413,7 +24429,7 @@ public final class Const {
      * 【10080】【万分比】【10080】于建筑中驻防时，部队造成伤害增加XX.XX%于任意建筑中驻防时均生效，包括各副本中建筑该作用号为外围伤害加成效果，与其他伤害增加作用号累加计算（与12101等伤害增加作用号加法运算）即 实际伤害 = 基础伤害*（1 + 各类伤害加成+【本作用值】）*（1 - 各类减免）配置格式为万分比
      * </pre>
      */
-    EFF_10080(1741, 10080),
+    EFF_10080(1745, 10080),
     /**
      * <code>EFF_10081 = 10081;</code>
      *
@@ -24421,7 +24437,7 @@ public final class Const {
      * 【10081】【万分比】【10081】集结战斗受到伤害减少XX.XX%仅集结中生效该作用号为伤害减少效果，与其他减伤作用号累乘计算即 实际伤害 = 基础伤害*（1 - 其他作用号）*（1 - 【本作用值】）配置格式为万分比
      * </pre>
      */
-    EFF_10081(1742, 10081),
+    EFF_10081(1746, 10081),
     /**
      * <code>EFF_10082 = 10082;</code>
      *
@@ -24429,7 +24445,7 @@ public final class Const {
      * 【10081】【10082】【万分比】【10082】集结战斗造成伤害增加XX.XX%仅集结中生效该作用号为外围伤害加成效果，与其他伤害增加作用号累加计算（与12101等伤害增加作用号加法运算）即 实际伤害 = 基础伤害*（1 + 各类伤害加成+【本作用值】）*（1 - 各类减免）配置格式为万分比
      * </pre>
      */
-    EFF_10082(1743, 10082),
+    EFF_10082(1747, 10082),
     /**
      * <code>BLACK_TECH_367822 = 367822;</code>
      *
@@ -24437,7 +24453,7 @@ public final class Const {
      * 升级45级以下建筑星耀勋章减少
      * </pre>
      */
-    BLACK_TECH_367822(1744, 367822),
+    BLACK_TECH_367822(1748, 367822),
     /**
      * <code>BLACK_TECH_367823 = 367823;</code>
      *
@@ -24445,7 +24461,7 @@ public final class Const {
      * 机甲核心科技升级和突破时消耗的核心推演原型消耗量减少
      * </pre>
      */
-    BLACK_TECH_367823(1745, 367823),
+    BLACK_TECH_367823(1749, 367823),
     /**
      * <code>BLACK_TECH_367824 = 367824;</code>
      *
@@ -24453,7 +24469,7 @@ public final class Const {
      * 泰能二期强化时材料消耗的数量减少
      * </pre>
      */
-    BLACK_TECH_367824(1746, 367824),
+    BLACK_TECH_367824(1750, 367824),
     /**
      * <code>BLACK_TECH_367825 = 367825;</code>
      *
@@ -24461,7 +24477,7 @@ public final class Const {
      * 泰能三期强化时材料消耗的数量减少
      * </pre>
      */
-    BLACK_TECH_367825(1747, 367825),
+    BLACK_TECH_367825(1751, 367825),
     /**
      * <code>BLACK_TECH_367826 = 367826;</code>
      *
@@ -24469,14 +24485,14 @@ public final class Const {
      * 超武底座升级和进阶材料数量减少
      * </pre>
      */
-    BLACK_TECH_367826(1748, 367826),
+    BLACK_TECH_367826(1752, 367826),
     /**
      * <code>EFF_10083 = 10083;</code>
      *
      * <pre>
      * </pre>
      */
-    EFF_10083(1749, 10083),
+    EFF_10083(1753, 10083),
     /**
      * <code>EFF_10084 = 10084;</code>
      *
@@ -24484,7 +24500,7 @@ public final class Const {
      * 1015        基洛夫飞艇        【1016】        10084=对失去星穹护盾保护的敌人造成的伤害增加24%
      * </pre>
      */
-    EFF_10084(1750, 10084),
+    EFF_10084(1754, 10084),
     /**
      * <code>EFF_10085 = 10085;</code>
      *
@@ -24492,7 +24508,7 @@ public final class Const {
      * 1019        核电厂        【1016】        10085=受到星穹护盾保护时，造成的伤害增加24%
      * </pre>
      */
-    EFF_10085(1751, 10085),
+    EFF_10085(1755, 10085),
     /**
      * <code>EFF_10086 = 10086;</code>
      *
@@ -24500,187 +24516,187 @@ public final class Const {
      * 1022        超时空传送器        【1016】        10086=受到星穹护盾保护时，受到的伤害减少12%
      * </pre>
      */
-    EFF_10086(1752, 10086),
+    EFF_10086(1756, 10086),
     /**
      * <code>EFF_10087 = 10087;</code>
      */
-    EFF_10087(1753, 10087),
+    EFF_10087(1757, 10087),
     /**
      * <code>EFF_11080 = 11080;</code>
      */
-    EFF_11080(1754, 11080),
+    EFF_11080(1758, 11080),
     /**
      * <code>EFF_11081 = 11081;</code>
      */
-    EFF_11081(1755, 11081),
+    EFF_11081(1759, 11081),
     /**
      * <code>EFF_11082 = 11082;</code>
      */
-    EFF_11082(1756, 11082),
+    EFF_11082(1760, 11082),
     /**
      * <code>EFF_11083 = 11083;</code>
      */
-    EFF_11083(1757, 11083),
+    EFF_11083(1761, 11083),
     /**
      * <code>EFF_11084 = 11084;</code>
      */
-    EFF_11084(1758, 11084),
+    EFF_11084(1762, 11084),
     /**
      * <code>EFF_11085 = 11085;</code>
      */
-    EFF_11085(1759, 11085),
+    EFF_11085(1763, 11085),
     /**
      * <code>EFF_11086 = 11086;</code>
      */
-    EFF_11086(1760, 11086),
+    EFF_11086(1764, 11086),
     /**
      * <code>EFF_11087 = 11087;</code>
      */
-    EFF_11087(1761, 11087),
+    EFF_11087(1765, 11087),
     /**
      * <code>EFF_11088 = 11088;</code>
      */
-    EFF_11088(1762, 11088),
+    EFF_11088(1766, 11088),
     /**
      * <code>EFF_11089 = 11089;</code>
      */
-    EFF_11089(1763, 11089),
+    EFF_11089(1767, 11089),
     /**
      * <code>EFF_11090 = 11090;</code>
      */
-    EFF_11090(1764, 11090),
+    EFF_11090(1768, 11090),
     /**
      * <code>EFF_11091 = 11091;</code>
      */
-    EFF_11091(1765, 11091),
+    EFF_11091(1769, 11091),
     /**
      * <code>EFF_11092 = 11092;</code>
      */
-    EFF_11092(1766, 11092),
+    EFF_11092(1770, 11092),
     /**
      * <code>EFF_11093 = 11093;</code>
      */
-    EFF_11093(1767, 11093),
+    EFF_11093(1771, 11093),
     /**
      * <code>EFF_11094 = 11094;</code>
      */
-    EFF_11094(1768, 11094),
+    EFF_11094(1772, 11094),
     /**
      * <code>EFF_11095 = 11095;</code>
      */
-    EFF_11095(1769, 11095),
+    EFF_11095(1773, 11095),
     /**
      * <code>EFF_11096 = 11096;</code>
      */
-    EFF_11096(1770, 11096),
+    EFF_11096(1774, 11096),
     /**
      * <code>EFF_11097 = 11097;</code>
      */
-    EFF_11097(1771, 11097),
+    EFF_11097(1775, 11097),
     /**
      * <code>EFF_11098 = 11098;</code>
      */
-    EFF_11098(1772, 11098),
+    EFF_11098(1776, 11098),
     /**
      * <code>EFF_11099 = 11099;</code>
      */
-    EFF_11099(1773, 11099),
+    EFF_11099(1777, 11099),
     /**
      * <code>EFF_11100 = 11100;</code>
      */
-    EFF_11100(1774, 11100),
+    EFF_11100(1778, 11100),
     /**
      * <code>EFF_11101 = 11101;</code>
      */
-    EFF_11101(1775, 11101),
+    EFF_11101(1779, 11101),
     /**
      * <code>EFF_11102 = 11102;</code>
      */
-    EFF_11102(1776, 11102),
+    EFF_11102(1780, 11102),
     /**
      * <code>EFF_11103 = 11103;</code>
      */
-    EFF_11103(1777, 11103),
+    EFF_11103(1781, 11103),
     /**
      * <code>EFF_11104 = 11104;</code>
      */
-    EFF_11104(1778, 11104),
+    EFF_11104(1782, 11104),
     /**
      * <code>EFF_11105 = 11105;</code>
      */
-    EFF_11105(1779, 11105),
+    EFF_11105(1783, 11105),
     /**
      * <code>EFF_11111 = 11111;</code>
      */
-    EFF_11111(1780, 11111),
+    EFF_11111(1784, 11111),
     /**
      * <code>EFF_11112 = 11112;</code>
      */
-    EFF_11112(1781, 11112),
+    EFF_11112(1785, 11112),
     /**
      * <code>EFF_11113 = 11113;</code>
      */
-    EFF_11113(1782, 11113),
+    EFF_11113(1786, 11113),
     /**
      * <code>EFF_11114 = 11114;</code>
      */
-    EFF_11114(1783, 11114),
+    EFF_11114(1787, 11114),
     /**
      * <code>EFF_11115 = 11115;</code>
      */
-    EFF_11115(1784, 11115),
+    EFF_11115(1788, 11115),
     /**
      * <code>EFF_11116 = 11116;</code>
      */
-    EFF_11116(1785, 11116),
+    EFF_11116(1789, 11116),
     /**
      * <code>EFF_11117 = 11117;</code>
      */
-    EFF_11117(1786, 11117),
+    EFF_11117(1790, 11117),
     /**
      * <code>EFF_11118 = 11118;</code>
      */
-    EFF_11118(1787, 11118),
+    EFF_11118(1791, 11118),
     /**
      * <code>EFF_11119 = 11119;</code>
      */
-    EFF_11119(1788, 11119),
+    EFF_11119(1792, 11119),
     /**
      * <code>EFF_11120 = 11120;</code>
      */
-    EFF_11120(1789, 11120),
+    EFF_11120(1793, 11120),
     /**
      * <code>EFF_11121 = 11121;</code>
      */
-    EFF_11121(1790, 11121),
+    EFF_11121(1794, 11121),
     /**
      * <code>EFF_11122 = 11122;</code>
      */
-    EFF_11122(1791, 11122),
+    EFF_11122(1795, 11122),
     /**
      * <code>EFF12751 = 12751;</code>
      */
-    EFF12751(1792, 12751),
+    EFF12751(1796, 12751),
     /**
      * <code>EFF12752 = 12752;</code>
      */
-    EFF12752(1793, 12752),
+    EFF12752(1797, 12752),
     /**
      * <code>EFF12753 = 12753;</code>
      */
-    EFF12753(1794, 12753),
+    EFF12753(1798, 12753),
     /**
      * <code>EFF12761 = 12761;</code>
      */
-    EFF12761(1795, 12761),
+    EFF12761(1799, 12761),
     /**
      * <code>EFF_12811 = 12811;</code>
      */
-    EFF_12811(1796, 12811),
+    EFF_12811(1800, 12811),
     /**
      * <code>EFF_12812 = 12812;</code>
      */
-    EFF_12812(1797, 12812),
+    EFF_12812(1801, 12812),
     /**
      * <code>EFF_12861 = 12861;</code>
      *
@@ -24688,7 +24704,7 @@ public final class Const {
      * 【万分比】进攻战斗开始时，随机选中敌方某指挥官，对其全部部队进行1次波动攻击，造成200%【12861】伤害
      * </pre>
      */
-    EFF_12861(1798, 12861),
+    EFF_12861(1802, 12861),
     /**
      * <code>EFF_CANNON_WEIGHT_1255 = 1255;</code>
      *
@@ -24696,7 +24712,7 @@ public final class Const {
      *【1255】战车负重容量——无，可参考352部队负重增加
      * </pre>
      */
-    EFF_CANNON_WEIGHT_1255(1799, 1255),
+    EFF_CANNON_WEIGHT_1255(1803, 1255),
     /**
      * <code>EFF_TANK_WEIGHT_1256 = 1256;</code>
      *
@@ -24704,7 +24720,7 @@ public final class Const {
      *【1256】坦克负重容量——无，可参考352部队负重增加
      * </pre>
      */
-    EFF_TANK_WEIGHT_1256(1800, 1256),
+    EFF_TANK_WEIGHT_1256(1804, 1256),
     /**
      * <code>EFF_PLANE_WEIGHT_1257 = 1257;</code>
      *
@@ -24712,7 +24728,7 @@ public final class Const {
      *【1257】飞机负重容量——无，可参考352部队负重增加
      * </pre>
      */
-    EFF_PLANE_WEIGHT_1257(1801, 1257),
+    EFF_PLANE_WEIGHT_1257(1805, 1257),
     /**
      * <code>EFF_FOOT_WEIGHT_1258 = 1258;</code>
      *
@@ -24720,7 +24736,7 @@ public final class Const {
      *【1258】步兵负重容量——无，可参考352部队负重增加
      * </pre>
      */
-    EFF_FOOT_WEIGHT_1258(1802, 1258),
+    EFF_FOOT_WEIGHT_1258(1806, 1258),
     /**
      * <code>EFF_CANNON_SPEED_MONSTER_1259 = 1259;</code>
      *
@@ -24728,7 +24744,7 @@ public final class Const {
      *【1259】战车打野行军速度——无，可参考204向野外敌军行军速度增加
      * </pre>
      */
-    EFF_CANNON_SPEED_MONSTER_1259(1803, 1259),
+    EFF_CANNON_SPEED_MONSTER_1259(1807, 1259),
     /**
      * <code>EFF_TANK_SPEED_MONSTER_1260 = 1260;</code>
      *
@@ -24736,7 +24752,7 @@ public final class Const {
      *【1260】坦克打野行军速度——无，可参考204向野外敌军行军速度增加
      * </pre>
      */
-    EFF_TANK_SPEED_MONSTER_1260(1804, 1260),
+    EFF_TANK_SPEED_MONSTER_1260(1808, 1260),
     /**
      * <code>EFF_PLANE_SPEED_MONSTER_1261 = 1261;</code>
      *
@@ -24744,7 +24760,7 @@ public final class Const {
      *【1261】飞机打野行军速度——无，可参考204向野外敌军行军速度增加
      * </pre>
      */
-    EFF_PLANE_SPEED_MONSTER_1261(1805, 1261),
+    EFF_PLANE_SPEED_MONSTER_1261(1809, 1261),
     /**
      * <code>EFF_FOOT_SPEED_MONSTER_1262 = 1262;</code>
      *
@@ -24752,7 +24768,7 @@ public final class Const {
      *【1262】步兵打野行军速度——无，可参考204向野外敌军行军速度增加
      * </pre>
      */
-    EFF_FOOT_SPEED_MONSTER_1262(1806, 1262),
+    EFF_FOOT_SPEED_MONSTER_1262(1810, 1262),
     /**
      * <code>EFF_GUILD_REINFORCE_ARMY_1263 = 1263;</code>
      *
@@ -24760,7 +24776,7 @@ public final class Const {
      *【1263】援军上限（数值提升）——无，可参考604联盟大厦容量增加（复制604删掉在联盟大厦的上的数值增加外显，如不影响联盟大厦的显示则可以直接用604）
      * </pre>
      */
-    EFF_GUILD_REINFORCE_ARMY_1263(1807, 1263),
+    EFF_GUILD_REINFORCE_ARMY_1263(1811, 1263),
     /**
      * <code>EFF_CANNON_SPEED_JOIN_MASS_1264 = 1264;</code>
      *
@@ -24768,7 +24784,7 @@ public final class Const {
      *【1264】战车参加集结行军速度——无，可参考203行军速度增加
      * </pre>
      */
-    EFF_CANNON_SPEED_JOIN_MASS_1264(1808, 1264),
+    EFF_CANNON_SPEED_JOIN_MASS_1264(1812, 1264),
     /**
      * <code>EFF_TANK_SPEED_JOIN_MASS_1265 = 1265;</code>
      *
@@ -24776,7 +24792,7 @@ public final class Const {
      *【1265】坦克参加集结行军速度——无，可参考203行军速度增加
      * </pre>
      */
-    EFF_TANK_SPEED_JOIN_MASS_1265(1809, 1265),
+    EFF_TANK_SPEED_JOIN_MASS_1265(1813, 1265),
     /**
      * <code>EFF_PLANE_SPEED_JOIN_MASS_1266 = 1266;</code>
      *
@@ -24784,7 +24800,7 @@ public final class Const {
      *【1266】飞机参加集结行军速度——无，可参考203行军速度增加
      * </pre>
      */
-    EFF_PLANE_SPEED_JOIN_MASS_1266(1810, 1266),
+    EFF_PLANE_SPEED_JOIN_MASS_1266(1814, 1266),
     /**
      * <code>EFF_FOOT_SPEED_JOIN_MASS_1267 = 1267;</code>
      *
@@ -24792,7 +24808,7 @@ public final class Const {
      *【1267】步兵参加集结行军速度——无，可参考203行军速度增加
      * </pre>
      */
-    EFF_FOOT_SPEED_JOIN_MASS_1267(1811, 1267),
+    EFF_FOOT_SPEED_JOIN_MASS_1267(1815, 1267),
     /**
      * <code>EFF_NATION_HOSPITAL_COUNT_1268 = 1268;</code>
      *
@@ -24800,7 +24816,7 @@ public final class Const {
      *【1268】盟军医院容量（数值提升）——无，可参考412伤员中心容量增加
      * </pre>
      */
-    EFF_NATION_HOSPITAL_COUNT_1268(1812, 1268),
+    EFF_NATION_HOSPITAL_COUNT_1268(1816, 1268),
     /**
      * <code>EFF1096 = 1096;</code>
      *
@@ -24808,91 +24824,91 @@ public final class Const {
      * 【万分比】【1096】部队伤兵返还+XX.XX%
      * </pre>
      */
-    EFF1096(1813, 1096),
+    EFF1096(1817, 1096),
     /**
      * <code>EFF12721 = 12721;</code>
      */
-    EFF12721(1814, 12721),
+    EFF12721(1818, 12721),
     /**
      * <code>EFF12722 = 12722;</code>
      */
-    EFF12722(1815, 12722),
+    EFF12722(1819, 12722),
     /**
      * <code>EFF12723 = 12723;</code>
      */
-    EFF12723(1816, 12723),
+    EFF12723(1820, 12723),
     /**
      * <code>EFF12724 = 12724;</code>
      */
-    EFF12724(1817, 12724),
+    EFF12724(1821, 12724),
     /**
      * <code>EFF12725 = 12725;</code>
      */
-    EFF12725(1818, 12725),
+    EFF12725(1822, 12725),
     /**
      * <code>EFF12726 = 12726;</code>
      */
-    EFF12726(1819, 12726),
+    EFF12726(1823, 12726),
     /**
      * <code>EFF12727 = 12727;</code>
      */
-    EFF12727(1820, 12727),
+    EFF12727(1824, 12727),
     /**
      * <code>EFF12728 = 12728;</code>
      */
-    EFF12728(1821, 12728),
+    EFF12728(1825, 12728),
     /**
      * <code>EFF12729 = 12729;</code>
      */
-    EFF12729(1822, 12729),
+    EFF12729(1826, 12729),
     /**
      * <code>EFF12730 = 12730;</code>
      */
-    EFF12730(1823, 12730),
+    EFF12730(1827, 12730),
     /**
      * <code>EFF12731 = 12731;</code>
      */
-    EFF12731(1824, 12731),
+    EFF12731(1828, 12731),
     /**
      * <code>EFF12741 = 12741;</code>
      */
-    EFF12741(1825, 12741),
+    EFF12741(1829, 12741),
     /**
      * <code>EFF12742 = 12742;</code>
      */
-    EFF12742(1826, 12742),
+    EFF12742(1830, 12742),
     /**
      * <code>EFF12743 = 12743;</code>
      */
-    EFF12743(1827, 12743),
+    EFF12743(1831, 12743),
     /**
      * <code>EFF12744 = 12744;</code>
      */
-    EFF12744(1828, 12744),
+    EFF12744(1832, 12744),
     /**
      * <code>EFF12745 = 12745;</code>
      */
-    EFF12745(1829, 12745),
+    EFF12745(1833, 12745),
     /**
      * <code>EFF12746 = 12746;</code>
      */
-    EFF12746(1830, 12746),
+    EFF12746(1834, 12746),
     /**
      * <code>EFF_12771 = 12771;</code>
      */
-    EFF_12771(1831, 12771),
+    EFF_12771(1835, 12771),
     /**
      * <code>EFF_12772 = 12772;</code>
      */
-    EFF_12772(1832, 12772),
+    EFF_12772(1836, 12772),
     /**
      * <code>EFF_12773 = 12773;</code>
      */
-    EFF_12773(1833, 12773),
+    EFF_12773(1837, 12773),
     /**
      * <code>EFF_12774 = 12774;</code>
      */
-    EFF_12774(1834, 12774),
+    EFF_12774(1838, 12774),
     /**
      * <code>EFF_10088 = 10088;</code>
      *
@@ -24900,7 +24916,7 @@ public final class Const {
      *【10088】【万分比】每5万点全队参谋值，使自身防御力和生命值提升XX.XX%
      * </pre>
      */
-    EFF_10088(1835, 10088),
+    EFF_10088(1839, 10088),
     /**
      * <code>EFF_10089 = 10089;</code>
      *
@@ -24908,7 +24924,7 @@ public final class Const {
      *【10089】【万分比】集结队伍中每个英雄，使自身攻击力提升XX.XX%
      * </pre>
      */
-    EFF_10089(1836, 10089),
+    EFF_10089(1840, 10089),
     /**
      * <code>EFF_10090 = 10090;</code>
      *
@@ -24916,7 +24932,7 @@ public final class Const {
      *【10090】【万分比】集结队伍中每个英雄，使自身防御力和生命值提升XX.XX%
      * </pre>
      */
-    EFF_10090(1837, 10090),
+    EFF_10090(1841, 10090),
     /**
      * <code>EFF_10091 = 10091;</code>
      *
@@ -24924,7 +24940,7 @@ public final class Const {
      *【10091】【绝对值】每1万点全队参谋值，使自身星穹护盾值提升XX
      * </pre>
      */
-    EFF_10091(1838, 10091),
+    EFF_10091(1842, 10091),
     /**
      * <code>EFF_10093 = 10093;</code>
      *
@@ -24932,7 +24948,7 @@ public final class Const {
      *【10093】【万分比】每回合使我方所有部队攻击力提升XX.XX%
      * </pre>
      */
-    EFF_10093(1839, 10093),
+    EFF_10093(1843, 10093),
     /**
      * <code>EFF_10094 = 10094;</code>
      *
@@ -24940,7 +24956,7 @@ public final class Const {
      *【10094】【万分比】每回合使我方所有部队防御力和生命值提升XX.XX%
      * </pre>
      */
-    EFF_10094(1840, 10094),
+    EFF_10094(1844, 10094),
     /**
      * <code>EFF_10095 = 10095;</code>
      *
@@ -24948,7 +24964,7 @@ public final class Const {
      *【10095】【绝对值】所有医院（含医院、泰能医院、盟军医院）容量增加XX
      * </pre>
      */
-    EFF_10095(1841, 10095),
+    EFF_10095(1845, 10095),
     /**
      * <code>EFF_10101 = 10101;</code>
      *
@@ -24956,7 +24972,7 @@ public final class Const {
      *【10101】我方指挥官人数大于敌方时，造成伤害增加
      * </pre>
      */
-    EFF_10101(1842, 10101),
+    EFF_10101(1846, 10101),
     /**
      * <code>EFF_10106 = 10106;</code>
      *
@@ -24964,7 +24980,7 @@ public final class Const {
      *【10106】携带任意机甲时，受到伤害降低
      * </pre>
      */
-    EFF_10106(1843, 10106),
+    EFF_10106(1847, 10106),
     /**
      * <code>EFF_10114 = 10114;</code>
      *
@@ -24972,7 +24988,7 @@ public final class Const {
      *【10114】星穹护盾下，自身攻击增加
      * </pre>
      */
-    EFF_10114(1844, 10114),
+    EFF_10114(1848, 10114),
     /**
      * <code>EFF_10115 = 10115;</code>
      *
@@ -24980,7 +24996,7 @@ public final class Const {
      *【10115】星穹护盾下，自身防御生命增加
      * </pre>
      */
-    EFF_10115(1845, 10115),
+    EFF_10115(1849, 10115),
     /**
      * <code>EFF_10116 = 10116;</code>
      *
@@ -24988,7 +25004,7 @@ public final class Const {
      *【10116】星穹护盾下，己方队伍全体攻击增加
      * </pre>
      */
-    EFF_10116(1846, 10116),
+    EFF_10116(1850, 10116),
     /**
      * <code>EFF_10118 = 10118;</code>
      *
@@ -24996,67 +25012,67 @@ public final class Const {
      *【10118】敌方失去星穹护盾后，自身伤害增加
      * </pre>
      */
-    EFF_10118(1847, 10118),
+    EFF_10118(1851, 10118),
     /**
      * <code>EFF_2201 = 2201;</code>
      */
-    EFF_2201(1848, 2201),
+    EFF_2201(1852, 2201),
     /**
      * <code>EFF_2202 = 2202;</code>
      */
-    EFF_2202(1849, 2202),
+    EFF_2202(1853, 2202),
     /**
      * <code>EFF_2203 = 2203;</code>
      */
-    EFF_2203(1850, 2203),
+    EFF_2203(1854, 2203),
     /**
      * <code>EFF_2204 = 2204;</code>
      */
-    EFF_2204(1851, 2204),
+    EFF_2204(1855, 2204),
     /**
      * <code>EFF_2205 = 2205;</code>
      */
-    EFF_2205(1852, 2205),
+    EFF_2205(1856, 2205),
     /**
      * <code>EFF_2206 = 2206;</code>
      */
-    EFF_2206(1853, 2206),
+    EFF_2206(1857, 2206),
     /**
      * <code>EFF_2207 = 2207;</code>
      */
-    EFF_2207(1854, 2207),
+    EFF_2207(1858, 2207),
     /**
      * <code>EFF_2208 = 2208;</code>
      */
-    EFF_2208(1855, 2208),
+    EFF_2208(1859, 2208),
     /**
      * <code>EFF_2209 = 2209;</code>
      */
-    EFF_2209(1856, 2209),
+    EFF_2209(1860, 2209),
     /**
      * <code>EFF_2210 = 2210;</code>
      */
-    EFF_2210(1857, 2210),
+    EFF_2210(1861, 2210),
     /**
      * <code>EFF_2211 = 2211;</code>
      */
-    EFF_2211(1858, 2211),
+    EFF_2211(1862, 2211),
     /**
      * <code>EFF_2212 = 2212;</code>
      */
-    EFF_2212(1859, 2212),
+    EFF_2212(1863, 2212),
     /**
      * <code>EFF_2213 = 2213;</code>
      */
-    EFF_2213(1860, 2213),
+    EFF_2213(1864, 2213),
     /**
      * <code>EFF_2214 = 2214;</code>
      */
-    EFF_2214(1861, 2214),
+    EFF_2214(1865, 2214),
     /**
      * <code>EFF_2215 = 2215;</code>
      */
-    EFF_2215(1862, 2215),
+    EFF_2215(1866, 2215),
     /**
      * <code>EFF_2221 = 2221;</code>
      *
@@ -25064,7 +25080,7 @@ public final class Const {
      * 战斗前20回合，己方全兵种造成伤害增加
      * </pre>
      */
-    EFF_2221(1863, 2221),
+    EFF_2221(1867, 2221),
     /**
      * <code>EFF_2222 = 2222;</code>
      *
@@ -25072,7 +25088,7 @@ public final class Const {
      * 战斗前20回合，己方全兵种受到伤害减少
      * </pre>
      */
-    EFF_2222(1864, 2222),
+    EFF_2222(1868, 2222),
     /**
      * <code>EFF_2223 = 2223;</code>
      *
@@ -25080,7 +25096,7 @@ public final class Const {
      * 每经过5个战斗回合，己方全兵种造成伤害增加一层
      * </pre>
      */
-    EFF_2223(1865, 2223),
+    EFF_2223(1869, 2223),
     /**
      * <code>EFF_2100 = 2100;</code>
      *
@@ -25088,7 +25104,7 @@ public final class Const {
      *	英雄协同星穹护盾	每个英雄，使星穹护盾值提升
      * </pre>
      */
-    EFF_2100(1866, 2100),
+    EFF_2100(1870, 2100),
     /**
      * <code>EFF_2111 = 2111;</code>
      *
@@ -25096,7 +25112,7 @@ public final class Const {
      *	英雄协同主战攻击	每个英雄，使我的主战坦克攻击力提升
      * </pre>
      */
-    EFF_2111(1867, 2111),
+    EFF_2111(1871, 2111),
     /**
      * <code>EFF_2112 = 2112;</code>
      *
@@ -25104,7 +25120,7 @@ public final class Const {
      *	英雄协同主战防御	每个英雄，使我的主战坦克防御力提升
      * </pre>
      */
-    EFF_2112(1868, 2112),
+    EFF_2112(1872, 2112),
     /**
      * <code>EFF_2113 = 2113;</code>
      *
@@ -25112,7 +25128,7 @@ public final class Const {
      *	英雄协同主战生命	每个英雄，使我的主战坦克生命值提升
      * </pre>
      */
-    EFF_2113(1869, 2113),
+    EFF_2113(1873, 2113),
     /**
      * <code>EFF_2114 = 2114;</code>
      *
@@ -25120,7 +25136,7 @@ public final class Const {
      *	英雄协同主战攻防血	每个英雄，使我的主战坦克攻防血提升
      * </pre>
      */
-    EFF_2114(1870, 2114),
+    EFF_2114(1874, 2114),
     /**
      * <code>EFF_2121 = 2121;</code>
      *
@@ -25128,7 +25144,7 @@ public final class Const {
      *	英雄协同防御攻击	每个英雄，使我的防御坦克攻击力提升
      * </pre>
      */
-    EFF_2121(1871, 2121),
+    EFF_2121(1875, 2121),
     /**
      * <code>EFF_2122 = 2122;</code>
      *
@@ -25136,7 +25152,7 @@ public final class Const {
      *	英雄协同防御防御	每个英雄，使我的防御坦克防御力提升
      * </pre>
      */
-    EFF_2122(1872, 2122),
+    EFF_2122(1876, 2122),
     /**
      * <code>EFF_2123 = 2123;</code>
      *
@@ -25144,7 +25160,7 @@ public final class Const {
      *	英雄协同防御生命	每个英雄，使我的防御坦克生命值提升
      * </pre>
      */
-    EFF_2123(1873, 2123),
+    EFF_2123(1877, 2123),
     /**
      * <code>EFF_2124 = 2124;</code>
      *
@@ -25152,7 +25168,7 @@ public final class Const {
      *	英雄协同防御攻防血	每个英雄，使我的防御坦克攻防血提升
      * </pre>
      */
-    EFF_2124(1874, 2124),
+    EFF_2124(1878, 2124),
     /**
      * <code>EFF_2131 = 2131;</code>
      *
@@ -25160,7 +25176,7 @@ public final class Const {
      *	英雄协同直升攻击	每个英雄，使我的直升机攻击力提升
      * </pre>
      */
-    EFF_2131(1875, 2131),
+    EFF_2131(1879, 2131),
     /**
      * <code>EFF_2132 = 2132;</code>
      *
@@ -25168,7 +25184,7 @@ public final class Const {
      *	英雄协同直升防御	每个英雄，使我的直升机防御力提升
      * </pre>
      */
-    EFF_2132(1876, 2132),
+    EFF_2132(1880, 2132),
     /**
      * <code>EFF_2133 = 2133;</code>
      *
@@ -25176,7 +25192,7 @@ public final class Const {
      *	英雄协同直升生命	每个英雄，使我的直升机生命值提升
      * </pre>
      */
-    EFF_2133(1877, 2133),
+    EFF_2133(1881, 2133),
     /**
      * <code>EFF_2134 = 2134;</code>
      *
@@ -25184,7 +25200,7 @@ public final class Const {
      *	英雄协同直升攻防血	每个英雄，使我的直升机攻防血提升
      * </pre>
      */
-    EFF_2134(1878, 2134),
+    EFF_2134(1882, 2134),
     /**
      * <code>EFF_2141 = 2141;</code>
      *
@@ -25192,7 +25208,7 @@ public final class Const {
      *	英雄协同轰炸攻击	每个英雄，使我的轰炸机攻击力提升
      * </pre>
      */
-    EFF_2141(1879, 2141),
+    EFF_2141(1883, 2141),
     /**
      * <code>EFF_2142 = 2142;</code>
      *
@@ -25200,7 +25216,7 @@ public final class Const {
      *	英雄协同轰炸防御	每个英雄，使我的轰炸机防御力提升
      * </pre>
      */
-    EFF_2142(1880, 2142),
+    EFF_2142(1884, 2142),
     /**
      * <code>EFF_2143 = 2143;</code>
      *
@@ -25208,7 +25224,7 @@ public final class Const {
      *	英雄协同轰炸生命	每个英雄，使我的轰炸机生命值提升
      * </pre>
      */
-    EFF_2143(1881, 2143),
+    EFF_2143(1885, 2143),
     /**
      * <code>EFF_2144 = 2144;</code>
      *
@@ -25216,7 +25232,7 @@ public final class Const {
      *	英雄协同轰炸攻防血	每个英雄，使我的轰炸机攻防血提升
      * </pre>
      */
-    EFF_2144(1882, 2144),
+    EFF_2144(1886, 2144),
     /**
      * <code>EFF_2151 = 2151;</code>
      *
@@ -25224,7 +25240,7 @@ public final class Const {
      *	英雄协同狙击攻击	每个英雄，使我的狙击步兵攻击力提升
      * </pre>
      */
-    EFF_2151(1883, 2151),
+    EFF_2151(1887, 2151),
     /**
      * <code>EFF_2152 = 2152;</code>
      *
@@ -25232,7 +25248,7 @@ public final class Const {
      *	英雄协同狙击防御	每个英雄，使我的狙击步兵防御力提升
      * </pre>
      */
-    EFF_2152(1884, 2152),
+    EFF_2152(1888, 2152),
     /**
      * <code>EFF_2153 = 2153;</code>
      *
@@ -25240,7 +25256,7 @@ public final class Const {
      *	英雄协同狙击生命	每个英雄，使我的狙击步兵生命值提升
      * </pre>
      */
-    EFF_2153(1885, 2153),
+    EFF_2153(1889, 2153),
     /**
      * <code>EFF_2154 = 2154;</code>
      *
@@ -25248,7 +25264,7 @@ public final class Const {
      *	英雄协同狙击攻防血	每个英雄，使我的狙击步兵攻防血提升
      * </pre>
      */
-    EFF_2154(1886, 2154),
+    EFF_2154(1890, 2154),
     /**
      * <code>EFF_2161 = 2161;</code>
      *
@@ -25256,7 +25272,7 @@ public final class Const {
      *	英雄协同突击攻击	每个英雄，使我的突击步兵攻击力提升
      * </pre>
      */
-    EFF_2161(1887, 2161),
+    EFF_2161(1891, 2161),
     /**
      * <code>EFF_2162 = 2162;</code>
      *
@@ -25264,7 +25280,7 @@ public final class Const {
      *	英雄协同突击防御	每个英雄，使我的突击步兵防御力提升
      * </pre>
      */
-    EFF_2162(1888, 2162),
+    EFF_2162(1892, 2162),
     /**
      * <code>EFF_2163 = 2163;</code>
      *
@@ -25272,7 +25288,7 @@ public final class Const {
      *	英雄协同突击生命	每个英雄，使我的突击步兵生命值提升
      * </pre>
      */
-    EFF_2163(1889, 2163),
+    EFF_2163(1893, 2163),
     /**
      * <code>EFF_2164 = 2164;</code>
      *
@@ -25280,7 +25296,7 @@ public final class Const {
      *	英雄协同突击攻防血	每个英雄，使我的突击步兵攻防血提升
      * </pre>
      */
-    EFF_2164(1890, 2164),
+    EFF_2164(1894, 2164),
     /**
      * <code>EFF_2171 = 2171;</code>
      *
@@ -25288,7 +25304,7 @@ public final class Const {
      *	英雄协同采矿攻击	每个英雄，使我的采矿车攻击力提升
      * </pre>
      */
-    EFF_2171(1891, 2171),
+    EFF_2171(1895, 2171),
     /**
      * <code>EFF_2172 = 2172;</code>
      *
@@ -25296,7 +25312,7 @@ public final class Const {
      *	英雄协同采矿防御	每个英雄，使我的采矿车防御力提升
      * </pre>
      */
-    EFF_2172(1892, 2172),
+    EFF_2172(1896, 2172),
     /**
      * <code>EFF_2173 = 2173;</code>
      *
@@ -25304,7 +25320,7 @@ public final class Const {
      *	英雄协同采矿生命	每个英雄，使我的采矿车生命值提升
      * </pre>
      */
-    EFF_2173(1893, 2173),
+    EFF_2173(1897, 2173),
     /**
      * <code>EFF_2174 = 2174;</code>
      *
@@ -25312,7 +25328,7 @@ public final class Const {
      *	英雄协同采矿攻防血	每个英雄，使我的采矿车攻防血提升
      * </pre>
      */
-    EFF_2174(1894, 2174),
+    EFF_2174(1898, 2174),
     /**
      * <code>EFF_2181 = 2181;</code>
      *
@@ -25320,7 +25336,7 @@ public final class Const {
      *	英雄协同攻城攻击	每个英雄，使我的工程车攻击力提升
      * </pre>
      */
-    EFF_2181(1895, 2181),
+    EFF_2181(1899, 2181),
     /**
      * <code>EFF_2182 = 2182;</code>
      *
@@ -25328,7 +25344,7 @@ public final class Const {
      *	英雄协同攻城防御	每个英雄，使我的工程车防御力提升
      * </pre>
      */
-    EFF_2182(1896, 2182),
+    EFF_2182(1900, 2182),
     /**
      * <code>EFF_2183 = 2183;</code>
      *
@@ -25336,7 +25352,7 @@ public final class Const {
      *	英雄协同攻城生命	每个英雄，使我的工程车生命值提升
      * </pre>
      */
-    EFF_2183(1897, 2183),
+    EFF_2183(1901, 2183),
     /**
      * <code>EFF_2184 = 2184;</code>
      *
@@ -25344,7 +25360,7 @@ public final class Const {
      *	英雄协同攻城攻防血	每个英雄，使我的工程车攻防血提升
      * </pre>
      */
-    EFF_2184(1898, 2184),
+    EFF_2184(1902, 2184),
     /**
      * <code>EFF_2101 = 2101;</code>
      *
@@ -25352,7 +25368,7 @@ public final class Const {
      *	英雄协同攻击	每个英雄，使自身攻击提升，最多生效20个英雄
      * </pre>
      */
-    EFF_2101(1899, 2101),
+    EFF_2101(1903, 2101),
     /**
      * <code>EFF_2102 = 2102;</code>
      *
@@ -25360,7 +25376,7 @@ public final class Const {
      *	英雄协同防御	每个英雄，使自身防御提升，最多生效20个英雄
      * </pre>
      */
-    EFF_2102(1900, 2102),
+    EFF_2102(1904, 2102),
     /**
      * <code>EFF_2103 = 2103;</code>
      *
@@ -25368,7 +25384,7 @@ public final class Const {
      *	英雄协同生命	每个英雄，使自身生命提升，最多生效20个英雄
      * </pre>
      */
-    EFF_2103(1901, 2103),
+    EFF_2103(1905, 2103),
     /**
      * <code>EFF_2104 = 2104;</code>
      *
@@ -25376,7 +25392,7 @@ public final class Const {
      *	英雄协同攻防血	每个英雄，使自身攻防血提升，最多生效20个英雄
      * </pre>
      */
-    EFF_2104(1902, 2104),
+    EFF_2104(1906, 2104),
     /**
      * <code>EFF_2105 = 2105;</code>
      *
@@ -25384,7 +25400,7 @@ public final class Const {
      *	己方全体攻防血	己方全体攻防血提升
      * </pre>
      */
-    EFF_2105(1903, 2105),
+    EFF_2105(1907, 2105),
     /**
      * <code>EFF_2106 = 2106;</code>
      *
@@ -25392,7 +25408,7 @@ public final class Const {
      *	敌方全体攻防血降低	敌方全体攻防血降低
      * </pre>
      */
-    EFF_2106(1904, 2106),
+    EFF_2106(1908, 2106),
     /**
      * <code>EFF_2107 = 2107;</code>
      *
@@ -25400,7 +25416,7 @@ public final class Const {
      *	己方单数回合攻防血	己方单数回合攻防血提升
      * </pre>
      */
-    EFF_2107(1905, 2107),
+    EFF_2107(1909, 2107),
     /**
      * <code>EFF_2108 = 2108;</code>
      *
@@ -25408,7 +25424,7 @@ public final class Const {
      *	己方双数回合攻防血	己方双数回合攻防血提升
      * </pre>
      */
-    EFF_2108(1906, 2108),
+    EFF_2108(1910, 2108),
     /**
      * <code>EFF_2301 = 2301;</code>
      *
@@ -25416,7 +25432,7 @@ public final class Const {
      *=时间破坏增伤，显示为整数。攻击时，通过时间湍流对目标造成的伤害提升。
      * </pre>
      */
-    EFF_2301(1907, 2301),
+    EFF_2301(1911, 2301),
     /**
      * <code>EFF_2302 = 2302;</code>
      *
@@ -25424,7 +25440,7 @@ public final class Const {
      *=空间破坏增伤，显示为整数。攻击时，通过空间裂隙对目标造成的伤害提升。
      * </pre>
      */
-    EFF_2302(1908, 2302),
+    EFF_2302(1912, 2302),
     /**
      * <code>EFF_2303 = 2303;</code>
      *
@@ -25432,7 +25448,7 @@ public final class Const {
      *=时间维护减伤，显示为整数。防止敌人利用时间湍流，使自身受到伤害减少。
      * </pre>
      */
-    EFF_2303(1909, 2303),
+    EFF_2303(1913, 2303),
     /**
      * <code>EFF_2304 = 2304;</code>
      *
@@ -25440,7 +25456,7 @@ public final class Const {
      *=空间维护减伤，显示为整数。防止敌人利用空间裂隙，使自身受到伤害减少。
      * </pre>
      */
-    EFF_2304(1910, 2304),
+    EFF_2304(1914, 2304),
     /**
      * <code>EFF_SPEED_JOIN_MASS_10092 = 10092;</code>
      *
@@ -25448,7 +25464,7 @@ public final class Const {
      *【10092】10092_2400，表示行军速度提升24%。这个24%需要和其他所有行军速度加起来生效。实际速度 = 基础速度 * (1 + 其他加成 + 这个效果/10000）
      * </pre>
      */
-    EFF_SPEED_JOIN_MASS_10092(1911, 10092),
+    EFF_SPEED_JOIN_MASS_10092(1915, 10092),
     ;
 
     /**
@@ -33902,6 +33918,22 @@ public final class Const {
      */
     public static final int HERO_12854_VALUE = 12854;
     /**
+     * <code>HERO_12881 = 12881;</code>
+     */
+    public static final int HERO_12881_VALUE = 12881;
+    /**
+     * <code>HERO_12882 = 12882;</code>
+     */
+    public static final int HERO_12882_VALUE = 12882;
+    /**
+     * <code>HERO_12883 = 12883;</code>
+     */
+    public static final int HERO_12883_VALUE = 12883;
+    /**
+     * <code>HERO_12884 = 12884;</code>
+     */
+    public static final int HERO_12884_VALUE = 12884;
+    /**
      * <code>HERO_12941 = 12941;</code>
      */
     public static final int HERO_12941_VALUE = 12941;
@@ -39789,6 +39821,10 @@ public final class Const {
         case 12852: return HERO_12852;
         case 12853: return HERO_12853;
         case 12854: return HERO_12854;
+        case 12881: return HERO_12881;
+        case 12882: return HERO_12882;
+        case 12883: return HERO_12883;
+        case 12884: return HERO_12884;
         case 12941: return HERO_12941;
         case 12942: return HERO_12942;
         case 12943: return HERO_12943;
@@ -49008,7 +49044,7 @@ public final class Const {
       "tRouteType_2\020\002\022\025\n\021TalentRouteType_3\020\003\022\025\n" +
       "\021TalentRouteType_4\020\004\022\025\n\021TalentRouteType_" +
       "5\020\005\022\025\n\021TalentRouteType_6\020\006\022\025\n\021TalentRout" +
-      "eType_7\020\007*\240\257\002\n\007EffType\022\016\n\tEFF_12711\020\247c\022\016" +
+      "eType_7\020\007*\344\257\002\n\007EffType\022\016\n\tEFF_12711\020\247c\022\016" +
       "\n\tEFF_12712\020\250c\022\016\n\tEFF_12713\020\251c\022\016\n\tEFF_12" +
       "714\020\252c\022\025\n\021WAR_TROOP_ATK_PER\020d\022\025\n\021WAR_TRO" +
       "OP_DEF_NUM\020e\022\024\n\020WAR_TROOP_HP_PER\020f\022\025\n\021WA",
@@ -49638,609 +49674,611 @@ public final class Const {
       "ERO_12837\020\245d\022\017\n\nHERO_12838\020\246d\022\017\n\nHERO_12" +
       "839\020\247d\022\017\n\nHERO_12841\020\251d\022\017\n\nHERO_12851\020\263d" +
       "\022\017\n\nHERO_12852\020\264d\022\017\n\nHERO_12853\020\265d\022\017\n\nHE" +
-      "RO_12854\020\266d\022\017\n\nHERO_12941\020\215e\022\017\n\nHERO_129" +
-      "42\020\216e\022\017\n\nHERO_12943\020\217e\022\017\n\nHERO_12944\020\220e\022" +
-      "\017\n\nHERO_12961\020\241e\022\017\n\nHERO_12962\020\242e\022\017\n\nHER" +
-      "O_12963\020\243e\022\017\n\nHERO_12964\020\244e\022\017\n\nHERO_1296",
-      "5\020\245e\022\017\n\nHERO_12966\020\246e\022\017\n\nHERO_12967\020\247e\022\017" +
-      "\n\nHERO_12968\020\250e\022\017\n\nHERO_12969\020\251e\022\017\n\nHERO" +
-      "_12970\020\252e\022\017\n\nHERO_12981\020\265e\022\017\n\nHERO_12991" +
-      "\020\277e\022\017\n\nHERO_12992\020\300e\022\017\n\nHERO_12993\020\301e\022\017\n" +
-      "\nHERO_12994\020\302e\022\017\n\nHERO_12995\020\303e\022\017\n\nHERO_" +
-      "12996\020\304e\022\017\n\nHERO_12997\020\305e\022\017\n\nHERO_12901\020" +
-      "\345d\022\017\n\nHERO_12902\020\346d\022\017\n\nHERO_12903\020\347d\022\017\n\n" +
-      "HERO_12904\020\350d\022\017\n\nHERO_12905\020\351d\022\017\n\nHERO_1" +
-      "2906\020\352d\022\017\n\nHERO_12907\020\353d\022\017\n\nHERO_12911\020\357" +
-      "d\022\017\n\nHERO_12921\020\371d\022\017\n\nHERO_12922\020\372d\022\017\n\nH",
-      "ERO_12923\020\373d\022\017\n\nHERO_12924\020\374d\022\017\n\nHERO_13" +
-      "022\020\336e\022\016\n\tEFF_11070\020\276V\022\021\n\014LABRORA_1201\020\261" +
-      "\t\022\021\n\014LABRORA_1202\020\262\t\022\021\n\014LABRORA_1203\020\263\t\022" +
-      "\021\n\014LABRORA_1204\020\264\t\022\021\n\014LABRORA_1205\020\265\t\022\021\n" +
-      "\014LABRORA_1206\020\266\t\022\021\n\014LABRORA_1207\020\267\t\022\022\n\rT" +
-      "BLY_EFF_1701\020\245\r\022\022\n\rTBLY_EFF_1702\020\246\r\022\022\n\rT" +
-      "BLY_EFF_1703\020\247\r\022\022\n\rTBLY_EFF_1704\020\250\r\022\022\n\rT" +
-      "BLY_EFF_1705\020\251\r\022\022\n\rTBLY_EFF_1706\020\252\r\022\022\n\rT" +
-      "BLY_EFF_1707\020\253\r\022\022\n\rTBLY_EFF_1708\020\254\r\022\022\n\rT" +
-      "BLY_EFF_1709\020\255\r\022\022\n\rTBLY_EFF_1710\020\256\r\022\022\n\rT",
-      "BLY_EFF_1711\020\257\r\022\022\n\rTBLY_EFF_1712\020\260\r\022\022\n\rT" +
-      "BLY_EFF_1713\020\261\r\022\022\n\rTBLY_EFF_1714\020\262\r\022\022\n\rT" +
-      "BLY_EFF_1715\020\263\r\022\022\n\rTBLY_EFF_1716\020\264\r\022\022\n\rT" +
-      "BLY_EFF_1717\020\265\r\022\022\n\rTBLY_EFF_1718\020\266\r\022\022\n\rT" +
-      "BLY_EFF_1719\020\267\r\022\022\n\rTBLY_EFF_1720\020\270\r\022\022\n\rT" +
-      "BLY_EFF_1721\020\271\r\022\016\n\tDYZZ_9001\020\251F\022\016\n\tDYZZ_" +
-      "9002\020\252F\022\016\n\tDYZZ_9003\020\253F\022\016\n\tDYZZ_9004\020\254F\022" +
-      "\016\n\tDYZZ_9005\020\255F\022\016\n\tDYZZ_9006\020\256F\022\016\n\tDYZZ_" +
-      "9007\020\257F\022\016\n\tDYZZ_9008\020\260F\022\016\n\tDYZZ_9009\020\261F\022" +
-      "\016\n\tDYZZ_9010\020\262F\022\016\n\tDYZZ_9011\020\263F\022\016\n\tDYZZ_",
-      "9012\020\264F\022\016\n\tDYZZ_9013\020\265F\022\016\n\tDYZZ_9014\020\266F\022" +
-      "\016\n\tDYZZ_9015\020\267F\022\016\n\tDYZZ_9016\020\270F\022\016\n\tDYZZ_" +
-      "9017\020\271F\022\016\n\tDYZZ_9018\020\272F\022\016\n\tDYZZ_9019\020\273F\022" +
-      "\016\n\tDYZZ_9020\020\274F\022\016\n\tDYZZ_9021\020\275F\022\016\n\tDYZZ_" +
-      "9022\020\276F\022\016\n\tDYZZ_9023\020\277F\022\016\n\tDYZZ_9024\020\300F\022" +
-      "\016\n\tDYZZ_9025\020\301F\022\016\n\tDYZZ_9026\020\302F\022\016\n\tDYZZ_" +
-      "9027\020\303F\022\016\n\tDYZZ_9028\020\304F\022\016\n\tDYZZ_9029\020\305F\022" +
-      "\016\n\tDYZZ_9030\020\306F\022\016\n\tDYZZ_9031\020\307F\022\016\n\tDYZZ_" +
-      "9032\020\310F\022\016\n\tDYZZ_9033\020\311F\022\016\n\tDYZZ_9034\020\312F\022" +
-      "\016\n\tDYZZ_9035\020\313F\022\016\n\tDYZZ_9036\020\314F\022\016\n\tDYZZ_",
-      "9037\020\315F\022\016\n\tDYZZ_9038\020\316F\022\016\n\tDYZZ_9039\020\317F\022" +
-      "\016\n\tDYZZ_9040\020\320F\022\016\n\tDYZZ_9041\020\321F\022\016\n\tDYZZ_" +
-      "9045\020\325F\022\016\n\tDYZZ_9046\020\326F\022\016\n\tDYZZ_9047\020\327F\022" +
-      "\016\n\tDYZZ_9048\020\330F\022\016\n\tDYZZ_9049\020\331F\022\016\n\tDYZZ_" +
-      "9050\020\332F\022#\n\036CROSS_SELF_SCORE_REWARD_DOUBL" +
-      "E\020\271\027\022\034\n\027CROSS_MONSTER_SCORE_ADD\020\272\027\022 \n\033CR" +
-      "OSS_RES_COLLECT_SCORE_ADD\020\273\027\022\036\n\031CROSS_AR" +
-      "MY_KILL_SCORE_ADD\020\274\027\022 \n\033CROSS_STRONGPOIN" +
-      "T_SCORE_ADD\020\275\027\022\"\n\035CROSS_SELF_TASK_REWARD" +
-      "_DOUBLE\020\276\027\022\027\n\022GUILD_DONATE_SPEED\020\277\027\022\027\n\022G",
-      "UILD_HELP_CNT_ADD\020\300\027\022\035\n\030GUILD_GIFT_REWAR" +
-      "D_DOUBLE\020\301\027\022$\n\037CROSS_GUILD_SCORE_REWARD_" +
-      "DOUBLE\020\302\027\022\030\n\023CROSS_TECH_EFF_3013\020\305\027\022\030\n\023C" +
-      "ROSS_TECH_EFF_3014\020\306\027\022\030\n\023CROSS_TECH_EFF_" +
-      "3015\020\307\027\022\030\n\023CROSS_TECH_EFF_3016\020\310\027\022\017\n\nCRO" +
-      "SS_3012\020\304\027\022\036\n\031TRAIN_COUNT_TYPE2_ADD_NUM\020" +
-      "\241\037\022\036\n\031TRAIN_COUNT_TYPE1_ADD_NUM\020\242\037\022\036\n\031TR" +
-      "AIN_COUNT_TYPE3_ADD_NUM\020\243\037\022\036\n\031TRAIN_COUN" +
-      "T_TYPE4_ADD_NUM\020\244\037\022\036\n\031TRAIN_COUNT_TYPE5_" +
-      "ADD_NUM\020\245\037\022\036\n\031TRAIN_COUNT_TYPE6_ADD_NUM\020",
-      "\246\037\022\036\n\031TRAIN_COUNT_TYPE7_ADD_NUM\020\247\037\022\036\n\031TR" +
-      "AIN_COUNT_TYPE8_ADD_NUM\020\250\037\022!\n\034WEAPON_BUI" +
-      "LD_TYPE101_ADD_NUM\020\251\037\022!\n\034WEAPON_BUILD_TY" +
-      "PE102_ADD_NUM\020\252\037\022!\n\034WEAPON_BUILD_TYPE103" +
-      "_ADD_NUM\020\253\037\022\035\n\030PRODUCT_INC_TIME_ADD_PER\020" +
-      "\254\037\022\031\n\024TRAIN_SPEED_PRE7_PER\020\257\037\022\030\n\023TRAIN_S" +
-      "PEED_EQ8_PER\020\260\037\022\030\n\023TRAIN_SPEED_EQ9_PER\020\261" +
-      "\037\022\031\n\024TRAIN_SPEED_EQ10_PER\020\262\037\022\025\n\020SPY_CONS" +
-      "UM_REDUS\020\263\037\022\030\n\023SPY_MARCH_SPEED_ADD\020\264\037\022\030\n" +
-      "\023ATK_MONSTER_VIT_ADD\020\265\037\022\033\n\026KILL_MONSTER_",
-      "AWARD_ADD\020\266\037\022\027\n\022SKILL_COST_VIT_ADD\020\267\037\022\023\n" +
-      "\016TRAIN_RES_4024\020\270\037\022\034\n\027TRAIN_ARMY11_SPEED" +
-      "_4025\020\271\037\022\027\n\022EXTRA_ARMY_1_2_PER\020\304\037\022\027\n\022EXT" +
-      "RA_ARMY_3_4_PER\020\305\037\022\027\n\022EXTRA_ARMY_5_6_PER" +
-      "\020\306\037\022\027\n\022EXTRA_ARMY_7_8_PER\020\307\037\022\024\n\016HERO_SKI" +
-      "N_DUYE\020\301\270\002\022\025\n\017HERO_SKIN_40002\020\302\270\002\022\025\n\017HER" +
-      "O_SKIN_40003\020\303\270\002\022\025\n\017HERO_SKIN_40004\020\304\270\002\022" +
-      "\025\n\017HERO_SKIN_40005\020\305\270\002\022\025\n\017HERO_SKIN_4000" +
-      "6\020\306\270\002\022\025\n\017HERO_SKIN_40007\020\307\270\002\022\025\n\017HERO_SKI" +
-      "N_40008\020\310\270\002\022\025\n\017HERO_SKIN_40009\020\311\270\002\022\025\n\017HE",
-      "RO_SKIN_40010\020\312\270\002\022\025\n\017HERO_SKIN_40011\020\313\270\002" +
-      "\022\025\n\017HERO_SKIN_40012\020\314\270\002\022\025\n\017HERO_SKIN_400" +
-      "13\020\315\270\002\022\025\n\017HERO_SKIN_40014\020\316\270\002\022\025\n\017HERO_SK" +
-      "IN_40015\020\317\270\002\022\025\n\017HERO_SKIN_40016\020\320\270\002\022\025\n\017H" +
-      "ERO_SKIN_40017\020\321\270\002\022\025\n\017HERO_SKIN_40018\020\322\270" +
-      "\002\022\025\n\017HERO_SKIN_40019\020\323\270\002\022\025\n\017HERO_SKIN_40" +
-      "020\020\324\270\002\022\025\n\017HERO_SKIN_40021\020\325\270\002\022\035\n\027PLANT_" +
-      "SOLDIER_SKILL_824\020\301\204=\022\035\n\027PLANT_SOLDIER_S" +
-      "KILL_144\020\302\204=\022\035\n\027PLANT_SOLDIER_SKILL_344\020" +
-      "\303\204=\022\035\n\027PLANT_SOLDIER_SKILL_444\020\304\204=\022\035\n\027PL",
-      "ANT_SOLDIER_SKILL_644\020\305\204=\022\035\n\027PLANT_SOLDI" +
-      "ER_SKILL_744\020\306\204=\022\035\n\027PLANT_SOLDIER_SKILL_" +
-      "844\020\307\204=\022\030\n\022SSS_SKILL_12143_P2\020\310\204=\022\021\n\013EFF" +
-      "_1000009\020\311\204=\022\021\n\013EFF_1000010\020\312\204=\022\035\n\027EFF_S" +
-      "OLDIER_SKILL_14501\020\345\365=\022\035\n\027EFF_SOLDIER_SK" +
-      "ILL_44501\020\225\340?\022\035\n\027EFF_SOLDIER_SKILL_64501" +
-      "\020\265\374@\022\035\n\027EFF_SOLDIER_SKILL_54501\020\245\256@\022\035\n\027E" +
-      "FF_SOLDIER_SKILL_84501\020\325\230B\022\035\n\027EFF_SOLDIE" +
-      "R_SKILL_74501\020\305\312A\022\016\n\tEFF_12661\020\365b\022\016\n\tEFF" +
-      "_12662\020\366b\022\016\n\tEFF_12663\020\367b\022\016\n\tEFF_12664\020\370",
-      "b\022\027\n\022PLANT_SOLDIER_4101\020\205 \022\027\n\022PLANT_SOLD" +
-      "IER_4102\020\206 \022\027\n\022PLANT_SOLDIER_4103\020\207 \022\027\n\022" +
-      "PLANT_SOLDIER_4104\020\210 \022\027\n\022PLANT_SOLDIER_4" +
-      "105\020\211 \022\027\n\022PLANT_SOLDIER_4106\020\212 \022\027\n\022PLANT" +
-      "_SOLDIER_4107\020\213 \022\027\n\022PLANT_SOLDIER_4108\020\214" +
-      " \022\027\n\022PLANT_SOLDIER_4109\020\215 \022\027\n\022PLANT_SOLD" +
-      "IER_4110\020\216 \022\027\n\022PLANT_SOLDIER_4111\020\217 \022\027\n\022" +
-      "PLANT_SOLDIER_4112\020\220 \022\027\n\022PLANT_SOLDIER_4" +
-      "113\020\221 \022\027\n\022PLANT_SOLDIER_4114\020\222 \022\027\n\022PLANT" +
-      "_SOLDIER_4115\020\223 \022\027\n\022PLANT_SOLDIER_4116\020\224",
-      " \022\027\n\022PLANT_SOLDIER_4117\020\225 \022\027\n\022PLANT_SOLD" +
-      "IER_4118\020\226 \022\027\n\022PLANT_SOLDIER_4119\020\227 \022\027\n\022" +
-      "PLANT_SOLDIER_4120\020\230 \022\027\n\022PLANT_SOLDIER_4" +
-      "121\020\231 \022\027\n\022PLANT_SOLDIER_4122\020\232 \022\027\n\022PLANT" +
-      "_SOLDIER_4123\020\233 \022\027\n\022PLANT_SOLDIER_4124\020\234" +
-      " \022\027\n\022PLANT_SOLDIER_4125\020\235 \022\027\n\022PLANT_SOLD" +
-      "IER_4126\020\236 \022\027\n\022PLANT_SOLDIER_4127\020\237 \022\027\n\022" +
-      "PLANT_SOLDIER_4128\020\240 \022\027\n\022PLANT_SOLDIER_4" +
-      "129\020\241 \022\027\n\022PLANT_SOLDIER_4130\020\242 \022\027\n\022PLANT" +
-      "_SOLDIER_1901\020\355\016\022\027\n\022PLANT_SOLDIER_1902\020\356",
-      "\016\022\027\n\022PLANT_SOLDIER_1903\020\357\016\022\027\n\022PLANT_SOLD" +
-      "IER_1904\020\360\016\022\027\n\022PLANT_SOLDIER_1905\020\361\016\022\027\n\022" +
-      "PLANT_SOLDIER_1906\020\362\016\022\027\n\022PLANT_SOLDIER_1" +
-      "907\020\363\016\022\027\n\022PLANT_SOLDIER_1908\020\364\016\022\027\n\022PLANT" +
-      "_SOLDIER_1909\020\365\016\022\027\n\022PLANT_SOLDIER_1910\020\366" +
-      "\016\022\027\n\022PLANT_SOLDIER_1911\020\367\016\022\027\n\022PLANT_SOLD" +
-      "IER_1912\020\370\016\022\027\n\022PLANT_SOLDIER_1913\020\371\016\022\027\n\022" +
-      "PLANT_SOLDIER_1914\020\372\016\022\027\n\022PLANT_SOLDIER_1" +
-      "915\020\373\016\022\027\n\022PLANT_SOLDIER_1916\020\374\016\022\027\n\022PLANT" +
-      "_SOLDIER_1917\020\375\016\022\027\n\022PLANT_SOLDIER_1918\020\376",
-      "\016\022\027\n\022PLANT_SOLDIER_1919\020\377\016\022\027\n\022PLANT_SOLD" +
-      "IER_1920\020\200\017\022\027\n\022PLANT_SOLDIER_1921\020\201\017\022\027\n\022" +
-      "PLANT_SOLDIER_1922\020\202\017\022\027\n\022PLANT_SOLDIER_1" +
-      "923\020\203\017\022\027\n\022PLANT_SOLDIER_1924\020\204\017\022\027\n\022PLANT" +
-      "_SOLDIER_1925\020\205\017\022\027\n\022PLANT_SOLDIER_1926\020\206" +
-      "\017\022\027\n\022PLANT_SOLDIER_1927\020\207\017\022\027\n\022PLANT_SOLD" +
-      "IER_1928\020\210\017\022\027\n\022PLANT_SOLDIER_1929\020\211\017\022\027\n\022" +
-      "PLANT_SOLDIER_1930\020\212\017\022\027\n\022PLANT_SOLDIER_1" +
-      "931\020\213\017\022\027\n\022PLANT_SOLDIER_1932\020\214\017\022\027\n\022PLANT" +
-      "_SOLDIER_1933\020\215\017\022\027\n\022PLANT_SOLDIER_1934\020\216",
-      "\017\022\027\n\022PLANT_SOLDIER_1935\020\217\017\022\027\n\022PLANT_SOLD" +
-      "IER_1936\020\220\017\022\027\n\022PLANT_SOLDIER_1937\020\221\017\022\027\n\022" +
-      "PLANT_SOLDIER_1938\020\222\017\022\027\n\022PLANT_SOLDIER_1" +
-      "939\020\223\017\022\027\n\022PLANT_SOLDIER_1940\020\224\017\022\027\n\022PLANT" +
-      "_SOLDIER_1941\020\225\017\022\027\n\022PLANT_SOLDIER_1942\020\226" +
-      "\017\022\027\n\022PLANT_SOLDIER_1943\020\227\017\022\027\n\022PLANT_SOLD" +
-      "IER_1944\020\230\017\022\027\n\022PLANT_SOLDIER_1945\020\231\017\022\027\n\022" +
-      "PLANT_SOLDIER_1946\020\232\017\022\027\n\022PLANT_SOLDIER_1" +
-      "947\020\233\017\022\027\n\022PLANT_SOLDIER_1948\020\234\017\022\021\n\014SOLDI" +
-      "ER_1949\020\235\017\022\021\n\014SOLDIER_1950\020\236\017\022\021\n\014SOLDIER",
-      "_1951\020\237\017\022\021\n\014SOLDIER_1952\020\240\017\022\021\n\014SOLDIER_1" +
-      "953\020\241\017\022\021\n\014SOLDIER_1954\020\242\017\022\021\n\014SOLDIER_195" +
-      "5\020\243\017\022\021\n\014SOLDIER_1956\020\244\017\022\021\n\014SOLDIER_1957\020" +
-      "\245\017\022\021\n\014SOLDIER_1958\020\246\017\022\021\n\014SOLDIER_1959\020\247\017" +
-      "\022\021\n\014SOLDIER_1960\020\250\017\022\021\n\014SOLDIER_1961\020\251\017\022\021" +
-      "\n\014SOLDIER_1962\020\252\017\022\021\n\014SOLDIER_1963\020\253\017\022\021\n\014" +
-      "SOLDIER_1964\020\254\017\022\021\n\014SOLDIER_1965\020\255\017\022\021\n\014SO" +
-      "LDIER_1966\020\256\017\022\021\n\014SOLDIER_1967\020\257\017\022\021\n\014SOLD" +
-      "IER_1968\020\260\017\022\021\n\014SOLDIER_1969\020\261\017\022\021\n\014SOLDIE" +
-      "R_1970\020\262\017\022\021\n\014SOLDIER_1971\020\263\017\022\021\n\014SOLDIER_",
-      "1972\020\264\017\022\016\n\tFIRE_1980\020\274\017\022\016\n\tFIRE_1981\020\275\017\022" +
-      "\016\n\tFIRE_1982\020\276\017\022\016\n\tFIRE_1983\020\277\017\022\016\n\tFIRE_" +
-      "1984\020\300\017\022\022\n\rFIRE_DEF_1990\020\306\017\022\022\n\rFIRE_DEF_" +
-      "1991\020\307\017\022\022\n\rFIRE_DEF_1992\020\310\017\022\022\n\rFIRE_DEF_" +
-      "1993\020\311\017\022\022\n\rFIRE_DEF_1994\020\312\017\022\016\n\tFIRE_2001" +
-      "\020\321\017\022\016\n\tFIRE_2002\020\322\017\022\016\n\tFIRE_2003\020\323\017\022\016\n\tF" +
-      "IRE_2004\020\324\017\022\016\n\tFIRE_2005\020\325\017\022\016\n\tFIRE_2006" +
-      "\020\326\017\022\016\n\tFIRE_2007\020\327\017\022\016\n\tFIRE_2008\020\330\017\022\022\n\rF" +
-      "IRE_DEF_2011\020\333\017\022\022\n\rFIRE_DEF_2012\020\334\017\022\022\n\rF" +
-      "IRE_DEF_2013\020\335\017\022\022\n\rFIRE_DEF_2014\020\336\017\022\022\n\rF",
-      "IRE_DEF_2015\020\337\017\022\022\n\rFIRE_DEF_2016\020\340\017\022\022\n\rF" +
-      "IRE_DEF_2017\020\341\017\022\022\n\rFIRE_DEF_2018\020\342\017\022\024\n\017C" +
-      "ROSS_EFF_10001\020\221N\022\024\n\017CROSS_EFF_10002\020\222N\022" +
-      "\024\n\017CROSS_EFF_10003\020\223N\022\024\n\017CROSS_EFF_10004" +
-      "\020\224N\022\024\n\017CROSS_EFF_10005\020\225N\022\024\n\017CROSS_EFF_1" +
-      "0006\020\226N\022\024\n\017CROSS_EFF_10007\020\227N\022\024\n\017CROSS_E" +
-      "FF_10008\020\230N\022\024\n\017CROSS_EFF_10009\020\231N\022\024\n\017CRO" +
-      "SS_EFF_10010\020\232N\022\024\n\017CROSS_EFF_10011\020\233N\022\024\n" +
-      "\017CROSS_EFF_10012\020\234N\022\024\n\017CROSS_EFF_10013\020\235" +
-      "N\022\024\n\017CROSS_EFF_10014\020\236N\022\024\n\017CROSS_EFF_100",
-      "15\020\237N\022\024\n\017CROSS_EFF_10016\020\240N\022\024\n\017CROSS_EFF" +
-      "_10017\020\241N\022\024\n\017CROSS_EFF_10018\020\242N\022\024\n\017CROSS" +
-      "_EFF_10019\020\243N\022\024\n\017CROSS_EFF_10020\020\244N\022\024\n\017C" +
-      "ROSS_EFF_10021\020\245N\022\024\n\017CROSS_EFF_10022\020\246N\022" +
-      "\024\n\017CROSS_EFF_10023\020\247N\022\024\n\017CROSS_EFF_10024" +
-      "\020\250N\022\024\n\017CROSS_EFF_10025\020\251N\022\024\n\017CROSS_EFF_1" +
-      "0026\020\252N\022\024\n\017CROSS_EFF_10027\020\253N\022\024\n\017CROSS_E" +
-      "FF_10028\020\254N\022\024\n\017CROSS_EFF_10029\020\255N\022\024\n\017CRO" +
-      "SS_EFF_10030\020\256N\022\024\n\017CROSS_EFF_10031\020\257N\022\024\n" +
-      "\017CROSS_EFF_10032\020\260N\022\024\n\017CROSS_EFF_10033\020\261",
-      "N\022\024\n\017CROSS_EFF_10034\020\262N\022\024\n\017CROSS_EFF_100" +
-      "35\020\263N\022\024\n\017CROSS_EFF_10036\020\264N\022\024\n\017CROSS_EFF" +
-      "_10037\020\265N\022\024\n\017CROSS_EFF_10038\020\266N\022\024\n\017CROSS" +
-      "_EFF_10039\020\267N\022\024\n\017CROSS_EFF_10040\020\270N\022\024\n\017C" +
-      "ROSS_EFF_10041\020\271N\022\024\n\017CROSS_EFF_10042\020\272N\022" +
-      "\024\n\017CROSS_EFF_10043\020\273N\022\024\n\017CROSS_EFF_10044" +
-      "\020\274N\022\024\n\017CROSS_EFF_10045\020\275N\022\024\n\017CROSS_EFF_1" +
-      "0046\020\276N\022\024\n\017CROSS_EFF_10047\020\277N\022\024\n\017CROSS_E" +
-      "FF_10048\020\300N\022\021\n\014ARMOUR_11001\020\371U\022\021\n\014ARMOUR" +
-      "_11002\020\372U\022\021\n\014ARMOUR_11003\020\373U\022\021\n\014ARMOUR_1",
-      "1004\020\374U\022\021\n\014ARMOUR_11005\020\375U\022\021\n\014ARMOUR_110" +
-      "06\020\376U\022\021\n\014ARMOUR_11007\020\377U\022\021\n\014ARMOUR_11008" +
-      "\020\200V\022\021\n\014ARMOUR_11009\020\201V\022\021\n\014ARMOUR_11010\020\202" +
-      "V\022\021\n\014ARMOUR_11011\020\203V\022\021\n\014ARMOUR_11012\020\204V\022" +
-      "\021\n\014ARMOUR_11013\020\205V\022\036\n\031ARMOUR_STAR_EXPLOR" +
-      "E_11014\020\206V\022\036\n\031ARMOUR_STAR_EXPLORE_11015\020" +
-      "\207V\022\036\n\031ARMOUR_STAR_EXPLORE_11016\020\210V\022\036\n\031AR" +
-      "MOUR_STAR_EXPLORE_11017\020\211V\022\036\n\031ARMOUR_STA" +
-      "R_EXPLORE_11018\020\212V\022\036\n\031ARMOUR_STAR_EXPLOR" +
-      "E_11019\020\213V\022\036\n\031ARMOUR_STAR_EXPLORE_11020\020",
-      "\214V\022\036\n\031ARMOUR_STAR_EXPLORE_11021\020\215V\022\036\n\031AR" +
-      "MOUR_STAR_EXPLORE_11022\020\216V\022\036\n\031ARMOUR_STA" +
-      "R_EXPLORE_11023\020\217V\022\036\n\031ARMOUR_STAR_EXPLOR" +
-      "E_11024\020\220V\022\036\n\031ARMOUR_STAR_EXPLORE_11025\020" +
-      "\221V\022\036\n\031ARMOUR_STAR_EXPLORE_11026\020\222V\022\036\n\031AR" +
-      "MOUR_STAR_EXPLORE_11027\020\223V\022\036\n\031ARMOUR_STA" +
-      "R_EXPLORE_11028\020\224V\022\036\n\031ARMOUR_STAR_EXPLOR" +
-      "E_11029\020\225V\022\036\n\031ARMOUR_STAR_EXPLORE_11030\020" +
-      "\226V\022\036\n\031ARMOUR_STAR_EXPLORE_11031\020\227V\022\036\n\031AR" +
-      "MOUR_STAR_EXPLORE_11032\020\230V\022\036\n\031ARMOUR_STA",
-      "R_EXPLORE_11034\020\232V\022\036\n\031ARMOUR_STAR_EXPLOR" +
-      "E_11035\020\233V\022!\n\033ATK_MONSTER_ENERGY_DETECTO" +
-      "R\020\321\206\003\022!\n\033ATK_MONSTER_HONNER_DETECTOR\020\322\206\003" +
-      "\022\022\n\014ADD_ARMY_ATK\020\341\324\003\022\026\n\020RES_TO_PROTECTED" +
-      "\020\343\324\003\022\032\n\024RED_TREATE_ARMY_TIME\020\345\324\003\022\021\n\013SKIL" +
-      "L_10304\020\346\324\003\022\035\n\027IMAGE_CIRCLE_BUFF_73000\020\250" +
-      "\272\004\022\035\n\027IMAGE_CIRCLE_BUFF_74000\020\220\302\004\022\035\n\027IMA" +
-      "GE_CIRCLE_BUFF_76000\020\340\321\004\022\035\n\027IMAGE_CIRCLE" +
-      "_BUFF_77000\020\310\331\004\022\035\n\027IMAGE_CIRCLE_BUFF_780" +
-      "00\020\260\341\004\022\026\n\020AUTO_ATK_MONSTER\020\201\361\004\022\036\n\030IMAGE_",
-      "CIRCLE_BUFF_711000\020\330\262+\022\036\n\030IMAGE_CIRCLE_B" +
-      "UFF_711001\020\331\262+\022\036\n\030IMAGE_CIRCLE_BUFF_7110" +
-      "03\020\333\262+\022\036\n\030IMAGE_CIRCLE_BUFF_711007\020\337\262+\022\036" +
-      "\n\030IMAGE_CIRCLE_BUFF_711014\020\346\262+\022\036\n\030IMAGE_" +
-      "CIRCLE_BUFF_711030\020\366\262+\022\036\n\030IMAGE_CIRCLE_B" +
-      "UFF_712000\020\300\272+\022\036\n\030IMAGE_CIRCLE_BUFF_7120" +
-      "01\020\301\272+\022\036\n\030IMAGE_CIRCLE_BUFF_712003\020\303\272+\022\036" +
-      "\n\030IMAGE_CIRCLE_BUFF_712007\020\307\272+\022\036\n\030IMAGE_" +
-      "CIRCLE_BUFF_712014\020\316\272+\022\036\n\030IMAGE_CIRCLE_B" +
-      "UFF_712030\020\336\272+\022\036\n\030IMAGE_CIRCLE_BUFF_7500",
-      "01\020\261\343-\022\036\n\030IMAGE_CIRCLE_BUFF_750003\020\263\343-\022\036" +
-      "\n\030IMAGE_CIRCLE_BUFF_750007\020\267\343-\022\036\n\030IMAGE_" +
-      "CIRCLE_BUFF_750014\020\276\343-\022\036\n\030IMAGE_CIRCLE_B" +
-      "UFF_750030\020\316\343-\022\036\n\030IMAGE_CIRCLE_BUFF_7900" +
-      "00\020\360\2330\022\036\n\030IMAGE_CIRCLE_BUFF_790001\020\361\2330\022\036" +
-      "\n\030IMAGE_CIRCLE_BUFF_790003\020\363\2330\022\036\n\030IMAGE_" +
-      "CIRCLE_BUFF_790007\020\367\2330\022\036\n\030IMAGE_CIRCLE_B" +
-      "UFF_790014\020\376\2330\022\036\n\030IMAGE_CIRCLE_BUFF_7900" +
-      "30\020\216\2340\022+\n%BACK_PRIVILEGE_ATK_MONSTER_VIT" +
-      "_REDUCE\020\305\333\001\0223\n-BACK_PRIVILEGE_ATK_MONSTE",
-      "R_AWARD_DOUBLE_TIMES\020\306\333\001\022\034\n\026BACK_PRIVILE" +
-      "GE_VIT_PER\020\307\333\001\022 \n\032BACK_PRIVILEGE_RES_COL" +
-      "LECT\020\310\333\001\022%\n\037BACK_PRIVILEGE_RES_OUTPUT_BO" +
-      "OST\020\311\333\001\022#\n\035BACK_PRIVILEGE_CITY_SPD_BUILD" +
-      "\020\312\333\001\022%\n\037BACK_PRIVILEGE_CITY_SPD_SCIENCE\020" +
-      "\313\333\001\022%\n\037BACK_PRIVILEGE_CITY_SPD_SOLDIER\020\314" +
-      "\333\001\022\027\n\021AUTO_PUT_RESOURCE\020\315\333\001\022\032\n\024AUTO_GATH" +
-      "ER_RESOURCE\020\316\333\001\022\027\n\021BLACK_TECH_367811\020\303\271\026" +
-      "\022\027\n\021BLACK_TECH_367812\020\304\271\026\022\027\n\021BLACK_TECH_" +
-      "367813\020\305\271\026\022\"\n\034SPACE_MECHA_BOSS_SOLDIER_A",
-      "DD\020\314\271\026\022\"\n\034SPACE_MECHA_BOSS_SOLDIER_SUB\020\315" +
-      "\271\026\022\014\n\007EFF_519\020\207\004\022\014\n\007EFF_520\020\210\004\022\014\n\007EFF_52" +
-      "1\020\211\004\022\014\n\007EFF_522\020\212\004\022\014\n\007EFF_523\020\213\004\022\016\n\tEFF_" +
-      "10080\020\340N\022\016\n\tEFF_10081\020\341N\022\016\n\tEFF_10082\020\342N" +
-      "\022\027\n\021BLACK_TECH_367822\020\316\271\026\022\027\n\021BLACK_TECH_" +
-      "367823\020\317\271\026\022\027\n\021BLACK_TECH_367824\020\320\271\026\022\027\n\021B" +
-      "LACK_TECH_367825\020\321\271\026\022\027\n\021BLACK_TECH_36782" +
-      "6\020\322\271\026\022\016\n\tEFF_10083\020\343N\022\016\n\tEFF_10084\020\344N\022\016\n" +
-      "\tEFF_10085\020\345N\022\016\n\tEFF_10086\020\346N\022\016\n\tEFF_100" +
-      "87\020\347N\022\016\n\tEFF_11080\020\310V\022\016\n\tEFF_11081\020\311V\022\016\n",
-      "\tEFF_11082\020\312V\022\016\n\tEFF_11083\020\313V\022\016\n\tEFF_110" +
-      "84\020\314V\022\016\n\tEFF_11085\020\315V\022\016\n\tEFF_11086\020\316V\022\016\n" +
-      "\tEFF_11087\020\317V\022\016\n\tEFF_11088\020\320V\022\016\n\tEFF_110" +
-      "89\020\321V\022\016\n\tEFF_11090\020\322V\022\016\n\tEFF_11091\020\323V\022\016\n" +
-      "\tEFF_11092\020\324V\022\016\n\tEFF_11093\020\325V\022\016\n\tEFF_110" +
-      "94\020\326V\022\016\n\tEFF_11095\020\327V\022\016\n\tEFF_11096\020\330V\022\016\n" +
-      "\tEFF_11097\020\331V\022\016\n\tEFF_11098\020\332V\022\016\n\tEFF_110" +
-      "99\020\333V\022\016\n\tEFF_11100\020\334V\022\016\n\tEFF_11101\020\335V\022\016\n" +
-      "\tEFF_11102\020\336V\022\016\n\tEFF_11103\020\337V\022\016\n\tEFF_111" +
-      "04\020\340V\022\016\n\tEFF_11105\020\341V\022\016\n\tEFF_11111\020\347V\022\016\n",
-      "\tEFF_11112\020\350V\022\016\n\tEFF_11113\020\351V\022\016\n\tEFF_111" +
-      "14\020\352V\022\016\n\tEFF_11115\020\353V\022\016\n\tEFF_11116\020\354V\022\016\n" +
-      "\tEFF_11117\020\355V\022\016\n\tEFF_11118\020\356V\022\016\n\tEFF_111" +
-      "19\020\357V\022\016\n\tEFF_11120\020\360V\022\016\n\tEFF_11121\020\361V\022\016\n" +
-      "\tEFF_11122\020\362V\022\r\n\010EFF12751\020\317c\022\r\n\010EFF12752" +
-      "\020\320c\022\r\n\010EFF12753\020\321c\022\r\n\010EFF12761\020\331c\022\016\n\tEFF" +
-      "_12811\020\213d\022\016\n\tEFF_12812\020\214d\022\016\n\tEFF_12861\020\275" +
-      "d\022\033\n\026EFF_CANNON_WEIGHT_1255\020\347\t\022\031\n\024EFF_TA" +
-      "NK_WEIGHT_1256\020\350\t\022\032\n\025EFF_PLANE_WEIGHT_12" +
-      "57\020\351\t\022\031\n\024EFF_FOOT_WEIGHT_1258\020\352\t\022\"\n\035EFF_",
-      "CANNON_SPEED_MONSTER_1259\020\353\t\022 \n\033EFF_TANK" +
-      "_SPEED_MONSTER_1260\020\354\t\022!\n\034EFF_PLANE_SPEE" +
-      "D_MONSTER_1261\020\355\t\022 \n\033EFF_FOOT_SPEED_MONS" +
-      "TER_1262\020\356\t\022\"\n\035EFF_GUILD_REINFORCE_ARMY_" +
-      "1263\020\357\t\022$\n\037EFF_CANNON_SPEED_JOIN_MASS_12" +
-      "64\020\360\t\022\"\n\035EFF_TANK_SPEED_JOIN_MASS_1265\020\361" +
-      "\t\022#\n\036EFF_PLANE_SPEED_JOIN_MASS_1266\020\362\t\022\"" +
-      "\n\035EFF_FOOT_SPEED_JOIN_MASS_1267\020\363\t\022#\n\036EF" +
-      "F_NATION_HOSPITAL_COUNT_1268\020\364\t\022\014\n\007EFF10" +
-      "96\020\310\010\022\r\n\010EFF12721\020\261c\022\r\n\010EFF12722\020\262c\022\r\n\010E",
-      "FF12723\020\263c\022\r\n\010EFF12724\020\264c\022\r\n\010EFF12725\020\265c" +
-      "\022\r\n\010EFF12726\020\266c\022\r\n\010EFF12727\020\267c\022\r\n\010EFF127" +
-      "28\020\270c\022\r\n\010EFF12729\020\271c\022\r\n\010EFF12730\020\272c\022\r\n\010E" +
-      "FF12731\020\273c\022\r\n\010EFF12741\020\305c\022\r\n\010EFF12742\020\306c" +
-      "\022\r\n\010EFF12743\020\307c\022\r\n\010EFF12744\020\310c\022\r\n\010EFF127" +
-      "45\020\311c\022\r\n\010EFF12746\020\312c\022\016\n\tEFF_12771\020\343c\022\016\n\t" +
-      "EFF_12772\020\344c\022\016\n\tEFF_12773\020\345c\022\016\n\tEFF_1277" +
-      "4\020\346c\022\016\n\tEFF_10088\020\350N\022\016\n\tEFF_10089\020\351N\022\016\n\t" +
-      "EFF_10090\020\352N\022\016\n\tEFF_10091\020\353N\022\016\n\tEFF_1009" +
-      "3\020\355N\022\016\n\tEFF_10094\020\356N\022\016\n\tEFF_10095\020\357N\022\016\n\t",
-      "EFF_10101\020\365N\022\016\n\tEFF_10106\020\372N\022\016\n\tEFF_1011" +
-      "4\020\202O\022\016\n\tEFF_10115\020\203O\022\016\n\tEFF_10116\020\204O\022\016\n\t" +
-      "EFF_10118\020\206O\022\r\n\010EFF_2201\020\231\021\022\r\n\010EFF_2202\020" +
-      "\232\021\022\r\n\010EFF_2203\020\233\021\022\r\n\010EFF_2204\020\234\021\022\r\n\010EFF_" +
-      "2205\020\235\021\022\r\n\010EFF_2206\020\236\021\022\r\n\010EFF_2207\020\237\021\022\r\n" +
-      "\010EFF_2208\020\240\021\022\r\n\010EFF_2209\020\241\021\022\r\n\010EFF_2210\020" +
-      "\242\021\022\r\n\010EFF_2211\020\243\021\022\r\n\010EFF_2212\020\244\021\022\r\n\010EFF_" +
-      "2213\020\245\021\022\r\n\010EFF_2214\020\246\021\022\r\n\010EFF_2215\020\247\021\022\r\n" +
-      "\010EFF_2221\020\255\021\022\r\n\010EFF_2222\020\256\021\022\r\n\010EFF_2223\020" +
-      "\257\021\022\r\n\010EFF_2100\020\264\020\022\r\n\010EFF_2111\020\277\020\022\r\n\010EFF_",
-      "2112\020\300\020\022\r\n\010EFF_2113\020\301\020\022\r\n\010EFF_2114\020\302\020\022\r\n" +
-      "\010EFF_2121\020\311\020\022\r\n\010EFF_2122\020\312\020\022\r\n\010EFF_2123\020" +
-      "\313\020\022\r\n\010EFF_2124\020\314\020\022\r\n\010EFF_2131\020\323\020\022\r\n\010EFF_" +
-      "2132\020\324\020\022\r\n\010EFF_2133\020\325\020\022\r\n\010EFF_2134\020\326\020\022\r\n" +
-      "\010EFF_2141\020\335\020\022\r\n\010EFF_2142\020\336\020\022\r\n\010EFF_2143\020" +
-      "\337\020\022\r\n\010EFF_2144\020\340\020\022\r\n\010EFF_2151\020\347\020\022\r\n\010EFF_" +
-      "2152\020\350\020\022\r\n\010EFF_2153\020\351\020\022\r\n\010EFF_2154\020\352\020\022\r\n" +
-      "\010EFF_2161\020\361\020\022\r\n\010EFF_2162\020\362\020\022\r\n\010EFF_2163\020" +
-      "\363\020\022\r\n\010EFF_2164\020\364\020\022\r\n\010EFF_2171\020\373\020\022\r\n\010EFF_" +
-      "2172\020\374\020\022\r\n\010EFF_2173\020\375\020\022\r\n\010EFF_2174\020\376\020\022\r\n",
-      "\010EFF_2181\020\205\021\022\r\n\010EFF_2182\020\206\021\022\r\n\010EFF_2183\020" +
-      "\207\021\022\r\n\010EFF_2184\020\210\021\022\r\n\010EFF_2101\020\265\020\022\r\n\010EFF_" +
-      "2102\020\266\020\022\r\n\010EFF_2103\020\267\020\022\r\n\010EFF_2104\020\270\020\022\r\n" +
-      "\010EFF_2105\020\271\020\022\r\n\010EFF_2106\020\272\020\022\r\n\010EFF_2107\020" +
-      "\273\020\022\r\n\010EFF_2108\020\274\020\022\r\n\010EFF_2301\020\375\021\022\r\n\010EFF_" +
-      "2302\020\376\021\022\r\n\010EFF_2303\020\377\021\022\r\n\010EFF_2304\020\200\022\022\036\n" +
-      "\031EFF_SPEED_JOIN_MASS_10092\020\354N*\266\r\n\tLimitT" +
-      "ype\022\034\n\030LIMIT_TYPE_MAIN_BUILDING\020d\022\026\n\022LIM" +
-      "IT_TYPE_SOILDER\020e\022\032\n\026LIMIT_TYPE_WAR_FACT" +
-      "ORY\020f\022\"\n\036LIMIT_TYPE_REMOTE_FIRE_FACTORY\020",
-      "g\022 \n\034LIMIT_TYPE_AIR_FORCE_COMMAND\020h\022\"\n\036L" +
-      "IMIT_TYPE_FIGHTING_LABORATORY\020i\022\026\n\022LIMIT" +
-      "_TYPE_EMBASSY\020j\022\033\n\027LIMIT_TYPE_TRADE_CENT" +
-      "RE\020k\022\'\n#LIMIT_TYPE_SATELLITE_COMMUNICATI" +
-      "ONS\020l\022\'\n#LIMIT_TYPE_EQUIP_RESEARCH_INSTI" +
-      "TUTE\020m\022\037\n\033LIMIT_TYPE_FIGHTING_COMMAND\020n\022" +
-      "\032\n\026LIMIT_TYPE_ARMS_DEALER\020o\022\024\n\020LIMIT_TYP" +
-      "E_RADAR\020p\022\034\n\030LIMIT_TYPE_GAP_GENERATOR\020q\022" +
-      "\030\n\024LIMIT_TYPE_WAREHOUSE\020r\022\032\n\026LIMIT_TYPE_" +
-      "POWER_PLANT\020s\022\037\n\033LIMIT_TYPE_HOSPITAL_STA",
-      "TION\020t\022\032\n\026LIMIT_TYPE_HELP_PROMPT\020u\022\035\n\031LI" +
-      "MIT_TYPE_RESOURCES_VIEW\020v\022\"\n\036LIMIT_TYPE_" +
-      "SOILDER_DETAIL_FLAG\020w\022\025\n\021LIMIT_TYPE_PRIS" +
-      "ON\020x\022\035\n\030LIMIT_TYPE_BUIDING_STEEL\020\310\001\022$\n\037L" +
-      "IMIT_TYPE_BUIDING_ORE_REFINING\020\311\001\022 \n\033LIM" +
-      "IT_TYPE_BUIDING_OIL_WELL\020\312\001\022\"\n\035LIMIT_TYP" +
-      "E_BUIDING_RARE_EARTH\020\313\001\022$\n\037LIMIT_TYPE_BU" +
-      "ILDING_PRISM_TOWER\020\255\002\022 \n\033LIMIT_TYPE_BUIL" +
-      "DING_PATRIOT\020\256\002\022 \n\033LIMIT_TYPE_BUILDING_P" +
-      "ILLBOX\020\257\002\022\036\n\032LIMIT_TYPE_ACTIVITY_CENTER\020",
-      "z\022#\n\037LIMIT_TYPE_SOLDIER_ENHANCE_BASE\020{\022\033" +
-      "\n\027LIMIT_TYPE_PVE_ENTRANCE\020|\022\030\n\024LIMIT_TYP" +
-      "E_HERO_BASE\020}\022\"\n\036LIMIT_TYPE_RES_SOLDIER_" +
-      "FACTORY\020~\022\030\n\024LIMIT_TYPE_CITY_WALL\020\177\022\034\n\027L" +
-      "IMIT_TYPE_WISHING_WELL\020\200\001\022\025\n\020LIMIT_TYPE_" +
-      "WHARF\020\201\001\022\035\n\030LIMIT_TYPE_FRIENDLY_HALL\020\202\001\022" +
-      "$\n\037LIMIT_TYPE_SOLDIER_CONTROL_HALL\020\203\001\022\031\n" +
-      "\024LIMIT_TYPE_WAR_FORTS\020\204\001\022\034\n\027LIMIT_TYPE_S" +
-      "OLDIER_CAVE\020\205\001\022 \n\033LIMIT_TYPE_FOGGY_LABOR" +
-      "ATORY\020\206\001\022\016\n\tLIMIT_135\020\207\001\022\016\n\tLIMIT_136\020\210\001",
-      "\022\034\n\027LIMIT_FIRST_AID_STATION\020\211\001\022\027\n\022LIMIT_" +
-      "RESOURCE_HUB\020\212\001\022\"\n\035LIMIT_TYPE_SUER_SOLDI" +
-      "ER_BUILD\020\213\001\022\031\n\024LIMIT_SUPER_WP_BUILD\020\214\001\022\031" +
-      "\n\024LIMIT_ARCHIVES_BUILD\020\215\001\022\026\n\021LIMIT_GHOST" +
-      "_TOWER\020\217\001\022\022\n\rLIMIT_OBELISK\020\221\001\022\030\n\023LIMIT_P" +
-      "LANT_FACTORY\020\222\001\022\030\n\023LIMIT_PLANT_SCIENCE\020\223" +
-      "\001\022\031\n\024LIMIT_PLANT_HOSPITAL\020\224\001\022\030\n\023LIMIT_PL" +
-      "ANT_ADVANCE\020\225\001\022\030\n\023LIMIT_PLANT_POYISUO\020\226\001" +
-      "\022\031\n\024LIMIT_TOUCAI_FACTORY\020\227\001\022\024\n\017LIMIT_MAN" +
-      "HATTAN\020\230\001\022\023\n\016LIMIT_HOMELAND\020\231\001*\375\t\n\014Build",
-      "ingType\022\031\n\024CONSTRUCTION_FACTORY\020\332\017\022\r\n\010BA" +
-      "RRACKS\020\333\017\022\020\n\013WAR_FACTORY\020\334\017\022\030\n\023REMOTE_FI" +
-      "RE_FACTORY\020\335\017\022\026\n\021AIR_FORCE_COMMAND\020\336\017\022\030\n" +
-      "\023FIGHTING_LABORATORY\020\337\017\022\014\n\007EMBASSY\020\340\017\022\021\n" +
-      "\014TRADE_CENTRE\020\341\017\022\035\n\030SATELLITE_COMMUNICAT" +
-      "IONS\020\342\017\022\035\n\030EQUIP_RESEARCH_INSTITUTE\020\343\017\022\025" +
-      "\n\020FIGHTING_COMMAND\020\344\017\022\020\n\013ARMS_DEALER\020\345\017\022" +
-      "\n\n\005RADAR\020\346\017\022\022\n\rGAP_GENERATOR\020\347\017\022\016\n\tWAREH" +
-      "OUSE\020\350\017\022\020\n\013POWER_PLANT\020\351\017\022\025\n\020HOSPITAL_ST" +
-      "ATION\020\352\017\022\013\n\006PRISON\020\353\017\022\023\n\016EINSTEIN_LODGE\020",
-      "\354\017\022\027\n\022ORE_REFINING_PLANT\020\265\020\022\r\n\010OIL_WELL\020" +
-      "\266\020\022\020\n\013STEEL_PLANT\020\267\020\022\027\n\022RARE_EARTH_SMELT" +
-      "ER\020\270\020\022\020\n\013PRISM_TOWER\020\347\020\022\024\n\017PATRIOT_MISSI" +
-      "LE\020\350\020\022\014\n\007PILLBOX\020\351\020\022\013\n\006CANNON\020\352\020\022\020\n\013HELP" +
-      "_PROMPT\020\231\021\022\023\n\016RESOURCES_VIEW\020\232\021\022\030\n\023SOILD" +
-      "ER_DETAIL_FLAG\020\233\021\022\024\n\017ACTIVITY_CENTER\020\235\021\022" +
-      "\031\n\024SOLDIER_ENHANCE_BASE\020\236\021\022\021\n\014PVE_ENTRAN" +
-      "CE\020\237\021\022\016\n\tHERO_BASE\020\240\021\022\030\n\023RES_SOLDIER_FAC" +
-      "TORY\020\241\021\022\016\n\tCITY_WALL\020\242\021\022\023\n\016DRINKING_HOUS" +
-      "E\020\243\021\022\021\n\014WISHING_WELL\020\244\021\022\n\n\005WHARF\020\245\021\022\022\n\rF",
-      "RIENDLY_HALL\020\246\021\022\031\n\024SOLDIER_CONTROL_HALL\020" +
-      "\250\021\022\016\n\tWAR_FORTS\020\251\021\022\017\n\nCARGO_SHIP\020\252\021\022\025\n\020F" +
-      "OGGY_LABORATORY\020\253\021\022\021\n\014SOLDIER_CAVE\020\254\021\022\016\n" +
-      "\tVIP_STORE\020\255\021\022\025\n\020AIRCRAFT_CARRIER\020\256\021\022\026\n\021" +
-      "FIRST_AID_STATION\020\257\021\022\021\n\014RESOURCE_HUB\020\260\021\022" +
-      "\027\n\022SUER_SOLDIER_BUILD\020\261\021\022\023\n\016SUPER_WP_BUI" +
-      "LD\020\262\021\022\021\n\014ARMOUR_BUILD\020\263\021\022\023\n\016ARCHIVES_BUI" +
-      "LD\020\264\021\022\020\n\013GHOST_TOWER\020\266\021\022\014\n\007OBELISK\020\270\021\022\022\n" +
-      "\rPLANT_FACTORY\020\271\021\022\022\n\rPLANT_SCIENCE\020\272\021\022\023\n" +
-      "\016PLANT_HOSPITAL\020\273\021\022\022\n\rPLANT_ADVANCE\020\274\021\022\022",
-      "\n\rPLANT_POYISUO\020\275\021\022\023\n\016TOUCAI_FACTORY\020\276\021\022" +
-      "\016\n\tMANHATTAN\020\277\021\022\r\n\010HOMELAND\020\300\021*;\n\016QueueB" +
-      "uildType\022\023\n\017COMMON_BUILDING\020\001\022\024\n\020DEFENCE" +
-      "_BUILDING\020\002*\347\004\n\016BuildingStatus\022\n\n\006COMMON" +
-      "\020\000\022\023\n\017SOILDER_HARVEST\020\001\022\023\n\017SOLDIER_WOUND" +
-      "ED\020\002\022\027\n\023CURE_FINISH_HARVEST\020\003\022\013\n\007DAMAGED" +
-      "\020\004\022\023\n\017READY_TO_CREATE\020\005\022\026\n\022ENHANCE_BASE_" +
-      "STATE\020\006\022\020\n\014HERO_HARVEST\020\007\022\027\n\023RES_SOLDIER" +
-      "_HARVEST\020\010\022\022\n\016PVE_BASE_STATE\020\t\022\020\n\014TRAP_H" +
-      "ARVEST\020\n\022\032\n\026CITYWALL_ONFIRE_STATUS\020\013\022\033\n\027",
-      "CITYWALL_DAMAGED_STATUS\020\014\022\025\n\021BUILDING_CR" +
-      "EATING\020\r\022\027\n\023RES_MINERAL_HARVEST\020\016\022\024\n\020TRA" +
-      "VEL_SHOP_LIFE\020\017\022\020\n\014WISHING_FREE\020\020\022\024\n\020HAS" +
-      "_FRIEND_APPLY\020\021\022\024\n\020MATERIAL_HARVEST\020\022\022\025\n" +
-      "\021GUILD_HELP_STATUS\020\023\022\027\n\023TRAVEL_SHOP_REFR" +
-      "ESH\020\024\022\036\n\032FIRST_AID_BUILDING_RECOVER\020\025\022\036\n" +
-      "\032FIRST_AID_BUILDING_HARVEST\020\026\022\024\n\020TIME_LI" +
-      "MIT_STORE\020\027\022\031\n\025PLANT_SOLDIER_WOUNDED\020\030\022\035" +
-      "\n\031PLANT_CURE_FINISH_HARVEST\020\031*\205\002\n\013QueueS" +
-      "tatus\022\027\n\023QUEUE_STATUS_COMMON\020\000\022\030\n\024QUEUE_",
-      "STATUS_UPGRADE\020\001\022\027\n\023QUEUE_STATUS_REPAIR\020" +
-      "\002\022\027\n\023QUEUE_GUILD_SCIENCE\020\003\022\030\n\024QUEUE_STAT" +
-      "US_REBUILD\020\004\022\023\n\017QUEUE_HERO_CURE\020\005\022\024\n\020QUE" +
-      "UE_HERO_TRAIN\020\006\022\027\n\023QUEUE_STATUS_CREATE\020\007" +
-      "\022\027\n\023QUEUE_STATUS_REMOVE\020\010\022\032\n\026QUEUE_BUILD" +
-      "ING_RECOVER\020\t*\313\004\n\tQueueType\022\022\n\016BUILDING_" +
-      "QUEUE\020\001\022\024\n\020BUILDING_DEFENER\020\002\022\021\n\rSCIENCE" +
-      "_QUEUE\020\003\022\021\n\rSOILDER_QUEUE\020\004\022\016\n\nCURE_QUEU" +
-      "E\020\005\022\017\n\013EQUIP_QUEUE\020\006\022\017\n\013MARCH_QUEUE\020\007\022\027\n" +
-      "\023GUILD_SCIENCE_QUEUE\020\010\022\030\n\024NUCLEAR_CREATE",
-      "_QUEUE\020\t\022\031\n\025NUCLEAR_MACHINE_QUEUE\020\n\022\016\n\nH" +
-      "ERO_QUEUE\020\013\022\016\n\nTRAP_QUEUE\020\014\022\031\n\025SOLDIER_A" +
-      "DVANCE_QUEUE\020\r\022\027\n\023GUILD_HOSPICE_QUEUE\020\016\022" +
-      "\023\n\017FOGGY_BOX_QUEUE\020\017\022\024\n\020YURISTRIKE_CLEAN" +
-      "\020\020\022\032\n\026BUILDING_RECOVER_QUEUE\020\021\022\024\n\020CROSS_" +
-      "TECH_QUEUE\020\022\022\030\n\024EQUIP_RESEARCH_QUEUE\020\023\022\027" +
-      "\n\023PLANT_SCIENCE_QUEUE\020\024\022\027\n\023PLANT_ADVANCE" +
-      "_QUEUE\020\025\022\024\n\020CURE_PLANT_QUEUE\020\026\022\035\n\031NATION" +
-      "AL_HOSPITAL_RECOVER\020\027\022\"\n\036NATIONAL_HOSPIT" +
-      "AL_TSZZ_RECOVER\020\030\022\030\n\024ACTIVITY_378_RECOVE",
-      "R\020\031*I\n\016GuildAuthority\022\006\n\002L0\020\000\022\006\n\002L1\020\001\022\006\n" +
-      "\002L2\020\002\022\006\n\002L3\020\003\022\006\n\002L4\020\004\022\006\n\002L5\020\005\022\007\n\003L14\020\016*\243" +
-      "\002\n\013SoldierType\022\022\n\016XXXXXXXXXXXMAN\020\000\022\022\n\016TA" +
-      "NK_SOLDIER_1\020\001\022\022\n\016TANK_SOLDIER_2\020\002\022\023\n\017PL" +
-      "ANE_SOLDIER_3\020\003\022\023\n\017PLANE_SOLDIER_4\020\004\022\022\n\016" +
-      "FOOT_SOLDIER_5\020\005\022\022\n\016FOOT_SOLDIER_6\020\006\022\024\n\020" +
-      "CANNON_SOLDIER_7\020\007\022\024\n\020CANNON_SOLDIER_8\020\010" +
-      "\022\020\n\014BARTIZAN_100\020d\022\027\n\023WEAPON_LANDMINE_10" +
-      "1\020e\022\025\n\021WEAPON_ACKACK_102\020f\022\030\n\024WEAPON_ANT" +
-      "I_TANK_103\020g*\366\026\n\016PBSoldierSkill\022\032\n\026TANK_",
-      "SOLDIER_1_SKILL_1\020e\022\032\n\026TANK_SOLDIER_1_SK" +
-      "ILL_2\020f\022\032\n\026TANK_SOLDIER_1_SKILL_3\020g\022\032\n\026T" +
-      "ANK_SOLDIER_1_SKILL_4\020h\022\032\n\026TANK_SOLDIER_" +
-      "1_SKILL_5\020i\022\034\n\027TANK_SOLDIER_1_SKILL_66\020\246" +
-      "\001\022\034\n\027TANK_SOLDIER_1_SKILL_34\020\206\001\022\034\n\027TANK_" +
-      "SOLDIER_1_SKILL_44\020\220\001\022\033\n\026TANK_SOLDIER_2_" +
-      "SKILL_1\020\311\001\022\033\n\026TANK_SOLDIER_2_SKILL_2\020\312\001\022" +
-      "\033\n\026TANK_SOLDIER_2_SKILL_3\020\313\001\022\034\n\027TANK_SOL" +
-      "DIER_2_SKILL_66\020\212\002\022\034\n\027TANK_SOLDIER_2_SKI" +
-      "LL_34\020\352\001\022\034\n\027TANK_SOLDIER_2_SKILL_44\020\364\001\022\034",
-      "\n\027PLANE_SOLDIER_3_SKILL_1\020\255\002\022\034\n\027PLANE_SO" +
-      "LDIER_3_SKILL_2\020\256\002\022\034\n\027PLANE_SOLDIER_3_SK" +
-      "ILL_3\020\257\002\022\035\n\030PLANE_SOLDIER_3_SKILL_66\020\356\002\022" +
-      "\035\n\030PLANE_SOLDIER_3_SKILL_34\020\316\002\022\035\n\030PLANE_" +
-      "SOLDIER_3_SKILL_44\020\330\002\022\034\n\027PLANE_SOLDIER_4" +
-      "_SKILL_1\020\221\003\022\034\n\027PLANE_SOLDIER_4_SKILL_2\020\222" +
-      "\003\022\034\n\027PLANE_SOLDIER_4_SKILL_3\020\223\003\022\035\n\030PLANE" +
-      "_SOLDIER_4_SKILL_66\020\322\003\022\035\n\030PLANE_SOLDIER_" +
-      "4_SKILL_34\020\262\003\022\035\n\030PLANE_SOLDIER_4_SKILL_4" +
-      "4\020\274\003\022\033\n\026FOOT_SOLDIER_5_SKILL_1\020\365\003\022\033\n\026FOO",
-      "T_SOLDIER_5_SKILL_2\020\366\003\022\033\n\026FOOT_SOLDIER_5" +
-      "_SKILL_3\020\367\003\022\033\n\026FOOT_SOLDIER_5_SKILL_4\020\370\003" +
-      "\022\033\n\026FOOT_SOLDIER_5_SKILL_5\020\371\003\022\033\n\026FOOT_SO" +
-      "LDIER_5_SKILL_7\020\373\003\022\034\n\027FOOT_SOLDIER_5_SKI" +
-      "LL_66\020\266\004\022\034\n\027FOOT_SOLDIER_5_SKILL_34\020\226\004\022\034" +
-      "\n\027FOOT_SOLDIER_5_SKILL_44\020\240\004\022\033\n\026FOOT_SOL" +
-      "DIER_6_SKILL_1\020\331\004\022\033\n\026FOOT_SOLDIER_6_SKIL" +
-      "L_2\020\332\004\022\033\n\026FOOT_SOLDIER_6_SKILL_3\020\333\004\022\033\n\026F" +
-      "OOT_SOLDIER_6_SKILL_5\020\335\004\022\034\n\027FOOT_SOLDIER" +
-      "_6_SKILL_66\020\232\005\022\034\n\027FOOT_SOLDIER_6_SKILL_3",
-      "4\020\372\004\022\034\n\027FOOT_SOLDIER_6_SKILL_44\020\204\005\022\035\n\030CA" +
-      "NNON_SOLDIER_7_SKILL_1\020\275\005\022\035\n\030CANNON_SOLD" +
-      "IER_7_SKILL_2\020\276\005\022\035\n\030CANNON_SOLDIER_7_SKI" +
-      "LL_3\020\277\005\022\035\n\030CANNON_SOLDIER_7_SKILL_5\020\301\005\022\036" +
-      "\n\031CANNON_SOLDIER_7_SKILL_66\020\376\005\022\036\n\031CANNON" +
-      "_SOLDIER_7_SKILL_34\020\336\005\022\036\n\031CANNON_SOLDIER" +
-      "_7_SKILL_44\020\350\005\022\035\n\030CANNON_SOLDIER_8_SKILL" +
-      "_1\020\241\006\022\035\n\030CANNON_SOLDIER_8_SKILL_2\020\242\006\022\035\n\030" +
-      "CANNON_SOLDIER_8_SKILL_3\020\243\006\022\036\n\031CANNON_SO" +
-      "LDIER_8_SKILL_66\020\342\006\022\036\n\031CANNON_SOLDIER_8_",
-      "SKILL_34\020\302\006\022\036\n\031CANNON_SOLDIER_8_SKILL_44" +
-      "\020\314\006\022\031\n\024BARTIZAN_100_SKILL_1\020\221N\022\032\n\025BARTIZ" +
-      "AN_100_SKILL_66\020\322N\022 \n\033WEAPON_LANDMINE_10" +
-      "1_SKILL_1\020\365N\022!\n\034WEAPON_LANDMINE_101_SKIL" +
-      "L_66\020\266O\022\036\n\031WEAPON_ACKACK_102_SKILL_1\020\331O\022" +
-      "\037\n\032WEAPON_ACKACK_102_SKILL_66\020\232P\022!\n\034WEAP" +
-      "ON_ANTI_TANK_103_SKILL_1\020\275P\022\"\n\035WEAPON_AN" +
-      "TI_TANK_103_SKILL_66\020\376P\022\025\n\021SOLDIER_SKILL" +
-      "_114\020r\022\026\n\021SOLDIER_SKILL_214\020\326\001\022\026\n\021SOLDIE" +
-      "R_SKILL_314\020\272\002\022\026\n\021SOLDIER_SKILL_414\020\236\003\022\026",
-      "\n\021SOLDIER_SKILL_514\020\202\004\022\026\n\021SOLDIER_SKILL_" +
-      "614\020\346\004\022\026\n\021SOLDIER_SKILL_714\020\312\005\022\026\n\021SOLDIE" +
-      "R_SKILL_814\020\256\006\022\026\n\021SOLDIER_SKILL_224\020\340\001\022\025" +
-      "\n\021SOLDIER_SKILL_124\020|\022\026\n\021SOLDIER_SKILL_4" +
-      "24\020\250\003\022\026\n\021SOLDIER_SKILL_324\020\304\002\022\026\n\021SOLDIER" +
-      "_SKILL_624\020\360\004\022\026\n\021SOLDIER_SKILL_524\020\214\004\022\026\n" +
-      "\021SOLDIER_SKILL_824\020\270\006\022\026\n\021SOLDIER_SKILL_7" +
-      "24\020\324\005\022\030\n\023SOLDIER_SKILL_14101\020\215\001\022\030\n\023SOLDI" +
-      "ER_SKILL_24101\020\361\001\022\030\n\023SOLDIER_SKILL_34101" +
-      "\020\325\002\022\030\n\023SOLDIER_SKILL_44101\020\271\003\022\030\n\023SOLDIER",
-      "_SKILL_54101\020\235\004\022\030\n\023SOLDIER_SKILL_64101\020\201" +
-      "\005\022\030\n\023SOLDIER_SKILL_74101\020\345\005\022\030\n\023SOLDIER_S" +
-      "KILL_84101\020\311\006\022\030\n\023SOLDIER_SKILL_14501\020\221\001\022" +
-      "\030\n\023SOLDIER_SKILL_24501\020\365\001\022\030\n\023SOLDIER_SKI" +
-      "LL_34501\020\331\002\022\030\n\023SOLDIER_SKILL_44501\020\275\003\022\030\n" +
-      "\023SOLDIER_SKILL_54501\020\241\004\022\030\n\023SOLDIER_SKILL" +
-      "_64501\020\205\005\022\030\n\023SOLDIER_SKILL_74501\020\351\005\022\030\n\023S" +
-      "OLDIER_SKILL_84501\020\315\006\022\030\n\023SOLDIER_SKILL_1" +
-      "4601\020\222\001\022\030\n\023SOLDIER_SKILL_24601\020\366\001\022\030\n\023SOL" +
-      "DIER_SKILL_34601\020\332\002\022\030\n\023SOLDIER_SKILL_446",
-      "01\020\276\003\022\030\n\023SOLDIER_SKILL_54601\020\242\004\022\030\n\023SOLDI" +
-      "ER_SKILL_64601\020\206\005\022\030\n\023SOLDIER_SKILL_74601" +
-      "\020\352\005\022\030\n\023SOLDIER_SKILL_84601\020\316\006*f\n\014Resourc" +
-      "eZone\022\n\n\006ZONE_1\020\001\022\n\n\006ZONE_2\020\002\022\n\n\006ZONE_3\020" +
-      "\003\022\n\n\006ZONE_4\020\004\022\n\n\006ZONE_5\020\005\022\n\n\006ZONE_6\020\006\022\016\n" +
-      "\nZONE_BLACK\020\007*4\n\014GuildPositon\022\n\n\006LEADER\020" +
-      "\001\022\014\n\010COLEADER\020\002\022\n\n\006MEMBER\020\003*!\n\tGoodsType" +
-      "\022\n\n\006NORMAL\020\001\022\010\n\004GIFT\020\002*E\n\014GuildWarType\022\021" +
-      "\n\rGUILDWAR_MASS\020\001\022\020\n\014GUILDWAR_DFC\020\002\022\020\n\014G" +
-      "UILDWAR_ATK\020\003*\223\002\n\025RoundTaskActivityType\022",
-      "\031\n\025BUILDING_CREATE_EVENT\020\001\022\032\n\026BUILDING_U" +
-      "PGRADE_EVENT\020\002\022\027\n\023TRAIN_SOLDIER_EVENT\020\003\022" +
-      "\034\n\030ATTACK_MONSTER_WON_EVENT\020\004\022\031\n\025WIPEOUT" +
-      "_MONSTER_EVENT\020\005\022\025\n\021COLLECT_RES_EVENT\020\006\022" +
-      "\027\n\023ATTACK_PLAYER_EVENT\020\007\022!\n\035ATTACK_SUPER" +
-      "MONSTER_WON_EVENT\020\010\022\036\n\032WIPEOUT_SUPERMONS" +
-      "TER_EVENT\020\t*\320\002\n\rTerritoryType\022\021\n\rGUILD_B" +
-      "ASTION\020\001\022\016\n\nGUILD_SILO\020\002\022\021\n\rGUILD_URANIU" +
-      "M\020\003\022\021\n\rGUILD_WEATHER\020\004\022\022\n\016GUILD_ELECTRIC" +
-      "\020\005\022\022\n\016GUILD_HOSPITAL\020\006\022\016\n\nGUILD_SHOP\020\007\022\016",
-      "\n\nGUILD_MINE\020\010\022\020\n\014GUILD_CANNON\020\t\022\020\n\014GUIL" +
-      "D_STATUE\020\n\022\032\n\026GUILD_MOVABLE_BUILDING\020\013\022\022" +
-      "\n\016GUILD_BARTIZAN\020\014\022\024\n\020GUILD_STOREHOUSE\020\r" +
-      "\022\022\n\016GUILD_WAR_FLAG\020\016\022\031\n\025GUILD_CENTER_WAR" +
-      "_FLAG\020\017\022\025\n\021GUILD_DRAGON_TRAP\020\020*-\n\021Territ" +
-      "oryBuilding\022\013\n\007NUCLEAR\020z\022\013\n\007WEATHER\020{*\266\n" +
-      "\n\013PushMsgType\022\033\n\027BUILDING_QUEUE_FINISHED" +
-      "\020\013\022\032\n\026SOILDER_QUEUE_FINISHED\020\014\022\027\n\023CURE_Q" +
-      "UEUE_FINISHED\020\r\022\032\n\026SCIENCE_QUEUE_FINISHE" +
-      "D\020\016\022$\n SOILDER_PROMOTION_QUEUE_FINISHED\020",
-      "\017\022\017\n\013BE_ATTACKED\020\025\022\017\n\013BE_DETECTED\020\026\022\r\n\tB" +
-      "E_MASSED\020\027\022\024\n\020RES_COLLECT_PUSH\020\037\022\034\n\030PLAN" +
-      "T_RESOURCE_FULL_PUSH\020 \022\025\n\021WHARF_REWARD_P" +
-      "USH\020)\022\034\n\030ALLIANCE_TREASURE_REWARD\020*\022\030\n\024D" +
-      "AILY_LOGIN_ACTIVITY\020+\022\033\n\027ALLIANCE_ASSIST" +
-      "ANCE_RES\0203\022\034\n\030ALLIANCE_ASSISTANCE_ARMY\0204" +
-      "\022\013\n\007NEW_MSG\020=\022\024\n\020ALLIANCE_NEW_MSG\020G\022\026\n\022Y" +
-      "URI_ACTIVITY_OPEN\020Q\022\024\n\020WORLD_BOX_CD_END\020" +
-      "R\022\030\n\024ALLIANCE_MASSED_BOSS\020[\022\032\n\026ALLIANCE_" +
-      "MASSED_PLAYER\020\\\022\031\n\025ALLIANCE_MASSED_FOGGY",
-      "\020]\022\032\n\026ASSISTANCE_ARMY_RETURN\020e\022\031\n\025COLLEC" +
-      "T_ARMY_RETURNED\020f\022\027\n\023ACTTACK_ARMY_RETURN" +
-      "\020g\022\034\n\030ACTTACK_BOSS_ARMY_RETURN\020h\022\020\n\014ARMY" +
-      "_ARRIVED\020i\022\034\n\030ATTACK_FOGGY_ARMY_RETURN\020j" +
-      "\022\022\n\016PROTECT_10_END\020o\022\017\n\013PROTECT_END\020p\022\026\n" +
-      "\022OFFLINE_TIME_REACH\020y\022\030\n\024SOLDIERCAVE_WIL" +
-      "L_END\020z\022\023\n\017SOLDIERCAVE_END\020{\022\022\n\rANCHOR_O" +
-      "NLINE\020\215\001\022\031\n\024COLLEGE_INVITE_LOGIN\020\216\001\022\026\n\021T" +
-      "IBERIUM_ACT_OPEN\020\227\001\022\026\n\021WAR_ZONE_WAR_OPEN" +
-      "\020\230\001\022!\n\034ALLIED_HEADQUARTERS_WAR_OPEN\020\231\001\022\022",
-      "\n\rSTAR_WAR_OPEN\020\232\001\022\031\n\024LOSS_PLAYER_PUSH_O" +
-      "NE\020\233\001\022\031\n\024LOSS_PLAYER_PUSH_TWO\020\234\001\022\033\n\026LOSS" +
-      "_PLAYER_PUSH_THREE\020\235\001\022\033\n\026LOSS_FRIEND_APP" +
-      "LY_PUSH\020\236\001\022\032\n\025LOSS_GAME_FRIEND_PUSH\020\237\001\022\036" +
-      "\n\031LOSS_PLATFORM_FRIEND_PUSH\020\240\001\022\032\n\025RESOUR" +
-      "CE_DEFENSE_PUSH\020\241\001\022)\n$ACT_DOUBLE_TWELVE_" +
-      "LIMITED_SPIKE_PUSH\020\242\001\022\023\n\016TOUCAI_BEI_TOU\020" +
-      "\243\001\022\025\n\020TOUCAI_PRODUCT_1\020\244\001\022\025\n\020TOUCAI_PROD" +
-      "UCT_2\020\245\001\022\025\n\020TOUCAI_PRODUCT_3\020\246\001\022\025\n\020TOUCA" +
-      "I_PRODUCT_4\020\247\001*\217\002\n\025SpeedUpTimeWeightType",
-      "\022\030\n\024TIME_WEIGHT_BUILDING\020\001\022\034\n\030TIME_WEIGH" +
-      "T_TRAINSOLDIER\020\002\022\033\n\027TIME_WEIGHT_CURESOLD" +
-      "IER\020\003\022\030\n\024TIME_WEIGHT_CUREHERO\020\004\022\031\n\025TIME_" +
-      "WEIGHT_TRAINHERO\020\005\022\032\n\026TIME_WEIGHT_TECHNO" +
-      "LOGY\020\006\022\027\n\023SPEEDUP_COEFFICIENT\020\007\022\023\n\017EQUIP" +
-      "_OPERATION\020\010\022\016\n\nHERO_TRIAL\020\t\022\022\n\016EQUIP_RE" +
-      "SEARCH\020\n*@\n\031AllianceMemberContentType\022\020\n" +
-      "\014SelfAlliance\020\000\022\021\n\rOtherAlliance\020\001B\030\n\026co" +
-      "m.hawk.game.protocol"
+      "RO_12854\020\266d\022\017\n\nHERO_12881\020\321d\022\017\n\nHERO_128" +
+      "82\020\322d\022\017\n\nHERO_12883\020\323d\022\017\n\nHERO_12884\020\324d\022" +
+      "\017\n\nHERO_12941\020\215e\022\017\n\nHERO_12942\020\216e\022\017\n\nHER" +
+      "O_12943\020\217e\022\017\n\nHERO_12944\020\220e\022\017\n\nHERO_1296",
+      "1\020\241e\022\017\n\nHERO_12962\020\242e\022\017\n\nHERO_12963\020\243e\022\017" +
+      "\n\nHERO_12964\020\244e\022\017\n\nHERO_12965\020\245e\022\017\n\nHERO" +
+      "_12966\020\246e\022\017\n\nHERO_12967\020\247e\022\017\n\nHERO_12968" +
+      "\020\250e\022\017\n\nHERO_12969\020\251e\022\017\n\nHERO_12970\020\252e\022\017\n" +
+      "\nHERO_12981\020\265e\022\017\n\nHERO_12991\020\277e\022\017\n\nHERO_" +
+      "12992\020\300e\022\017\n\nHERO_12993\020\301e\022\017\n\nHERO_12994\020" +
+      "\302e\022\017\n\nHERO_12995\020\303e\022\017\n\nHERO_12996\020\304e\022\017\n\n" +
+      "HERO_12997\020\305e\022\017\n\nHERO_12901\020\345d\022\017\n\nHERO_1" +
+      "2902\020\346d\022\017\n\nHERO_12903\020\347d\022\017\n\nHERO_12904\020\350" +
+      "d\022\017\n\nHERO_12905\020\351d\022\017\n\nHERO_12906\020\352d\022\017\n\nH",
+      "ERO_12907\020\353d\022\017\n\nHERO_12911\020\357d\022\017\n\nHERO_12" +
+      "921\020\371d\022\017\n\nHERO_12922\020\372d\022\017\n\nHERO_12923\020\373d" +
+      "\022\017\n\nHERO_12924\020\374d\022\017\n\nHERO_13022\020\336e\022\016\n\tEF" +
+      "F_11070\020\276V\022\021\n\014LABRORA_1201\020\261\t\022\021\n\014LABRORA" +
+      "_1202\020\262\t\022\021\n\014LABRORA_1203\020\263\t\022\021\n\014LABRORA_1" +
+      "204\020\264\t\022\021\n\014LABRORA_1205\020\265\t\022\021\n\014LABRORA_120" +
+      "6\020\266\t\022\021\n\014LABRORA_1207\020\267\t\022\022\n\rTBLY_EFF_1701" +
+      "\020\245\r\022\022\n\rTBLY_EFF_1702\020\246\r\022\022\n\rTBLY_EFF_1703" +
+      "\020\247\r\022\022\n\rTBLY_EFF_1704\020\250\r\022\022\n\rTBLY_EFF_1705" +
+      "\020\251\r\022\022\n\rTBLY_EFF_1706\020\252\r\022\022\n\rTBLY_EFF_1707",
+      "\020\253\r\022\022\n\rTBLY_EFF_1708\020\254\r\022\022\n\rTBLY_EFF_1709" +
+      "\020\255\r\022\022\n\rTBLY_EFF_1710\020\256\r\022\022\n\rTBLY_EFF_1711" +
+      "\020\257\r\022\022\n\rTBLY_EFF_1712\020\260\r\022\022\n\rTBLY_EFF_1713" +
+      "\020\261\r\022\022\n\rTBLY_EFF_1714\020\262\r\022\022\n\rTBLY_EFF_1715" +
+      "\020\263\r\022\022\n\rTBLY_EFF_1716\020\264\r\022\022\n\rTBLY_EFF_1717" +
+      "\020\265\r\022\022\n\rTBLY_EFF_1718\020\266\r\022\022\n\rTBLY_EFF_1719" +
+      "\020\267\r\022\022\n\rTBLY_EFF_1720\020\270\r\022\022\n\rTBLY_EFF_1721" +
+      "\020\271\r\022\016\n\tDYZZ_9001\020\251F\022\016\n\tDYZZ_9002\020\252F\022\016\n\tD" +
+      "YZZ_9003\020\253F\022\016\n\tDYZZ_9004\020\254F\022\016\n\tDYZZ_9005" +
+      "\020\255F\022\016\n\tDYZZ_9006\020\256F\022\016\n\tDYZZ_9007\020\257F\022\016\n\tD",
+      "YZZ_9008\020\260F\022\016\n\tDYZZ_9009\020\261F\022\016\n\tDYZZ_9010" +
+      "\020\262F\022\016\n\tDYZZ_9011\020\263F\022\016\n\tDYZZ_9012\020\264F\022\016\n\tD" +
+      "YZZ_9013\020\265F\022\016\n\tDYZZ_9014\020\266F\022\016\n\tDYZZ_9015" +
+      "\020\267F\022\016\n\tDYZZ_9016\020\270F\022\016\n\tDYZZ_9017\020\271F\022\016\n\tD" +
+      "YZZ_9018\020\272F\022\016\n\tDYZZ_9019\020\273F\022\016\n\tDYZZ_9020" +
+      "\020\274F\022\016\n\tDYZZ_9021\020\275F\022\016\n\tDYZZ_9022\020\276F\022\016\n\tD" +
+      "YZZ_9023\020\277F\022\016\n\tDYZZ_9024\020\300F\022\016\n\tDYZZ_9025" +
+      "\020\301F\022\016\n\tDYZZ_9026\020\302F\022\016\n\tDYZZ_9027\020\303F\022\016\n\tD" +
+      "YZZ_9028\020\304F\022\016\n\tDYZZ_9029\020\305F\022\016\n\tDYZZ_9030" +
+      "\020\306F\022\016\n\tDYZZ_9031\020\307F\022\016\n\tDYZZ_9032\020\310F\022\016\n\tD",
+      "YZZ_9033\020\311F\022\016\n\tDYZZ_9034\020\312F\022\016\n\tDYZZ_9035" +
+      "\020\313F\022\016\n\tDYZZ_9036\020\314F\022\016\n\tDYZZ_9037\020\315F\022\016\n\tD" +
+      "YZZ_9038\020\316F\022\016\n\tDYZZ_9039\020\317F\022\016\n\tDYZZ_9040" +
+      "\020\320F\022\016\n\tDYZZ_9041\020\321F\022\016\n\tDYZZ_9045\020\325F\022\016\n\tD" +
+      "YZZ_9046\020\326F\022\016\n\tDYZZ_9047\020\327F\022\016\n\tDYZZ_9048" +
+      "\020\330F\022\016\n\tDYZZ_9049\020\331F\022\016\n\tDYZZ_9050\020\332F\022#\n\036C" +
+      "ROSS_SELF_SCORE_REWARD_DOUBLE\020\271\027\022\034\n\027CROS" +
+      "S_MONSTER_SCORE_ADD\020\272\027\022 \n\033CROSS_RES_COLL" +
+      "ECT_SCORE_ADD\020\273\027\022\036\n\031CROSS_ARMY_KILL_SCOR" +
+      "E_ADD\020\274\027\022 \n\033CROSS_STRONGPOINT_SCORE_ADD\020",
+      "\275\027\022\"\n\035CROSS_SELF_TASK_REWARD_DOUBLE\020\276\027\022\027" +
+      "\n\022GUILD_DONATE_SPEED\020\277\027\022\027\n\022GUILD_HELP_CN" +
+      "T_ADD\020\300\027\022\035\n\030GUILD_GIFT_REWARD_DOUBLE\020\301\027\022" +
+      "$\n\037CROSS_GUILD_SCORE_REWARD_DOUBLE\020\302\027\022\030\n" +
+      "\023CROSS_TECH_EFF_3013\020\305\027\022\030\n\023CROSS_TECH_EF" +
+      "F_3014\020\306\027\022\030\n\023CROSS_TECH_EFF_3015\020\307\027\022\030\n\023C" +
+      "ROSS_TECH_EFF_3016\020\310\027\022\017\n\nCROSS_3012\020\304\027\022\036" +
+      "\n\031TRAIN_COUNT_TYPE2_ADD_NUM\020\241\037\022\036\n\031TRAIN_" +
+      "COUNT_TYPE1_ADD_NUM\020\242\037\022\036\n\031TRAIN_COUNT_TY" +
+      "PE3_ADD_NUM\020\243\037\022\036\n\031TRAIN_COUNT_TYPE4_ADD_",
+      "NUM\020\244\037\022\036\n\031TRAIN_COUNT_TYPE5_ADD_NUM\020\245\037\022\036" +
+      "\n\031TRAIN_COUNT_TYPE6_ADD_NUM\020\246\037\022\036\n\031TRAIN_" +
+      "COUNT_TYPE7_ADD_NUM\020\247\037\022\036\n\031TRAIN_COUNT_TY" +
+      "PE8_ADD_NUM\020\250\037\022!\n\034WEAPON_BUILD_TYPE101_A" +
+      "DD_NUM\020\251\037\022!\n\034WEAPON_BUILD_TYPE102_ADD_NU" +
+      "M\020\252\037\022!\n\034WEAPON_BUILD_TYPE103_ADD_NUM\020\253\037\022" +
+      "\035\n\030PRODUCT_INC_TIME_ADD_PER\020\254\037\022\031\n\024TRAIN_" +
+      "SPEED_PRE7_PER\020\257\037\022\030\n\023TRAIN_SPEED_EQ8_PER" +
+      "\020\260\037\022\030\n\023TRAIN_SPEED_EQ9_PER\020\261\037\022\031\n\024TRAIN_S" +
+      "PEED_EQ10_PER\020\262\037\022\025\n\020SPY_CONSUM_REDUS\020\263\037\022",
+      "\030\n\023SPY_MARCH_SPEED_ADD\020\264\037\022\030\n\023ATK_MONSTER" +
+      "_VIT_ADD\020\265\037\022\033\n\026KILL_MONSTER_AWARD_ADD\020\266\037" +
+      "\022\027\n\022SKILL_COST_VIT_ADD\020\267\037\022\023\n\016TRAIN_RES_4" +
+      "024\020\270\037\022\034\n\027TRAIN_ARMY11_SPEED_4025\020\271\037\022\027\n\022" +
+      "EXTRA_ARMY_1_2_PER\020\304\037\022\027\n\022EXTRA_ARMY_3_4_" +
+      "PER\020\305\037\022\027\n\022EXTRA_ARMY_5_6_PER\020\306\037\022\027\n\022EXTRA" +
+      "_ARMY_7_8_PER\020\307\037\022\024\n\016HERO_SKIN_DUYE\020\301\270\002\022\025" +
+      "\n\017HERO_SKIN_40002\020\302\270\002\022\025\n\017HERO_SKIN_40003" +
+      "\020\303\270\002\022\025\n\017HERO_SKIN_40004\020\304\270\002\022\025\n\017HERO_SKIN" +
+      "_40005\020\305\270\002\022\025\n\017HERO_SKIN_40006\020\306\270\002\022\025\n\017HER",
+      "O_SKIN_40007\020\307\270\002\022\025\n\017HERO_SKIN_40008\020\310\270\002\022" +
+      "\025\n\017HERO_SKIN_40009\020\311\270\002\022\025\n\017HERO_SKIN_4001" +
+      "0\020\312\270\002\022\025\n\017HERO_SKIN_40011\020\313\270\002\022\025\n\017HERO_SKI" +
+      "N_40012\020\314\270\002\022\025\n\017HERO_SKIN_40013\020\315\270\002\022\025\n\017HE" +
+      "RO_SKIN_40014\020\316\270\002\022\025\n\017HERO_SKIN_40015\020\317\270\002" +
+      "\022\025\n\017HERO_SKIN_40016\020\320\270\002\022\025\n\017HERO_SKIN_400" +
+      "17\020\321\270\002\022\025\n\017HERO_SKIN_40018\020\322\270\002\022\025\n\017HERO_SK" +
+      "IN_40019\020\323\270\002\022\025\n\017HERO_SKIN_40020\020\324\270\002\022\025\n\017H" +
+      "ERO_SKIN_40021\020\325\270\002\022\035\n\027PLANT_SOLDIER_SKIL" +
+      "L_824\020\301\204=\022\035\n\027PLANT_SOLDIER_SKILL_144\020\302\204=",
+      "\022\035\n\027PLANT_SOLDIER_SKILL_344\020\303\204=\022\035\n\027PLANT" +
+      "_SOLDIER_SKILL_444\020\304\204=\022\035\n\027PLANT_SOLDIER_" +
+      "SKILL_644\020\305\204=\022\035\n\027PLANT_SOLDIER_SKILL_744" +
+      "\020\306\204=\022\035\n\027PLANT_SOLDIER_SKILL_844\020\307\204=\022\030\n\022S" +
+      "SS_SKILL_12143_P2\020\310\204=\022\021\n\013EFF_1000009\020\311\204=" +
+      "\022\021\n\013EFF_1000010\020\312\204=\022\035\n\027EFF_SOLDIER_SKILL" +
+      "_14501\020\345\365=\022\035\n\027EFF_SOLDIER_SKILL_44501\020\225\340" +
+      "?\022\035\n\027EFF_SOLDIER_SKILL_64501\020\265\374@\022\035\n\027EFF_" +
+      "SOLDIER_SKILL_54501\020\245\256@\022\035\n\027EFF_SOLDIER_S" +
+      "KILL_84501\020\325\230B\022\035\n\027EFF_SOLDIER_SKILL_7450",
+      "1\020\305\312A\022\016\n\tEFF_12661\020\365b\022\016\n\tEFF_12662\020\366b\022\016\n" +
+      "\tEFF_12663\020\367b\022\016\n\tEFF_12664\020\370b\022\027\n\022PLANT_S" +
+      "OLDIER_4101\020\205 \022\027\n\022PLANT_SOLDIER_4102\020\206 \022" +
+      "\027\n\022PLANT_SOLDIER_4103\020\207 \022\027\n\022PLANT_SOLDIE" +
+      "R_4104\020\210 \022\027\n\022PLANT_SOLDIER_4105\020\211 \022\027\n\022PL" +
+      "ANT_SOLDIER_4106\020\212 \022\027\n\022PLANT_SOLDIER_410" +
+      "7\020\213 \022\027\n\022PLANT_SOLDIER_4108\020\214 \022\027\n\022PLANT_S" +
+      "OLDIER_4109\020\215 \022\027\n\022PLANT_SOLDIER_4110\020\216 \022" +
+      "\027\n\022PLANT_SOLDIER_4111\020\217 \022\027\n\022PLANT_SOLDIE" +
+      "R_4112\020\220 \022\027\n\022PLANT_SOLDIER_4113\020\221 \022\027\n\022PL",
+      "ANT_SOLDIER_4114\020\222 \022\027\n\022PLANT_SOLDIER_411" +
+      "5\020\223 \022\027\n\022PLANT_SOLDIER_4116\020\224 \022\027\n\022PLANT_S" +
+      "OLDIER_4117\020\225 \022\027\n\022PLANT_SOLDIER_4118\020\226 \022" +
+      "\027\n\022PLANT_SOLDIER_4119\020\227 \022\027\n\022PLANT_SOLDIE" +
+      "R_4120\020\230 \022\027\n\022PLANT_SOLDIER_4121\020\231 \022\027\n\022PL" +
+      "ANT_SOLDIER_4122\020\232 \022\027\n\022PLANT_SOLDIER_412" +
+      "3\020\233 \022\027\n\022PLANT_SOLDIER_4124\020\234 \022\027\n\022PLANT_S" +
+      "OLDIER_4125\020\235 \022\027\n\022PLANT_SOLDIER_4126\020\236 \022" +
+      "\027\n\022PLANT_SOLDIER_4127\020\237 \022\027\n\022PLANT_SOLDIE" +
+      "R_4128\020\240 \022\027\n\022PLANT_SOLDIER_4129\020\241 \022\027\n\022PL",
+      "ANT_SOLDIER_4130\020\242 \022\027\n\022PLANT_SOLDIER_190" +
+      "1\020\355\016\022\027\n\022PLANT_SOLDIER_1902\020\356\016\022\027\n\022PLANT_S" +
+      "OLDIER_1903\020\357\016\022\027\n\022PLANT_SOLDIER_1904\020\360\016\022" +
+      "\027\n\022PLANT_SOLDIER_1905\020\361\016\022\027\n\022PLANT_SOLDIE" +
+      "R_1906\020\362\016\022\027\n\022PLANT_SOLDIER_1907\020\363\016\022\027\n\022PL" +
+      "ANT_SOLDIER_1908\020\364\016\022\027\n\022PLANT_SOLDIER_190" +
+      "9\020\365\016\022\027\n\022PLANT_SOLDIER_1910\020\366\016\022\027\n\022PLANT_S" +
+      "OLDIER_1911\020\367\016\022\027\n\022PLANT_SOLDIER_1912\020\370\016\022" +
+      "\027\n\022PLANT_SOLDIER_1913\020\371\016\022\027\n\022PLANT_SOLDIE" +
+      "R_1914\020\372\016\022\027\n\022PLANT_SOLDIER_1915\020\373\016\022\027\n\022PL",
+      "ANT_SOLDIER_1916\020\374\016\022\027\n\022PLANT_SOLDIER_191" +
+      "7\020\375\016\022\027\n\022PLANT_SOLDIER_1918\020\376\016\022\027\n\022PLANT_S" +
+      "OLDIER_1919\020\377\016\022\027\n\022PLANT_SOLDIER_1920\020\200\017\022" +
+      "\027\n\022PLANT_SOLDIER_1921\020\201\017\022\027\n\022PLANT_SOLDIE" +
+      "R_1922\020\202\017\022\027\n\022PLANT_SOLDIER_1923\020\203\017\022\027\n\022PL" +
+      "ANT_SOLDIER_1924\020\204\017\022\027\n\022PLANT_SOLDIER_192" +
+      "5\020\205\017\022\027\n\022PLANT_SOLDIER_1926\020\206\017\022\027\n\022PLANT_S" +
+      "OLDIER_1927\020\207\017\022\027\n\022PLANT_SOLDIER_1928\020\210\017\022" +
+      "\027\n\022PLANT_SOLDIER_1929\020\211\017\022\027\n\022PLANT_SOLDIE" +
+      "R_1930\020\212\017\022\027\n\022PLANT_SOLDIER_1931\020\213\017\022\027\n\022PL",
+      "ANT_SOLDIER_1932\020\214\017\022\027\n\022PLANT_SOLDIER_193" +
+      "3\020\215\017\022\027\n\022PLANT_SOLDIER_1934\020\216\017\022\027\n\022PLANT_S" +
+      "OLDIER_1935\020\217\017\022\027\n\022PLANT_SOLDIER_1936\020\220\017\022" +
+      "\027\n\022PLANT_SOLDIER_1937\020\221\017\022\027\n\022PLANT_SOLDIE" +
+      "R_1938\020\222\017\022\027\n\022PLANT_SOLDIER_1939\020\223\017\022\027\n\022PL" +
+      "ANT_SOLDIER_1940\020\224\017\022\027\n\022PLANT_SOLDIER_194" +
+      "1\020\225\017\022\027\n\022PLANT_SOLDIER_1942\020\226\017\022\027\n\022PLANT_S" +
+      "OLDIER_1943\020\227\017\022\027\n\022PLANT_SOLDIER_1944\020\230\017\022" +
+      "\027\n\022PLANT_SOLDIER_1945\020\231\017\022\027\n\022PLANT_SOLDIE" +
+      "R_1946\020\232\017\022\027\n\022PLANT_SOLDIER_1947\020\233\017\022\027\n\022PL",
+      "ANT_SOLDIER_1948\020\234\017\022\021\n\014SOLDIER_1949\020\235\017\022\021" +
+      "\n\014SOLDIER_1950\020\236\017\022\021\n\014SOLDIER_1951\020\237\017\022\021\n\014" +
+      "SOLDIER_1952\020\240\017\022\021\n\014SOLDIER_1953\020\241\017\022\021\n\014SO" +
+      "LDIER_1954\020\242\017\022\021\n\014SOLDIER_1955\020\243\017\022\021\n\014SOLD" +
+      "IER_1956\020\244\017\022\021\n\014SOLDIER_1957\020\245\017\022\021\n\014SOLDIE" +
+      "R_1958\020\246\017\022\021\n\014SOLDIER_1959\020\247\017\022\021\n\014SOLDIER_" +
+      "1960\020\250\017\022\021\n\014SOLDIER_1961\020\251\017\022\021\n\014SOLDIER_19" +
+      "62\020\252\017\022\021\n\014SOLDIER_1963\020\253\017\022\021\n\014SOLDIER_1964" +
+      "\020\254\017\022\021\n\014SOLDIER_1965\020\255\017\022\021\n\014SOLDIER_1966\020\256" +
+      "\017\022\021\n\014SOLDIER_1967\020\257\017\022\021\n\014SOLDIER_1968\020\260\017\022",
+      "\021\n\014SOLDIER_1969\020\261\017\022\021\n\014SOLDIER_1970\020\262\017\022\021\n" +
+      "\014SOLDIER_1971\020\263\017\022\021\n\014SOLDIER_1972\020\264\017\022\016\n\tF" +
+      "IRE_1980\020\274\017\022\016\n\tFIRE_1981\020\275\017\022\016\n\tFIRE_1982" +
+      "\020\276\017\022\016\n\tFIRE_1983\020\277\017\022\016\n\tFIRE_1984\020\300\017\022\022\n\rF" +
+      "IRE_DEF_1990\020\306\017\022\022\n\rFIRE_DEF_1991\020\307\017\022\022\n\rF" +
+      "IRE_DEF_1992\020\310\017\022\022\n\rFIRE_DEF_1993\020\311\017\022\022\n\rF" +
+      "IRE_DEF_1994\020\312\017\022\016\n\tFIRE_2001\020\321\017\022\016\n\tFIRE_" +
+      "2002\020\322\017\022\016\n\tFIRE_2003\020\323\017\022\016\n\tFIRE_2004\020\324\017\022" +
+      "\016\n\tFIRE_2005\020\325\017\022\016\n\tFIRE_2006\020\326\017\022\016\n\tFIRE_" +
+      "2007\020\327\017\022\016\n\tFIRE_2008\020\330\017\022\022\n\rFIRE_DEF_2011",
+      "\020\333\017\022\022\n\rFIRE_DEF_2012\020\334\017\022\022\n\rFIRE_DEF_2013" +
+      "\020\335\017\022\022\n\rFIRE_DEF_2014\020\336\017\022\022\n\rFIRE_DEF_2015" +
+      "\020\337\017\022\022\n\rFIRE_DEF_2016\020\340\017\022\022\n\rFIRE_DEF_2017" +
+      "\020\341\017\022\022\n\rFIRE_DEF_2018\020\342\017\022\024\n\017CROSS_EFF_100" +
+      "01\020\221N\022\024\n\017CROSS_EFF_10002\020\222N\022\024\n\017CROSS_EFF" +
+      "_10003\020\223N\022\024\n\017CROSS_EFF_10004\020\224N\022\024\n\017CROSS" +
+      "_EFF_10005\020\225N\022\024\n\017CROSS_EFF_10006\020\226N\022\024\n\017C" +
+      "ROSS_EFF_10007\020\227N\022\024\n\017CROSS_EFF_10008\020\230N\022" +
+      "\024\n\017CROSS_EFF_10009\020\231N\022\024\n\017CROSS_EFF_10010" +
+      "\020\232N\022\024\n\017CROSS_EFF_10011\020\233N\022\024\n\017CROSS_EFF_1",
+      "0012\020\234N\022\024\n\017CROSS_EFF_10013\020\235N\022\024\n\017CROSS_E" +
+      "FF_10014\020\236N\022\024\n\017CROSS_EFF_10015\020\237N\022\024\n\017CRO" +
+      "SS_EFF_10016\020\240N\022\024\n\017CROSS_EFF_10017\020\241N\022\024\n" +
+      "\017CROSS_EFF_10018\020\242N\022\024\n\017CROSS_EFF_10019\020\243" +
+      "N\022\024\n\017CROSS_EFF_10020\020\244N\022\024\n\017CROSS_EFF_100" +
+      "21\020\245N\022\024\n\017CROSS_EFF_10022\020\246N\022\024\n\017CROSS_EFF" +
+      "_10023\020\247N\022\024\n\017CROSS_EFF_10024\020\250N\022\024\n\017CROSS" +
+      "_EFF_10025\020\251N\022\024\n\017CROSS_EFF_10026\020\252N\022\024\n\017C" +
+      "ROSS_EFF_10027\020\253N\022\024\n\017CROSS_EFF_10028\020\254N\022" +
+      "\024\n\017CROSS_EFF_10029\020\255N\022\024\n\017CROSS_EFF_10030",
+      "\020\256N\022\024\n\017CROSS_EFF_10031\020\257N\022\024\n\017CROSS_EFF_1" +
+      "0032\020\260N\022\024\n\017CROSS_EFF_10033\020\261N\022\024\n\017CROSS_E" +
+      "FF_10034\020\262N\022\024\n\017CROSS_EFF_10035\020\263N\022\024\n\017CRO" +
+      "SS_EFF_10036\020\264N\022\024\n\017CROSS_EFF_10037\020\265N\022\024\n" +
+      "\017CROSS_EFF_10038\020\266N\022\024\n\017CROSS_EFF_10039\020\267" +
+      "N\022\024\n\017CROSS_EFF_10040\020\270N\022\024\n\017CROSS_EFF_100" +
+      "41\020\271N\022\024\n\017CROSS_EFF_10042\020\272N\022\024\n\017CROSS_EFF" +
+      "_10043\020\273N\022\024\n\017CROSS_EFF_10044\020\274N\022\024\n\017CROSS" +
+      "_EFF_10045\020\275N\022\024\n\017CROSS_EFF_10046\020\276N\022\024\n\017C" +
+      "ROSS_EFF_10047\020\277N\022\024\n\017CROSS_EFF_10048\020\300N\022",
+      "\021\n\014ARMOUR_11001\020\371U\022\021\n\014ARMOUR_11002\020\372U\022\021\n" +
+      "\014ARMOUR_11003\020\373U\022\021\n\014ARMOUR_11004\020\374U\022\021\n\014A" +
+      "RMOUR_11005\020\375U\022\021\n\014ARMOUR_11006\020\376U\022\021\n\014ARM" +
+      "OUR_11007\020\377U\022\021\n\014ARMOUR_11008\020\200V\022\021\n\014ARMOU" +
+      "R_11009\020\201V\022\021\n\014ARMOUR_11010\020\202V\022\021\n\014ARMOUR_" +
+      "11011\020\203V\022\021\n\014ARMOUR_11012\020\204V\022\021\n\014ARMOUR_11" +
+      "013\020\205V\022\036\n\031ARMOUR_STAR_EXPLORE_11014\020\206V\022\036" +
+      "\n\031ARMOUR_STAR_EXPLORE_11015\020\207V\022\036\n\031ARMOUR" +
+      "_STAR_EXPLORE_11016\020\210V\022\036\n\031ARMOUR_STAR_EX" +
+      "PLORE_11017\020\211V\022\036\n\031ARMOUR_STAR_EXPLORE_11",
+      "018\020\212V\022\036\n\031ARMOUR_STAR_EXPLORE_11019\020\213V\022\036" +
+      "\n\031ARMOUR_STAR_EXPLORE_11020\020\214V\022\036\n\031ARMOUR" +
+      "_STAR_EXPLORE_11021\020\215V\022\036\n\031ARMOUR_STAR_EX" +
+      "PLORE_11022\020\216V\022\036\n\031ARMOUR_STAR_EXPLORE_11" +
+      "023\020\217V\022\036\n\031ARMOUR_STAR_EXPLORE_11024\020\220V\022\036" +
+      "\n\031ARMOUR_STAR_EXPLORE_11025\020\221V\022\036\n\031ARMOUR" +
+      "_STAR_EXPLORE_11026\020\222V\022\036\n\031ARMOUR_STAR_EX" +
+      "PLORE_11027\020\223V\022\036\n\031ARMOUR_STAR_EXPLORE_11" +
+      "028\020\224V\022\036\n\031ARMOUR_STAR_EXPLORE_11029\020\225V\022\036" +
+      "\n\031ARMOUR_STAR_EXPLORE_11030\020\226V\022\036\n\031ARMOUR",
+      "_STAR_EXPLORE_11031\020\227V\022\036\n\031ARMOUR_STAR_EX" +
+      "PLORE_11032\020\230V\022\036\n\031ARMOUR_STAR_EXPLORE_11" +
+      "034\020\232V\022\036\n\031ARMOUR_STAR_EXPLORE_11035\020\233V\022!" +
+      "\n\033ATK_MONSTER_ENERGY_DETECTOR\020\321\206\003\022!\n\033ATK" +
+      "_MONSTER_HONNER_DETECTOR\020\322\206\003\022\022\n\014ADD_ARMY" +
+      "_ATK\020\341\324\003\022\026\n\020RES_TO_PROTECTED\020\343\324\003\022\032\n\024RED_" +
+      "TREATE_ARMY_TIME\020\345\324\003\022\021\n\013SKILL_10304\020\346\324\003\022" +
+      "\035\n\027IMAGE_CIRCLE_BUFF_73000\020\250\272\004\022\035\n\027IMAGE_" +
+      "CIRCLE_BUFF_74000\020\220\302\004\022\035\n\027IMAGE_CIRCLE_BU" +
+      "FF_76000\020\340\321\004\022\035\n\027IMAGE_CIRCLE_BUFF_77000\020",
+      "\310\331\004\022\035\n\027IMAGE_CIRCLE_BUFF_78000\020\260\341\004\022\026\n\020AU" +
+      "TO_ATK_MONSTER\020\201\361\004\022\036\n\030IMAGE_CIRCLE_BUFF_" +
+      "711000\020\330\262+\022\036\n\030IMAGE_CIRCLE_BUFF_711001\020\331" +
+      "\262+\022\036\n\030IMAGE_CIRCLE_BUFF_711003\020\333\262+\022\036\n\030IM" +
+      "AGE_CIRCLE_BUFF_711007\020\337\262+\022\036\n\030IMAGE_CIRC" +
+      "LE_BUFF_711014\020\346\262+\022\036\n\030IMAGE_CIRCLE_BUFF_" +
+      "711030\020\366\262+\022\036\n\030IMAGE_CIRCLE_BUFF_712000\020\300" +
+      "\272+\022\036\n\030IMAGE_CIRCLE_BUFF_712001\020\301\272+\022\036\n\030IM" +
+      "AGE_CIRCLE_BUFF_712003\020\303\272+\022\036\n\030IMAGE_CIRC" +
+      "LE_BUFF_712007\020\307\272+\022\036\n\030IMAGE_CIRCLE_BUFF_",
+      "712014\020\316\272+\022\036\n\030IMAGE_CIRCLE_BUFF_712030\020\336" +
+      "\272+\022\036\n\030IMAGE_CIRCLE_BUFF_750001\020\261\343-\022\036\n\030IM" +
+      "AGE_CIRCLE_BUFF_750003\020\263\343-\022\036\n\030IMAGE_CIRC" +
+      "LE_BUFF_750007\020\267\343-\022\036\n\030IMAGE_CIRCLE_BUFF_" +
+      "750014\020\276\343-\022\036\n\030IMAGE_CIRCLE_BUFF_750030\020\316" +
+      "\343-\022\036\n\030IMAGE_CIRCLE_BUFF_790000\020\360\2330\022\036\n\030IM" +
+      "AGE_CIRCLE_BUFF_790001\020\361\2330\022\036\n\030IMAGE_CIRC" +
+      "LE_BUFF_790003\020\363\2330\022\036\n\030IMAGE_CIRCLE_BUFF_" +
+      "790007\020\367\2330\022\036\n\030IMAGE_CIRCLE_BUFF_790014\020\376" +
+      "\2330\022\036\n\030IMAGE_CIRCLE_BUFF_790030\020\216\2340\022+\n%BA",
+      "CK_PRIVILEGE_ATK_MONSTER_VIT_REDUCE\020\305\333\001\022" +
+      "3\n-BACK_PRIVILEGE_ATK_MONSTER_AWARD_DOUB" +
+      "LE_TIMES\020\306\333\001\022\034\n\026BACK_PRIVILEGE_VIT_PER\020\307" +
+      "\333\001\022 \n\032BACK_PRIVILEGE_RES_COLLECT\020\310\333\001\022%\n\037" +
+      "BACK_PRIVILEGE_RES_OUTPUT_BOOST\020\311\333\001\022#\n\035B" +
+      "ACK_PRIVILEGE_CITY_SPD_BUILD\020\312\333\001\022%\n\037BACK" +
+      "_PRIVILEGE_CITY_SPD_SCIENCE\020\313\333\001\022%\n\037BACK_" +
+      "PRIVILEGE_CITY_SPD_SOLDIER\020\314\333\001\022\027\n\021AUTO_P" +
+      "UT_RESOURCE\020\315\333\001\022\032\n\024AUTO_GATHER_RESOURCE\020" +
+      "\316\333\001\022\027\n\021BLACK_TECH_367811\020\303\271\026\022\027\n\021BLACK_TE",
+      "CH_367812\020\304\271\026\022\027\n\021BLACK_TECH_367813\020\305\271\026\022\"" +
+      "\n\034SPACE_MECHA_BOSS_SOLDIER_ADD\020\314\271\026\022\"\n\034SP" +
+      "ACE_MECHA_BOSS_SOLDIER_SUB\020\315\271\026\022\014\n\007EFF_51" +
+      "9\020\207\004\022\014\n\007EFF_520\020\210\004\022\014\n\007EFF_521\020\211\004\022\014\n\007EFF_" +
+      "522\020\212\004\022\014\n\007EFF_523\020\213\004\022\016\n\tEFF_10080\020\340N\022\016\n\t" +
+      "EFF_10081\020\341N\022\016\n\tEFF_10082\020\342N\022\027\n\021BLACK_TE" +
+      "CH_367822\020\316\271\026\022\027\n\021BLACK_TECH_367823\020\317\271\026\022\027" +
+      "\n\021BLACK_TECH_367824\020\320\271\026\022\027\n\021BLACK_TECH_36" +
+      "7825\020\321\271\026\022\027\n\021BLACK_TECH_367826\020\322\271\026\022\016\n\tEFF" +
+      "_10083\020\343N\022\016\n\tEFF_10084\020\344N\022\016\n\tEFF_10085\020\345",
+      "N\022\016\n\tEFF_10086\020\346N\022\016\n\tEFF_10087\020\347N\022\016\n\tEFF" +
+      "_11080\020\310V\022\016\n\tEFF_11081\020\311V\022\016\n\tEFF_11082\020\312" +
+      "V\022\016\n\tEFF_11083\020\313V\022\016\n\tEFF_11084\020\314V\022\016\n\tEFF" +
+      "_11085\020\315V\022\016\n\tEFF_11086\020\316V\022\016\n\tEFF_11087\020\317" +
+      "V\022\016\n\tEFF_11088\020\320V\022\016\n\tEFF_11089\020\321V\022\016\n\tEFF" +
+      "_11090\020\322V\022\016\n\tEFF_11091\020\323V\022\016\n\tEFF_11092\020\324" +
+      "V\022\016\n\tEFF_11093\020\325V\022\016\n\tEFF_11094\020\326V\022\016\n\tEFF" +
+      "_11095\020\327V\022\016\n\tEFF_11096\020\330V\022\016\n\tEFF_11097\020\331" +
+      "V\022\016\n\tEFF_11098\020\332V\022\016\n\tEFF_11099\020\333V\022\016\n\tEFF" +
+      "_11100\020\334V\022\016\n\tEFF_11101\020\335V\022\016\n\tEFF_11102\020\336",
+      "V\022\016\n\tEFF_11103\020\337V\022\016\n\tEFF_11104\020\340V\022\016\n\tEFF" +
+      "_11105\020\341V\022\016\n\tEFF_11111\020\347V\022\016\n\tEFF_11112\020\350" +
+      "V\022\016\n\tEFF_11113\020\351V\022\016\n\tEFF_11114\020\352V\022\016\n\tEFF" +
+      "_11115\020\353V\022\016\n\tEFF_11116\020\354V\022\016\n\tEFF_11117\020\355" +
+      "V\022\016\n\tEFF_11118\020\356V\022\016\n\tEFF_11119\020\357V\022\016\n\tEFF" +
+      "_11120\020\360V\022\016\n\tEFF_11121\020\361V\022\016\n\tEFF_11122\020\362" +
+      "V\022\r\n\010EFF12751\020\317c\022\r\n\010EFF12752\020\320c\022\r\n\010EFF12" +
+      "753\020\321c\022\r\n\010EFF12761\020\331c\022\016\n\tEFF_12811\020\213d\022\016\n" +
+      "\tEFF_12812\020\214d\022\016\n\tEFF_12861\020\275d\022\033\n\026EFF_CAN" +
+      "NON_WEIGHT_1255\020\347\t\022\031\n\024EFF_TANK_WEIGHT_12",
+      "56\020\350\t\022\032\n\025EFF_PLANE_WEIGHT_1257\020\351\t\022\031\n\024EFF" +
+      "_FOOT_WEIGHT_1258\020\352\t\022\"\n\035EFF_CANNON_SPEED" +
+      "_MONSTER_1259\020\353\t\022 \n\033EFF_TANK_SPEED_MONST" +
+      "ER_1260\020\354\t\022!\n\034EFF_PLANE_SPEED_MONSTER_12" +
+      "61\020\355\t\022 \n\033EFF_FOOT_SPEED_MONSTER_1262\020\356\t\022" +
+      "\"\n\035EFF_GUILD_REINFORCE_ARMY_1263\020\357\t\022$\n\037E" +
+      "FF_CANNON_SPEED_JOIN_MASS_1264\020\360\t\022\"\n\035EFF" +
+      "_TANK_SPEED_JOIN_MASS_1265\020\361\t\022#\n\036EFF_PLA" +
+      "NE_SPEED_JOIN_MASS_1266\020\362\t\022\"\n\035EFF_FOOT_S" +
+      "PEED_JOIN_MASS_1267\020\363\t\022#\n\036EFF_NATION_HOS",
+      "PITAL_COUNT_1268\020\364\t\022\014\n\007EFF1096\020\310\010\022\r\n\010EFF" +
+      "12721\020\261c\022\r\n\010EFF12722\020\262c\022\r\n\010EFF12723\020\263c\022\r" +
+      "\n\010EFF12724\020\264c\022\r\n\010EFF12725\020\265c\022\r\n\010EFF12726" +
+      "\020\266c\022\r\n\010EFF12727\020\267c\022\r\n\010EFF12728\020\270c\022\r\n\010EFF" +
+      "12729\020\271c\022\r\n\010EFF12730\020\272c\022\r\n\010EFF12731\020\273c\022\r" +
+      "\n\010EFF12741\020\305c\022\r\n\010EFF12742\020\306c\022\r\n\010EFF12743" +
+      "\020\307c\022\r\n\010EFF12744\020\310c\022\r\n\010EFF12745\020\311c\022\r\n\010EFF" +
+      "12746\020\312c\022\016\n\tEFF_12771\020\343c\022\016\n\tEFF_12772\020\344c" +
+      "\022\016\n\tEFF_12773\020\345c\022\016\n\tEFF_12774\020\346c\022\016\n\tEFF_" +
+      "10088\020\350N\022\016\n\tEFF_10089\020\351N\022\016\n\tEFF_10090\020\352N",
+      "\022\016\n\tEFF_10091\020\353N\022\016\n\tEFF_10093\020\355N\022\016\n\tEFF_" +
+      "10094\020\356N\022\016\n\tEFF_10095\020\357N\022\016\n\tEFF_10101\020\365N" +
+      "\022\016\n\tEFF_10106\020\372N\022\016\n\tEFF_10114\020\202O\022\016\n\tEFF_" +
+      "10115\020\203O\022\016\n\tEFF_10116\020\204O\022\016\n\tEFF_10118\020\206O" +
+      "\022\r\n\010EFF_2201\020\231\021\022\r\n\010EFF_2202\020\232\021\022\r\n\010EFF_22" +
+      "03\020\233\021\022\r\n\010EFF_2204\020\234\021\022\r\n\010EFF_2205\020\235\021\022\r\n\010E" +
+      "FF_2206\020\236\021\022\r\n\010EFF_2207\020\237\021\022\r\n\010EFF_2208\020\240\021" +
+      "\022\r\n\010EFF_2209\020\241\021\022\r\n\010EFF_2210\020\242\021\022\r\n\010EFF_22" +
+      "11\020\243\021\022\r\n\010EFF_2212\020\244\021\022\r\n\010EFF_2213\020\245\021\022\r\n\010E" +
+      "FF_2214\020\246\021\022\r\n\010EFF_2215\020\247\021\022\r\n\010EFF_2221\020\255\021",
+      "\022\r\n\010EFF_2222\020\256\021\022\r\n\010EFF_2223\020\257\021\022\r\n\010EFF_21" +
+      "00\020\264\020\022\r\n\010EFF_2111\020\277\020\022\r\n\010EFF_2112\020\300\020\022\r\n\010E" +
+      "FF_2113\020\301\020\022\r\n\010EFF_2114\020\302\020\022\r\n\010EFF_2121\020\311\020" +
+      "\022\r\n\010EFF_2122\020\312\020\022\r\n\010EFF_2123\020\313\020\022\r\n\010EFF_21" +
+      "24\020\314\020\022\r\n\010EFF_2131\020\323\020\022\r\n\010EFF_2132\020\324\020\022\r\n\010E" +
+      "FF_2133\020\325\020\022\r\n\010EFF_2134\020\326\020\022\r\n\010EFF_2141\020\335\020" +
+      "\022\r\n\010EFF_2142\020\336\020\022\r\n\010EFF_2143\020\337\020\022\r\n\010EFF_21" +
+      "44\020\340\020\022\r\n\010EFF_2151\020\347\020\022\r\n\010EFF_2152\020\350\020\022\r\n\010E" +
+      "FF_2153\020\351\020\022\r\n\010EFF_2154\020\352\020\022\r\n\010EFF_2161\020\361\020" +
+      "\022\r\n\010EFF_2162\020\362\020\022\r\n\010EFF_2163\020\363\020\022\r\n\010EFF_21",
+      "64\020\364\020\022\r\n\010EFF_2171\020\373\020\022\r\n\010EFF_2172\020\374\020\022\r\n\010E" +
+      "FF_2173\020\375\020\022\r\n\010EFF_2174\020\376\020\022\r\n\010EFF_2181\020\205\021" +
+      "\022\r\n\010EFF_2182\020\206\021\022\r\n\010EFF_2183\020\207\021\022\r\n\010EFF_21" +
+      "84\020\210\021\022\r\n\010EFF_2101\020\265\020\022\r\n\010EFF_2102\020\266\020\022\r\n\010E" +
+      "FF_2103\020\267\020\022\r\n\010EFF_2104\020\270\020\022\r\n\010EFF_2105\020\271\020" +
+      "\022\r\n\010EFF_2106\020\272\020\022\r\n\010EFF_2107\020\273\020\022\r\n\010EFF_21" +
+      "08\020\274\020\022\r\n\010EFF_2301\020\375\021\022\r\n\010EFF_2302\020\376\021\022\r\n\010E" +
+      "FF_2303\020\377\021\022\r\n\010EFF_2304\020\200\022\022\036\n\031EFF_SPEED_J" +
+      "OIN_MASS_10092\020\354N*\266\r\n\tLimitType\022\034\n\030LIMIT" +
+      "_TYPE_MAIN_BUILDING\020d\022\026\n\022LIMIT_TYPE_SOIL",
+      "DER\020e\022\032\n\026LIMIT_TYPE_WAR_FACTORY\020f\022\"\n\036LIM" +
+      "IT_TYPE_REMOTE_FIRE_FACTORY\020g\022 \n\034LIMIT_T" +
+      "YPE_AIR_FORCE_COMMAND\020h\022\"\n\036LIMIT_TYPE_FI" +
+      "GHTING_LABORATORY\020i\022\026\n\022LIMIT_TYPE_EMBASS" +
+      "Y\020j\022\033\n\027LIMIT_TYPE_TRADE_CENTRE\020k\022\'\n#LIMI" +
+      "T_TYPE_SATELLITE_COMMUNICATIONS\020l\022\'\n#LIM" +
+      "IT_TYPE_EQUIP_RESEARCH_INSTITUTE\020m\022\037\n\033LI" +
+      "MIT_TYPE_FIGHTING_COMMAND\020n\022\032\n\026LIMIT_TYP" +
+      "E_ARMS_DEALER\020o\022\024\n\020LIMIT_TYPE_RADAR\020p\022\034\n" +
+      "\030LIMIT_TYPE_GAP_GENERATOR\020q\022\030\n\024LIMIT_TYP",
+      "E_WAREHOUSE\020r\022\032\n\026LIMIT_TYPE_POWER_PLANT\020" +
+      "s\022\037\n\033LIMIT_TYPE_HOSPITAL_STATION\020t\022\032\n\026LI" +
+      "MIT_TYPE_HELP_PROMPT\020u\022\035\n\031LIMIT_TYPE_RES" +
+      "OURCES_VIEW\020v\022\"\n\036LIMIT_TYPE_SOILDER_DETA" +
+      "IL_FLAG\020w\022\025\n\021LIMIT_TYPE_PRISON\020x\022\035\n\030LIMI" +
+      "T_TYPE_BUIDING_STEEL\020\310\001\022$\n\037LIMIT_TYPE_BU" +
+      "IDING_ORE_REFINING\020\311\001\022 \n\033LIMIT_TYPE_BUID" +
+      "ING_OIL_WELL\020\312\001\022\"\n\035LIMIT_TYPE_BUIDING_RA" +
+      "RE_EARTH\020\313\001\022$\n\037LIMIT_TYPE_BUILDING_PRISM" +
+      "_TOWER\020\255\002\022 \n\033LIMIT_TYPE_BUILDING_PATRIOT",
+      "\020\256\002\022 \n\033LIMIT_TYPE_BUILDING_PILLBOX\020\257\002\022\036\n" +
+      "\032LIMIT_TYPE_ACTIVITY_CENTER\020z\022#\n\037LIMIT_T" +
+      "YPE_SOLDIER_ENHANCE_BASE\020{\022\033\n\027LIMIT_TYPE" +
+      "_PVE_ENTRANCE\020|\022\030\n\024LIMIT_TYPE_HERO_BASE\020" +
+      "}\022\"\n\036LIMIT_TYPE_RES_SOLDIER_FACTORY\020~\022\030\n" +
+      "\024LIMIT_TYPE_CITY_WALL\020\177\022\034\n\027LIMIT_TYPE_WI" +
+      "SHING_WELL\020\200\001\022\025\n\020LIMIT_TYPE_WHARF\020\201\001\022\035\n\030" +
+      "LIMIT_TYPE_FRIENDLY_HALL\020\202\001\022$\n\037LIMIT_TYP" +
+      "E_SOLDIER_CONTROL_HALL\020\203\001\022\031\n\024LIMIT_TYPE_" +
+      "WAR_FORTS\020\204\001\022\034\n\027LIMIT_TYPE_SOLDIER_CAVE\020",
+      "\205\001\022 \n\033LIMIT_TYPE_FOGGY_LABORATORY\020\206\001\022\016\n\t" +
+      "LIMIT_135\020\207\001\022\016\n\tLIMIT_136\020\210\001\022\034\n\027LIMIT_FI" +
+      "RST_AID_STATION\020\211\001\022\027\n\022LIMIT_RESOURCE_HUB" +
+      "\020\212\001\022\"\n\035LIMIT_TYPE_SUER_SOLDIER_BUILD\020\213\001\022" +
+      "\031\n\024LIMIT_SUPER_WP_BUILD\020\214\001\022\031\n\024LIMIT_ARCH" +
+      "IVES_BUILD\020\215\001\022\026\n\021LIMIT_GHOST_TOWER\020\217\001\022\022\n" +
+      "\rLIMIT_OBELISK\020\221\001\022\030\n\023LIMIT_PLANT_FACTORY" +
+      "\020\222\001\022\030\n\023LIMIT_PLANT_SCIENCE\020\223\001\022\031\n\024LIMIT_P" +
+      "LANT_HOSPITAL\020\224\001\022\030\n\023LIMIT_PLANT_ADVANCE\020" +
+      "\225\001\022\030\n\023LIMIT_PLANT_POYISUO\020\226\001\022\031\n\024LIMIT_TO",
+      "UCAI_FACTORY\020\227\001\022\024\n\017LIMIT_MANHATTAN\020\230\001\022\023\n" +
+      "\016LIMIT_HOMELAND\020\231\001*\375\t\n\014BuildingType\022\031\n\024C" +
+      "ONSTRUCTION_FACTORY\020\332\017\022\r\n\010BARRACKS\020\333\017\022\020\n" +
+      "\013WAR_FACTORY\020\334\017\022\030\n\023REMOTE_FIRE_FACTORY\020\335" +
+      "\017\022\026\n\021AIR_FORCE_COMMAND\020\336\017\022\030\n\023FIGHTING_LA" +
+      "BORATORY\020\337\017\022\014\n\007EMBASSY\020\340\017\022\021\n\014TRADE_CENTR" +
+      "E\020\341\017\022\035\n\030SATELLITE_COMMUNICATIONS\020\342\017\022\035\n\030E" +
+      "QUIP_RESEARCH_INSTITUTE\020\343\017\022\025\n\020FIGHTING_C" +
+      "OMMAND\020\344\017\022\020\n\013ARMS_DEALER\020\345\017\022\n\n\005RADAR\020\346\017\022" +
+      "\022\n\rGAP_GENERATOR\020\347\017\022\016\n\tWAREHOUSE\020\350\017\022\020\n\013P",
+      "OWER_PLANT\020\351\017\022\025\n\020HOSPITAL_STATION\020\352\017\022\013\n\006" +
+      "PRISON\020\353\017\022\023\n\016EINSTEIN_LODGE\020\354\017\022\027\n\022ORE_RE" +
+      "FINING_PLANT\020\265\020\022\r\n\010OIL_WELL\020\266\020\022\020\n\013STEEL_" +
+      "PLANT\020\267\020\022\027\n\022RARE_EARTH_SMELTER\020\270\020\022\020\n\013PRI" +
+      "SM_TOWER\020\347\020\022\024\n\017PATRIOT_MISSILE\020\350\020\022\014\n\007PIL" +
+      "LBOX\020\351\020\022\013\n\006CANNON\020\352\020\022\020\n\013HELP_PROMPT\020\231\021\022\023" +
+      "\n\016RESOURCES_VIEW\020\232\021\022\030\n\023SOILDER_DETAIL_FL" +
+      "AG\020\233\021\022\024\n\017ACTIVITY_CENTER\020\235\021\022\031\n\024SOLDIER_E" +
+      "NHANCE_BASE\020\236\021\022\021\n\014PVE_ENTRANCE\020\237\021\022\016\n\tHER" +
+      "O_BASE\020\240\021\022\030\n\023RES_SOLDIER_FACTORY\020\241\021\022\016\n\tC",
+      "ITY_WALL\020\242\021\022\023\n\016DRINKING_HOUSE\020\243\021\022\021\n\014WISH" +
+      "ING_WELL\020\244\021\022\n\n\005WHARF\020\245\021\022\022\n\rFRIENDLY_HALL" +
+      "\020\246\021\022\031\n\024SOLDIER_CONTROL_HALL\020\250\021\022\016\n\tWAR_FO" +
+      "RTS\020\251\021\022\017\n\nCARGO_SHIP\020\252\021\022\025\n\020FOGGY_LABORAT" +
+      "ORY\020\253\021\022\021\n\014SOLDIER_CAVE\020\254\021\022\016\n\tVIP_STORE\020\255" +
+      "\021\022\025\n\020AIRCRAFT_CARRIER\020\256\021\022\026\n\021FIRST_AID_ST" +
+      "ATION\020\257\021\022\021\n\014RESOURCE_HUB\020\260\021\022\027\n\022SUER_SOLD" +
+      "IER_BUILD\020\261\021\022\023\n\016SUPER_WP_BUILD\020\262\021\022\021\n\014ARM" +
+      "OUR_BUILD\020\263\021\022\023\n\016ARCHIVES_BUILD\020\264\021\022\020\n\013GHO" +
+      "ST_TOWER\020\266\021\022\014\n\007OBELISK\020\270\021\022\022\n\rPLANT_FACTO",
+      "RY\020\271\021\022\022\n\rPLANT_SCIENCE\020\272\021\022\023\n\016PLANT_HOSPI" +
+      "TAL\020\273\021\022\022\n\rPLANT_ADVANCE\020\274\021\022\022\n\rPLANT_POYI" +
+      "SUO\020\275\021\022\023\n\016TOUCAI_FACTORY\020\276\021\022\016\n\tMANHATTAN" +
+      "\020\277\021\022\r\n\010HOMELAND\020\300\021*;\n\016QueueBuildType\022\023\n\017" +
+      "COMMON_BUILDING\020\001\022\024\n\020DEFENCE_BUILDING\020\002*" +
+      "\347\004\n\016BuildingStatus\022\n\n\006COMMON\020\000\022\023\n\017SOILDE" +
+      "R_HARVEST\020\001\022\023\n\017SOLDIER_WOUNDED\020\002\022\027\n\023CURE" +
+      "_FINISH_HARVEST\020\003\022\013\n\007DAMAGED\020\004\022\023\n\017READY_" +
+      "TO_CREATE\020\005\022\026\n\022ENHANCE_BASE_STATE\020\006\022\020\n\014H" +
+      "ERO_HARVEST\020\007\022\027\n\023RES_SOLDIER_HARVEST\020\010\022\022",
+      "\n\016PVE_BASE_STATE\020\t\022\020\n\014TRAP_HARVEST\020\n\022\032\n\026" +
+      "CITYWALL_ONFIRE_STATUS\020\013\022\033\n\027CITYWALL_DAM" +
+      "AGED_STATUS\020\014\022\025\n\021BUILDING_CREATING\020\r\022\027\n\023" +
+      "RES_MINERAL_HARVEST\020\016\022\024\n\020TRAVEL_SHOP_LIF" +
+      "E\020\017\022\020\n\014WISHING_FREE\020\020\022\024\n\020HAS_FRIEND_APPL" +
+      "Y\020\021\022\024\n\020MATERIAL_HARVEST\020\022\022\025\n\021GUILD_HELP_" +
+      "STATUS\020\023\022\027\n\023TRAVEL_SHOP_REFRESH\020\024\022\036\n\032FIR" +
+      "ST_AID_BUILDING_RECOVER\020\025\022\036\n\032FIRST_AID_B" +
+      "UILDING_HARVEST\020\026\022\024\n\020TIME_LIMIT_STORE\020\027\022" +
+      "\031\n\025PLANT_SOLDIER_WOUNDED\020\030\022\035\n\031PLANT_CURE",
+      "_FINISH_HARVEST\020\031*\205\002\n\013QueueStatus\022\027\n\023QUE" +
+      "UE_STATUS_COMMON\020\000\022\030\n\024QUEUE_STATUS_UPGRA" +
+      "DE\020\001\022\027\n\023QUEUE_STATUS_REPAIR\020\002\022\027\n\023QUEUE_G" +
+      "UILD_SCIENCE\020\003\022\030\n\024QUEUE_STATUS_REBUILD\020\004" +
+      "\022\023\n\017QUEUE_HERO_CURE\020\005\022\024\n\020QUEUE_HERO_TRAI" +
+      "N\020\006\022\027\n\023QUEUE_STATUS_CREATE\020\007\022\027\n\023QUEUE_ST" +
+      "ATUS_REMOVE\020\010\022\032\n\026QUEUE_BUILDING_RECOVER\020" +
+      "\t*\313\004\n\tQueueType\022\022\n\016BUILDING_QUEUE\020\001\022\024\n\020B" +
+      "UILDING_DEFENER\020\002\022\021\n\rSCIENCE_QUEUE\020\003\022\021\n\r" +
+      "SOILDER_QUEUE\020\004\022\016\n\nCURE_QUEUE\020\005\022\017\n\013EQUIP",
+      "_QUEUE\020\006\022\017\n\013MARCH_QUEUE\020\007\022\027\n\023GUILD_SCIEN" +
+      "CE_QUEUE\020\010\022\030\n\024NUCLEAR_CREATE_QUEUE\020\t\022\031\n\025" +
+      "NUCLEAR_MACHINE_QUEUE\020\n\022\016\n\nHERO_QUEUE\020\013\022" +
+      "\016\n\nTRAP_QUEUE\020\014\022\031\n\025SOLDIER_ADVANCE_QUEUE" +
+      "\020\r\022\027\n\023GUILD_HOSPICE_QUEUE\020\016\022\023\n\017FOGGY_BOX" +
+      "_QUEUE\020\017\022\024\n\020YURISTRIKE_CLEAN\020\020\022\032\n\026BUILDI" +
+      "NG_RECOVER_QUEUE\020\021\022\024\n\020CROSS_TECH_QUEUE\020\022" +
+      "\022\030\n\024EQUIP_RESEARCH_QUEUE\020\023\022\027\n\023PLANT_SCIE" +
+      "NCE_QUEUE\020\024\022\027\n\023PLANT_ADVANCE_QUEUE\020\025\022\024\n\020" +
+      "CURE_PLANT_QUEUE\020\026\022\035\n\031NATIONAL_HOSPITAL_",
+      "RECOVER\020\027\022\"\n\036NATIONAL_HOSPITAL_TSZZ_RECO" +
+      "VER\020\030\022\030\n\024ACTIVITY_378_RECOVER\020\031*I\n\016Guild" +
+      "Authority\022\006\n\002L0\020\000\022\006\n\002L1\020\001\022\006\n\002L2\020\002\022\006\n\002L3\020" +
+      "\003\022\006\n\002L4\020\004\022\006\n\002L5\020\005\022\007\n\003L14\020\016*\243\002\n\013SoldierTy" +
+      "pe\022\022\n\016XXXXXXXXXXXMAN\020\000\022\022\n\016TANK_SOLDIER_1" +
+      "\020\001\022\022\n\016TANK_SOLDIER_2\020\002\022\023\n\017PLANE_SOLDIER_" +
+      "3\020\003\022\023\n\017PLANE_SOLDIER_4\020\004\022\022\n\016FOOT_SOLDIER" +
+      "_5\020\005\022\022\n\016FOOT_SOLDIER_6\020\006\022\024\n\020CANNON_SOLDI" +
+      "ER_7\020\007\022\024\n\020CANNON_SOLDIER_8\020\010\022\020\n\014BARTIZAN" +
+      "_100\020d\022\027\n\023WEAPON_LANDMINE_101\020e\022\025\n\021WEAPO",
+      "N_ACKACK_102\020f\022\030\n\024WEAPON_ANTI_TANK_103\020g" +
+      "*\366\026\n\016PBSoldierSkill\022\032\n\026TANK_SOLDIER_1_SK" +
+      "ILL_1\020e\022\032\n\026TANK_SOLDIER_1_SKILL_2\020f\022\032\n\026T" +
+      "ANK_SOLDIER_1_SKILL_3\020g\022\032\n\026TANK_SOLDIER_" +
+      "1_SKILL_4\020h\022\032\n\026TANK_SOLDIER_1_SKILL_5\020i\022" +
+      "\034\n\027TANK_SOLDIER_1_SKILL_66\020\246\001\022\034\n\027TANK_SO" +
+      "LDIER_1_SKILL_34\020\206\001\022\034\n\027TANK_SOLDIER_1_SK" +
+      "ILL_44\020\220\001\022\033\n\026TANK_SOLDIER_2_SKILL_1\020\311\001\022\033" +
+      "\n\026TANK_SOLDIER_2_SKILL_2\020\312\001\022\033\n\026TANK_SOLD" +
+      "IER_2_SKILL_3\020\313\001\022\034\n\027TANK_SOLDIER_2_SKILL",
+      "_66\020\212\002\022\034\n\027TANK_SOLDIER_2_SKILL_34\020\352\001\022\034\n\027" +
+      "TANK_SOLDIER_2_SKILL_44\020\364\001\022\034\n\027PLANE_SOLD" +
+      "IER_3_SKILL_1\020\255\002\022\034\n\027PLANE_SOLDIER_3_SKIL" +
+      "L_2\020\256\002\022\034\n\027PLANE_SOLDIER_3_SKILL_3\020\257\002\022\035\n\030" +
+      "PLANE_SOLDIER_3_SKILL_66\020\356\002\022\035\n\030PLANE_SOL" +
+      "DIER_3_SKILL_34\020\316\002\022\035\n\030PLANE_SOLDIER_3_SK" +
+      "ILL_44\020\330\002\022\034\n\027PLANE_SOLDIER_4_SKILL_1\020\221\003\022" +
+      "\034\n\027PLANE_SOLDIER_4_SKILL_2\020\222\003\022\034\n\027PLANE_S" +
+      "OLDIER_4_SKILL_3\020\223\003\022\035\n\030PLANE_SOLDIER_4_S" +
+      "KILL_66\020\322\003\022\035\n\030PLANE_SOLDIER_4_SKILL_34\020\262",
+      "\003\022\035\n\030PLANE_SOLDIER_4_SKILL_44\020\274\003\022\033\n\026FOOT" +
+      "_SOLDIER_5_SKILL_1\020\365\003\022\033\n\026FOOT_SOLDIER_5_" +
+      "SKILL_2\020\366\003\022\033\n\026FOOT_SOLDIER_5_SKILL_3\020\367\003\022" +
+      "\033\n\026FOOT_SOLDIER_5_SKILL_4\020\370\003\022\033\n\026FOOT_SOL" +
+      "DIER_5_SKILL_5\020\371\003\022\033\n\026FOOT_SOLDIER_5_SKIL" +
+      "L_7\020\373\003\022\034\n\027FOOT_SOLDIER_5_SKILL_66\020\266\004\022\034\n\027" +
+      "FOOT_SOLDIER_5_SKILL_34\020\226\004\022\034\n\027FOOT_SOLDI" +
+      "ER_5_SKILL_44\020\240\004\022\033\n\026FOOT_SOLDIER_6_SKILL" +
+      "_1\020\331\004\022\033\n\026FOOT_SOLDIER_6_SKILL_2\020\332\004\022\033\n\026FO" +
+      "OT_SOLDIER_6_SKILL_3\020\333\004\022\033\n\026FOOT_SOLDIER_",
+      "6_SKILL_5\020\335\004\022\034\n\027FOOT_SOLDIER_6_SKILL_66\020" +
+      "\232\005\022\034\n\027FOOT_SOLDIER_6_SKILL_34\020\372\004\022\034\n\027FOOT" +
+      "_SOLDIER_6_SKILL_44\020\204\005\022\035\n\030CANNON_SOLDIER" +
+      "_7_SKILL_1\020\275\005\022\035\n\030CANNON_SOLDIER_7_SKILL_" +
+      "2\020\276\005\022\035\n\030CANNON_SOLDIER_7_SKILL_3\020\277\005\022\035\n\030C" +
+      "ANNON_SOLDIER_7_SKILL_5\020\301\005\022\036\n\031CANNON_SOL" +
+      "DIER_7_SKILL_66\020\376\005\022\036\n\031CANNON_SOLDIER_7_S" +
+      "KILL_34\020\336\005\022\036\n\031CANNON_SOLDIER_7_SKILL_44\020" +
+      "\350\005\022\035\n\030CANNON_SOLDIER_8_SKILL_1\020\241\006\022\035\n\030CAN" +
+      "NON_SOLDIER_8_SKILL_2\020\242\006\022\035\n\030CANNON_SOLDI",
+      "ER_8_SKILL_3\020\243\006\022\036\n\031CANNON_SOLDIER_8_SKIL" +
+      "L_66\020\342\006\022\036\n\031CANNON_SOLDIER_8_SKILL_34\020\302\006\022" +
+      "\036\n\031CANNON_SOLDIER_8_SKILL_44\020\314\006\022\031\n\024BARTI" +
+      "ZAN_100_SKILL_1\020\221N\022\032\n\025BARTIZAN_100_SKILL" +
+      "_66\020\322N\022 \n\033WEAPON_LANDMINE_101_SKILL_1\020\365N" +
+      "\022!\n\034WEAPON_LANDMINE_101_SKILL_66\020\266O\022\036\n\031W" +
+      "EAPON_ACKACK_102_SKILL_1\020\331O\022\037\n\032WEAPON_AC" +
+      "KACK_102_SKILL_66\020\232P\022!\n\034WEAPON_ANTI_TANK" +
+      "_103_SKILL_1\020\275P\022\"\n\035WEAPON_ANTI_TANK_103_" +
+      "SKILL_66\020\376P\022\025\n\021SOLDIER_SKILL_114\020r\022\026\n\021SO",
+      "LDIER_SKILL_214\020\326\001\022\026\n\021SOLDIER_SKILL_314\020" +
+      "\272\002\022\026\n\021SOLDIER_SKILL_414\020\236\003\022\026\n\021SOLDIER_SK" +
+      "ILL_514\020\202\004\022\026\n\021SOLDIER_SKILL_614\020\346\004\022\026\n\021SO" +
+      "LDIER_SKILL_714\020\312\005\022\026\n\021SOLDIER_SKILL_814\020" +
+      "\256\006\022\026\n\021SOLDIER_SKILL_224\020\340\001\022\025\n\021SOLDIER_SK" +
+      "ILL_124\020|\022\026\n\021SOLDIER_SKILL_424\020\250\003\022\026\n\021SOL" +
+      "DIER_SKILL_324\020\304\002\022\026\n\021SOLDIER_SKILL_624\020\360" +
+      "\004\022\026\n\021SOLDIER_SKILL_524\020\214\004\022\026\n\021SOLDIER_SKI" +
+      "LL_824\020\270\006\022\026\n\021SOLDIER_SKILL_724\020\324\005\022\030\n\023SOL" +
+      "DIER_SKILL_14101\020\215\001\022\030\n\023SOLDIER_SKILL_241",
+      "01\020\361\001\022\030\n\023SOLDIER_SKILL_34101\020\325\002\022\030\n\023SOLDI" +
+      "ER_SKILL_44101\020\271\003\022\030\n\023SOLDIER_SKILL_54101" +
+      "\020\235\004\022\030\n\023SOLDIER_SKILL_64101\020\201\005\022\030\n\023SOLDIER" +
+      "_SKILL_74101\020\345\005\022\030\n\023SOLDIER_SKILL_84101\020\311" +
+      "\006\022\030\n\023SOLDIER_SKILL_14501\020\221\001\022\030\n\023SOLDIER_S" +
+      "KILL_24501\020\365\001\022\030\n\023SOLDIER_SKILL_34501\020\331\002\022" +
+      "\030\n\023SOLDIER_SKILL_44501\020\275\003\022\030\n\023SOLDIER_SKI" +
+      "LL_54501\020\241\004\022\030\n\023SOLDIER_SKILL_64501\020\205\005\022\030\n" +
+      "\023SOLDIER_SKILL_74501\020\351\005\022\030\n\023SOLDIER_SKILL" +
+      "_84501\020\315\006\022\030\n\023SOLDIER_SKILL_14601\020\222\001\022\030\n\023S",
+      "OLDIER_SKILL_24601\020\366\001\022\030\n\023SOLDIER_SKILL_3" +
+      "4601\020\332\002\022\030\n\023SOLDIER_SKILL_44601\020\276\003\022\030\n\023SOL" +
+      "DIER_SKILL_54601\020\242\004\022\030\n\023SOLDIER_SKILL_646" +
+      "01\020\206\005\022\030\n\023SOLDIER_SKILL_74601\020\352\005\022\030\n\023SOLDI" +
+      "ER_SKILL_84601\020\316\006*f\n\014ResourceZone\022\n\n\006ZON" +
+      "E_1\020\001\022\n\n\006ZONE_2\020\002\022\n\n\006ZONE_3\020\003\022\n\n\006ZONE_4\020" +
+      "\004\022\n\n\006ZONE_5\020\005\022\n\n\006ZONE_6\020\006\022\016\n\nZONE_BLACK\020" +
+      "\007*4\n\014GuildPositon\022\n\n\006LEADER\020\001\022\014\n\010COLEADE" +
+      "R\020\002\022\n\n\006MEMBER\020\003*!\n\tGoodsType\022\n\n\006NORMAL\020\001" +
+      "\022\010\n\004GIFT\020\002*E\n\014GuildWarType\022\021\n\rGUILDWAR_M",
+      "ASS\020\001\022\020\n\014GUILDWAR_DFC\020\002\022\020\n\014GUILDWAR_ATK\020" +
+      "\003*\223\002\n\025RoundTaskActivityType\022\031\n\025BUILDING_" +
+      "CREATE_EVENT\020\001\022\032\n\026BUILDING_UPGRADE_EVENT" +
+      "\020\002\022\027\n\023TRAIN_SOLDIER_EVENT\020\003\022\034\n\030ATTACK_MO" +
+      "NSTER_WON_EVENT\020\004\022\031\n\025WIPEOUT_MONSTER_EVE" +
+      "NT\020\005\022\025\n\021COLLECT_RES_EVENT\020\006\022\027\n\023ATTACK_PL" +
+      "AYER_EVENT\020\007\022!\n\035ATTACK_SUPERMONSTER_WON_" +
+      "EVENT\020\010\022\036\n\032WIPEOUT_SUPERMONSTER_EVENT\020\t*" +
+      "\320\002\n\rTerritoryType\022\021\n\rGUILD_BASTION\020\001\022\016\n\n" +
+      "GUILD_SILO\020\002\022\021\n\rGUILD_URANIUM\020\003\022\021\n\rGUILD",
+      "_WEATHER\020\004\022\022\n\016GUILD_ELECTRIC\020\005\022\022\n\016GUILD_" +
+      "HOSPITAL\020\006\022\016\n\nGUILD_SHOP\020\007\022\016\n\nGUILD_MINE" +
+      "\020\010\022\020\n\014GUILD_CANNON\020\t\022\020\n\014GUILD_STATUE\020\n\022\032" +
+      "\n\026GUILD_MOVABLE_BUILDING\020\013\022\022\n\016GUILD_BART" +
+      "IZAN\020\014\022\024\n\020GUILD_STOREHOUSE\020\r\022\022\n\016GUILD_WA" +
+      "R_FLAG\020\016\022\031\n\025GUILD_CENTER_WAR_FLAG\020\017\022\025\n\021G" +
+      "UILD_DRAGON_TRAP\020\020*-\n\021TerritoryBuilding\022" +
+      "\013\n\007NUCLEAR\020z\022\013\n\007WEATHER\020{*\266\n\n\013PushMsgTyp" +
+      "e\022\033\n\027BUILDING_QUEUE_FINISHED\020\013\022\032\n\026SOILDE" +
+      "R_QUEUE_FINISHED\020\014\022\027\n\023CURE_QUEUE_FINISHE",
+      "D\020\r\022\032\n\026SCIENCE_QUEUE_FINISHED\020\016\022$\n SOILD" +
+      "ER_PROMOTION_QUEUE_FINISHED\020\017\022\017\n\013BE_ATTA" +
+      "CKED\020\025\022\017\n\013BE_DETECTED\020\026\022\r\n\tBE_MASSED\020\027\022\024" +
+      "\n\020RES_COLLECT_PUSH\020\037\022\034\n\030PLANT_RESOURCE_F" +
+      "ULL_PUSH\020 \022\025\n\021WHARF_REWARD_PUSH\020)\022\034\n\030ALL" +
+      "IANCE_TREASURE_REWARD\020*\022\030\n\024DAILY_LOGIN_A" +
+      "CTIVITY\020+\022\033\n\027ALLIANCE_ASSISTANCE_RES\0203\022\034" +
+      "\n\030ALLIANCE_ASSISTANCE_ARMY\0204\022\013\n\007NEW_MSG\020" +
+      "=\022\024\n\020ALLIANCE_NEW_MSG\020G\022\026\n\022YURI_ACTIVITY" +
+      "_OPEN\020Q\022\024\n\020WORLD_BOX_CD_END\020R\022\030\n\024ALLIANC",
+      "E_MASSED_BOSS\020[\022\032\n\026ALLIANCE_MASSED_PLAYE" +
+      "R\020\\\022\031\n\025ALLIANCE_MASSED_FOGGY\020]\022\032\n\026ASSIST" +
+      "ANCE_ARMY_RETURN\020e\022\031\n\025COLLECT_ARMY_RETUR" +
+      "NED\020f\022\027\n\023ACTTACK_ARMY_RETURN\020g\022\034\n\030ACTTAC" +
+      "K_BOSS_ARMY_RETURN\020h\022\020\n\014ARMY_ARRIVED\020i\022\034" +
+      "\n\030ATTACK_FOGGY_ARMY_RETURN\020j\022\022\n\016PROTECT_" +
+      "10_END\020o\022\017\n\013PROTECT_END\020p\022\026\n\022OFFLINE_TIM" +
+      "E_REACH\020y\022\030\n\024SOLDIERCAVE_WILL_END\020z\022\023\n\017S" +
+      "OLDIERCAVE_END\020{\022\022\n\rANCHOR_ONLINE\020\215\001\022\031\n\024" +
+      "COLLEGE_INVITE_LOGIN\020\216\001\022\026\n\021TIBERIUM_ACT_",
+      "OPEN\020\227\001\022\026\n\021WAR_ZONE_WAR_OPEN\020\230\001\022!\n\034ALLIE" +
+      "D_HEADQUARTERS_WAR_OPEN\020\231\001\022\022\n\rSTAR_WAR_O" +
+      "PEN\020\232\001\022\031\n\024LOSS_PLAYER_PUSH_ONE\020\233\001\022\031\n\024LOS" +
+      "S_PLAYER_PUSH_TWO\020\234\001\022\033\n\026LOSS_PLAYER_PUSH" +
+      "_THREE\020\235\001\022\033\n\026LOSS_FRIEND_APPLY_PUSH\020\236\001\022\032" +
+      "\n\025LOSS_GAME_FRIEND_PUSH\020\237\001\022\036\n\031LOSS_PLATF" +
+      "ORM_FRIEND_PUSH\020\240\001\022\032\n\025RESOURCE_DEFENSE_P" +
+      "USH\020\241\001\022)\n$ACT_DOUBLE_TWELVE_LIMITED_SPIK" +
+      "E_PUSH\020\242\001\022\023\n\016TOUCAI_BEI_TOU\020\243\001\022\025\n\020TOUCAI" +
+      "_PRODUCT_1\020\244\001\022\025\n\020TOUCAI_PRODUCT_2\020\245\001\022\025\n\020",
+      "TOUCAI_PRODUCT_3\020\246\001\022\025\n\020TOUCAI_PRODUCT_4\020" +
+      "\247\001*\217\002\n\025SpeedUpTimeWeightType\022\030\n\024TIME_WEI" +
+      "GHT_BUILDING\020\001\022\034\n\030TIME_WEIGHT_TRAINSOLDI" +
+      "ER\020\002\022\033\n\027TIME_WEIGHT_CURESOLDIER\020\003\022\030\n\024TIM" +
+      "E_WEIGHT_CUREHERO\020\004\022\031\n\025TIME_WEIGHT_TRAIN" +
+      "HERO\020\005\022\032\n\026TIME_WEIGHT_TECHNOLOGY\020\006\022\027\n\023SP" +
+      "EEDUP_COEFFICIENT\020\007\022\023\n\017EQUIP_OPERATION\020\010" +
+      "\022\016\n\nHERO_TRIAL\020\t\022\022\n\016EQUIP_RESEARCH\020\n*@\n\031" +
+      "AllianceMemberContentType\022\020\n\014SelfAllianc" +
+      "e\020\000\022\021\n\rOtherAlliance\020\001B\030\n\026com.hawk.game.",
+      "protocol"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =
       new com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner() {

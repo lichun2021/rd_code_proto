@@ -45,8 +45,16 @@ if errorlevel 1 goto return
 
 @echo publish gameprotocol.jar ...
 
-xcopy /Y Protobuf\Java\build\libs\gameprotocol.jar ..\GameServer\lib
+set SERVER_ROOT=..\..\Code_Server\1.4.109
+if not exist "%SERVER_ROOT%\GameServer\lib" set SERVER_ROOT=..\..
+
+xcopy /Y Protobuf\Java\build\libs\gameprotocol.jar "%SERVER_ROOT%\GameServer\lib\"
 if errorlevel 1 goto return
+if exist "%SERVER_ROOT%\Protocol\Protobuf\Java\build\libs" xcopy /Y Protobuf\Java\build\libs\gameprotocol.jar "%SERVER_ROOT%\Protocol\Protobuf\Java\build\libs\"
+if exist "%SERVER_ROOT%\Publish\lib" xcopy /Y Protobuf\Java\build\libs\gameprotocol.jar "%SERVER_ROOT%\Publish\lib\"
+if exist "%SERVER_ROOT%\GameActivity\lib" xcopy /Y Protobuf\Java\build\libs\gameprotocol.jar "%SERVER_ROOT%\GameActivity\lib\"
+if exist "%SERVER_ROOT%\GameRobot\lib" xcopy /Y Protobuf\Java\build\libs\gameprotocol.jar "%SERVER_ROOT%\GameRobot\lib\"
+if exist "%SERVER_ROOT%\RaolRobot\lib" xcopy /Y Protobuf\Java\build\libs\gameprotocol.jar "%SERVER_ROOT%\RaolRobot\lib\"
 
 @echo build success!
 
